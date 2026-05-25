@@ -13,7 +13,6 @@
 ### Hero Section
 # Trusted Panel Beaters in Papatoetoe for Stress-Free Repairs
 
-#### Professional collision repairs, resprays, and panel beating.
 At Smooth Auto Panel & Paint, we restore passenger cars, commercial vans, and heavy trucks to factory standards at our East Tamaki Road workshop.
 *   **Free Courtesy Cars** 
 *   **Direct Claims Handling** 
