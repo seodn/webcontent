@@ -508,26 +508,7 @@ p {
   transform: scale(1.05);
 }
 
-/* Bicultural Language Switcher Toggle */
-.lang-toggle-btn {
-  font-size: 0.85rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  border: 1.5px solid var(--border-color);
-  background: var(--bg-surface);
-  color: var(--brand-primary);
-  padding: 6px 12px;
-  border-radius: var(--radius-sm);
-  cursor: pointer;
-  transition: all var(--transition-normal);
-}
-
-.lang-toggle-btn:hover {
-  background: var(--brand-secondary);
-  color: var(--text-inverse);
-  border-color: var(--brand-secondary);
-}
+/* Lang toggle button removed */
 
 .menu-trigger {
   display: none;

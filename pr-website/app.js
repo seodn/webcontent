@@ -1,274 +1,178 @@
 /* ==========================================================================
-   PR WEBSITE - DYNAMIC ENGINE
-   Theme: Aotearoa PR Portal / The Press Release NZ
-   Features: Bicultural Engine, Theme Toggles, Autocomplete, Modal Wizard, Countups
+   PR WEBSITE - DYNAMIC ENGINE (BRITISH ENGLISH EDITION)
+   Theme: NZ Business PR Platform / The Press Release
+   Features: British English, 8 Premium Categories, Autocomplete Search, Submission Modal
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // --- DATABASE: HIGH-FIDELITY NEW ZEALAND NEWS ARTICLES ---
+  // --- DATABASE: HIGH-FIDELITY NEW ZEALAND NEWS ARTICLES (BRITISH ENGLISH) ---
   const newsDatabase = [
     {
       id: "news-1",
-      title: "AI-powered fintech startup secures $12M Series A funding",
-      titleTeReo: "Kua riro i tētahi kaipakihi hangarau putea AI he $12M mō te wāhanga A",
+      title: "AI-powered fintech startup secures £12M Series A funding",
       kicker: "Auckland / Fintech",
-      kickerTeReo: "Tāmaki Makaurau / Hangarau Putea",
-      summary: "Leading AI fintech platform announces major funding round to accelerate product development and expand across Asia-Pacific markets.",
-      summaryTeReo: "E pānui ana tēnei papaa-nui hangarau putea AI i tētahi karahatanga putea nui hei whakahohoro i te hanganga hua me te whakawhānui i ngā maakete o Āhia-Pāpāho.",
+      summary: "Leading AI fintech platform announces major funding round to accelerate product development and expand operations across Asia-Pacific markets.",
       category: "technology",
       region: "auckland",
-      date: "20 May 2026",
+      date: "25 May 2026",
       readTime: "4 min read",
       tags: ["Technology", "Startup", "Fintech"]
     },
     {
       id: "news-2",
       title: "Enterprise software company reaches $100M ARR milestone",
-      titleTeReo: "Kua hipa i te kamupene raupaparorohiko te taumata $100M ARR",
       kicker: "Wellington / SaaS",
-      kickerTeReo: "Te Whanganui-a-Tara / SaaS",
-      summary: "Leading workplace collaboration platform announces record growth, announces three new product lines, and expands leadership team across EMEA and APAC regions.",
-      summaryTeReo: "E pānui ana tēnei papaa-nui mahi tahi i te tipunga rekoata, toru ngā hua hou, me te whakawhānui i te roopu kaiārahi puta noa i ngā rohe EMEA me APAC.",
-      category: "business",
+      summary: "Leading workplace collaboration platform announces record growth, launches three new product lines, and expands leadership team across EMEA and APAC regions.",
+      category: "technology",
       region: "wellington",
-      date: "20 May 2026",
+      date: "24 May 2026",
       readTime: "6 min read",
       tags: ["SaaS", "Growth", "Business"]
     },
     {
       id: "news-3",
-      title: "Real estate tech startup launches new valuation platform",
-      titleTeReo: "E whakarewa ana te pakihi hangarau rawa i tētahi papaa-nui hou",
+      title: "Real estate tech startup launches new automated valuation platform",
       kicker: "Christchurch / Property",
-      kickerTeReo: "Ōtautahi / Rawa",
-      summary: "Streamlined property assessment tool now available across all major NZ markets.",
-      summaryTeReo: "Kua wātea ināianei te taputapu aromatawai rawa tere puta noa i ngā maakete matua katoa o Aotearoa.",
+      summary: "Streamlined property assessment tool and optimised valuation features are now available across all major New Zealand metropolitan markets.",
       category: "business",
       region: "canterbury",
-      date: "20 May 2026",
+      date: "23 May 2026",
       readTime: "3 min read",
       tags: ["Property", "Innovation", "Business"]
     },
     {
       id: "news-4",
-      title: "Industrial supplier announces sustainability initiative",
-      titleTeReo: "E pānui ana te kaiwhakarato ahumahi i te kaupapa whakakaupapa",
+      title: "Industrial supplier announces carbon-neutral operations initiative",
       kicker: "Hamilton / Manufacturing",
-      kickerTeReo: "Kirikiriroa / Ahumahi",
-      summary: "Carbon-neutral operations milestone reached across all facilities.",
-      summaryTeReo: "Kua eke ki te taumata waro-kore mō ngā mahi puta noa i ngā whare katoa.",
+      summary: "Carbon-neutral operations milestone reached across all facilities as part of a major eco-conscious green manufacturing programme.",
       category: "environment",
       region: "waikato",
-      date: "20 May 2026",
+      date: "22 May 2026",
       readTime: "2 min read",
       tags: ["Manufacturing", "Green", "Environment"]
     },
     {
       id: "news-5",
-      title: "Coastal port operator invests in automation",
-      titleTeReo: "E whakangao ana te kaiwhakahaere tauranga i te aunoatanga",
+      title: "Coastal harbour operator invests in cargo automation programme",
       kicker: "Tauranga / Logistics",
-      kickerTeReo: "Tauranga / Waka",
-      summary: "$50M infrastructure upgrade to boost throughput and efficiency.",
-      summaryTeReo: "He $50M te whakahoutanga hanganga hei whakanui i te tere me te pai o ngā mahi.",
+      summary: "A massive £50M infrastructure upgrade has been finalised to boost throughput and logistical efficiency at the Bay of Plenty port.",
       category: "business",
       region: "bay-of-plenty",
-      date: "20 May 2026",
+      date: "21 May 2026",
       readTime: "5 min read",
       tags: ["Logistics", "Investment", "Business"]
     },
     {
       id: "news-6",
-      title: "EdTech platform launches AI-powered learning engine",
-      titleTeReo: "Kei te whakarewahia e te EdTech te miihini ako a AI",
+      title: "EdTech platform launches AI-powered personalised learning engine",
       kicker: "Auckland / Technology",
-      kickerTeReo: "Tāmaki Makaurau / Hangarau",
-      summary: "Personalized education technology now serving over 100,000 students across NZ.",
-      summaryTeReo: "E mahi ana te hangarau mātauranga pēnei mō te 100,000+ tauira puta noa i Aotearoa.",
+      summary: "Personalised education technology utilising optimised machine learning is now serving over 100,000 students across New Zealand secondary schools.",
       category: "technology",
       region: "auckland",
-      date: "19 May 2026",
+      date: "20 May 2026",
       readTime: "4 min read",
       tags: ["EdTech", "AI", "Technology"]
     },
     {
       id: "news-7",
-      title: "Management consulting firm opens APAC hub",
-      titleTeReo: "Kua whakatuwherahia e te kamupene kaiārahi he pokapū APAC",
+      title: "Management consulting firm opens regional APAC advisory hub",
       kicker: "Wellington / Business",
-      kickerTeReo: "Te Whanganui-a-Tara / Pakihi",
-      summary: "Strategic expansion brings offshore talent to domestic operations.",
-      summaryTeReo: "Kei te kumea mai ngā pukenga rāwaho ki ngā mahi kāinga i tēnei whakawhānuitanga rautaki.",
+      summary: "Strategic expansion brings highly specialised offshore advisory talent directly into domestic management consulting operations.",
       category: "business",
       region: "wellington",
-      date: "18 May 2026",
+      date: "19 May 2026",
       readTime: "3 min read",
       tags: ["Expansion", "Corporate", "Business"]
     },
     {
       id: "news-8",
-      title: "Medical device company secures regulatory approval",
-      titleTeReo: "Kua whiwhi te kamupene taputapu rongoā i te whakaaetanga",
+      title: "Medical device manufacturer secures urgent regulatory approval",
       kicker: "Christchurch / Healthcare",
-      kickerTeReo: "Ōtautahi / Hauora",
-      summary: "FDA clearance enables international distribution starting Q3 2026.",
-      summaryTeReo: "Ma te whakaaetanga FDA ka taea te tohatoha ki te ao katoa mai i te hauwhā tuatoru o 2026.",
-      category: "lifestyle",
+      summary: "Formal international healthcare clearance enables worldwide distribution of Canterbury-developed therapeutic devices starting Q3 2026.",
+      category: "health",
       region: "canterbury",
-      date: "17 May 2026",
+      date: "18 May 2026",
       readTime: "5 min read",
-      tags: ["Healthcare", "FDA", "Lifestyle"]
+      tags: ["Healthcare", "Approval", "Medical"]
     },
     {
       id: "news-9",
-      title: "Local manufacturer partners with global brand",
-      titleTeReo: "Kei te hono te kaihanga kāinga ki tētahi tohu o te ao",
-      kicker: "Hamilton / Partnership",
-      kickerTeReo: "Kirikiriroa / Hononga",
-      summary: "Five-year supply agreement supports local economy and jobs.",
-      summaryTeReo: "He whakaaetanga tuku rima tau e tautoko ana i te pūnaha ohaoha me ngā mahi o te kāinga.",
-      category: "business",
+      title: "Local primary sector cooperative partners with global export brand",
+      kicker: "Hamilton / Agribusiness",
+      summary: "Five-year export supply agreement supports Waikato agribusiness growth and secures hundreds of local farming jobs.",
+      category: "agribusiness",
       region: "waikato",
-      date: "16 May 2026",
+      date: "17 May 2026",
       readTime: "4 min read",
-      tags: ["Partnership", "Trade", "Business"]
+      tags: ["Agribusiness", "Trade", "Farming"]
     },
     {
       id: "news-10",
-      title: "Food producer achieves carbon neutrality goal",
-      titleTeReo: "Kua eke te kaihanga kai ki te taumata waro-kore",
-      kicker: "Dunedin / Sustainability",
-      kickerTeReo: "Ōtepoti / Whakakaupapa",
-      summary: "Renewable energy transition completed ahead of schedule.",
-      summaryTeReo: "Kua oti te whakawhitinga ki ngā pūngao whakahou i mua i te wā i whakaritea.",
+      title: "Wānaka food producer achieves carbon neutrality milestone",
+      kicker: "Wānaka / Food & Beverage",
+      summary: "Transition to 100% renewable energy completed ahead of schedule at the Otago sustainable production facility.",
       category: "environment",
       region: "otago",
-      date: "15 May 2026",
+      date: "16 May 2026",
       readTime: "3 min read",
       tags: ["Food", "Carbon-Neutral", "Environment"]
     },
     {
       id: "news-11",
-      title: "Tourism operator wins industry excellence award",
-      titleTeReo: "Kua riro i te kaiwhakahaere ferahinga te tohu kairangi ahumahi",
-      kicker: "Queenstown / Awards",
-      kickerTeReo: "Queenstown / Tohu",
-      summary: "Adventure company recognized for innovation and safety standards.",
-      summaryTeReo: "Kua mihia te kamupene tākaro mō ngā hangarau hou me ngā paerewa haumaru.",
+      title: "Eco-tourism operator wins national industry excellence award",
+      kicker: "Queenstown / Tourism",
+      summary: "Alpine adventure company recognised for outstanding innovations in eco-travel and strict guest safety standards.",
       category: "tourism",
       region: "otago",
-      date: "14 May 2026",
+      date: "15 May 2026",
       readTime: "3 min read",
-      tags: ["Tourism", "Awards", "Lifestyle"]
+      tags: ["Tourism", "Awards", "Adventure"]
     },
     {
       id: "news-12",
-      title: "Māori Forestry Joint Venture Secures $15M Export Deal",
-      titleTeReo: "Kua whiwhi te Pānga Ngahere Māori i tētahi whakaaetanga kaweake $15M",
+      title: "Primary industries forestry venture secures £15M timber export deal",
       kicker: "Gisborne / Agribusiness",
-      kickerTeReo: "Tūranga-nui-a-Kiwa / Ahumahi Matua",
-      summary: "Major partnership with international distributors to supply sustainably managed timber from Iwi land.",
-      summaryTeReo: "He hononga nui ki ngā tohatoha o te ao ki te tuku rākau e whakahaerehia ana i runga i te painga mai i ngā whenua Iwi.",
-      category: "maori",
+      summary: "Major agribusiness partnership with international distributors to supply sustainably managed timber from regional land blocks.",
+      category: "agribusiness",
       region: "gisborne",
-      date: "13 May 2026",
+      date: "14 May 2026",
       readTime: "4 min read",
-      tags: ["Maori", "Forestry", "Agribusiness"]
+      tags: ["Forestry", "Agribusiness", "Export"]
+    },
+    {
+      id: "news-13",
+      title: "Parliamentary select committee passes housing reform bill",
+      kicker: "Wellington / Government",
+      summary: "New central government public policy aims to streamline residential building permits and regulate infrastructure tax codes.",
+      category: "government",
+      region: "wellington",
+      date: "13 May 2026",
+      readTime: "5 min read",
+      tags: ["Government", "Policy", "Housing"]
+    },
+    {
+      id: "news-14",
+      title: "All Blacks sponsor launches nationwide youth rugby programme",
+      kicker: "Auckland / Sport",
+      summary: "Major sports partnership organises high-performance training modules for school rugby leagues across the country.",
+      category: "health",
+      region: "auckland",
+      date: "12 May 2026",
+      readTime: "3 min read",
+      tags: ["Sport", "Youth", "Rugby"]
+    },
+    {
+      id: "news-15",
+      title: "Creative sector music festival announces summer lineup and expansion",
+      kicker: "Nelson-Tasman / Arts",
+      summary: "Highly anticipated creative arts showcase brings international headliners to Nelson, boosting regional tourism bookings.",
+      category: "lifestyle",
+      region: "nelson",
+      date: "11 May 2026",
+      readTime: "4 min read",
+      tags: ["Arts", "Music", "Festival"]
     }
   ];
-
-  // --- BICULTURAL TRANSLATION ENGINE ---
-  let currentLanguage = 'en';
-  const translations = {
-    en: {
-      brandSub: "TE PĀNUI O AOTEAROA",
-      navHome: "Home",
-      navFeatured: "Featured Releases",
-      navBenefits: "Why Publish",
-      navSubmit: "Submit Release",
-      btnSubmit: "Submit a Release",
-      btnExamples: "View Examples",
-      heroEyebrow: "Publish. Be Seen. Be Trusted.",
-      heroTitle: "Press releases for New Zealand businesses that need to look credible online.",
-      heroDesc: "The Press Release publishes polished business announcements that support search visibility, build online credibility, and give your news a professional home.",
-      searchPlaceholder: "Search headlines, categories, or locations (e.g. Auckland, Fintech)...",
-      tickerLabel: "LIVE NEW ZEALAND FEEDS",
-      featuredTitle: "Featured Release Layout",
-      featuredDesc: "Strong single-story treatment for launches, acquisitions, funding, major hires, and company milestones.",
-      categoryTitle: "Browse by Industry Sectors",
-      categoryDesc: "Click an economic or cultural sector to instantly filter current announcements.",
-      gridTitle: "Recent Press Releases",
-      gridDesc: "Browse the latest verified corporate updates, product launches, and regional milestones across New Zealand.",
-      statOutlets: "NZ Syndication Channels",
-      statIndexing: "Search Indexing Rate",
-      statSupport: "Newsdesk Support",
-      statIwi: "Bicultural Sectors Supported",
-      btnEmailDesk: "Email the Newsdesk",
-      btnStartSub: "Start Your Submission"
-    },
-    mi: {
-      brandSub: "TE PĀNUI O AOTEAROA",
-      navHome: "Kāinga",
-      navFeatured: "Kōhure",
-      navBenefits: "Painga",
-      navSubmit: "Tukuna",
-      btnSubmit: "Tukuna he Pānui",
-      btnExamples: "Tirohia ngā Tauira",
-      heroEyebrow: "Tāpirihia. Me kitea. Kia whakapono.",
-      heroTitle: "He pānui pāpāho mā ngā kaupapa pakihi o Aotearoa e hiahia ana ki te titiro pono i te ao ipurangi.",
-      heroDesc: "Kei te pānui Te Pānui o Aotearoa i ngā pānui pakihi whakaohooho e tautoko ana i te kitea rapu, te whakawhanake whakapono ipurangi, me te hoatu i tētahi kāinga ngaio ki ō pānui.",
-      searchPlaceholder: "Rapua ngā ingoa, ngā wāhanga, ngā rohe rānei...",
-      tickerLabel: "PĀNUI KOREUTU O AOTEAROA",
-      featuredTitle: "Kaupapa Pānui Kōhure",
-      featuredDesc: "He manaaki pānui kotahi kaha mō ngā whakarewatanga, kaupapa putea, me ngā taumata nui o te kamupene.",
-      categoryTitle: "Tirohia mā ngā Wāhanga Ahumahi",
-      categoryDesc: "Paatohia tētahi wāhanga ohaoha, ahurea rānei hei tātari tere i ngā pānui o nāianei.",
-      gridTitle: "Ngā Pānui Pāpāho Hou",
-      gridDesc: "Tirohia ngā whakahoutanga pakihi hou kua whakamanahia puta noa i Aotearoa.",
-      statOutlets: "Ngā Hoko Tohatoha Aotearoa",
-      statIndexing: "Mōhiohio Rapu Pono",
-      statSupport: "Āwhina Papamahi 24/7",
-      statIwi: "Ngā Wāhanga Ahurea Iwi",
-      btnEmailDesk: "Tukuna he Īmēra",
-      btnStartSub: "Tīmatahia te Tukunga"
-    }
-  };
-
-  const langToggleBtn = document.getElementById('lang-toggle');
-
-  function updateInterfaceLanguage(lang) {
-    currentLanguage = lang;
-    
-    // Update simple text mappings
-    document.querySelectorAll('[data-trans]').forEach(element => {
-      const key = element.getAttribute('data-trans');
-      if (translations[lang] && translations[lang][key]) {
-        element.textContent = translations[lang][key];
-      }
-    });
-
-    // Update placeholders
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
-      searchInput.placeholder = translations[lang].searchPlaceholder;
-    }
-
-    // Toggle button text representation
-    if (langToggleBtn) {
-      langToggleBtn.textContent = lang === 'en' ? 'Te Reo Māori' : 'English';
-    }
-
-    // Refresh rendering of our news database with respective language text
-    renderNewsGrid();
-    renderFeaturedStory();
-  }
-
-  if (langToggleBtn) {
-    langToggleBtn.addEventListener('click', () => {
-      const nextLang = currentLanguage === 'en' ? 'mi' : 'en';
-      updateInterfaceLanguage(nextLang);
-    });
-  }
 
   // --- DARK/LIGHT THEME SWITCHER ---
   const themeToggleBtn = document.getElementById('theme-toggle');
@@ -316,10 +220,8 @@ document.addEventListener('DOMContentLoaded', () => {
     if (searchVal) {
       filteredNews = filteredNews.filter(news => 
         news.title.toLowerCase().includes(searchVal) ||
-        news.titleTeReo.toLowerCase().includes(searchVal) ||
         news.kicker.toLowerCase().includes(searchVal) ||
         news.summary.toLowerCase().includes(searchVal) ||
-        news.summaryTeReo.toLowerCase().includes(searchVal) ||
         news.region.toLowerCase().includes(searchVal) ||
         news.tags.some(tag => tag.toLowerCase().includes(searchVal))
       );
@@ -328,7 +230,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (filteredNews.length === 0) {
       newsGridContainer.innerHTML = `
         <div style="grid-column: 1 / -1; text-align: center; padding: 40px; color: var(--text-muted);">
-          <p>${currentLanguage === 'en' ? 'No matching press releases found. Try searching for other terms!' : 'Kāore he pānui pāpāho i kitea. Whakamātauhia he kupu kē!'}</p>
+          <p>No matching press releases found. Try searching for other terms!</p>
         </div>
       `;
       return;
@@ -340,14 +242,10 @@ document.addEventListener('DOMContentLoaded', () => {
       card.className = `news-card hover-grow fade-up visible`;
       card.id = news.id;
       
-      const titleText = currentLanguage === 'en' ? news.title : news.titleTeReo;
-      const kickerText = currentLanguage === 'en' ? news.kicker : news.kickerTeReo;
-      const summaryText = currentLanguage === 'en' ? news.summary : news.summaryTeReo;
-      
       card.innerHTML = `
-        <span class="news-kicker">${kickerText}</span>
-        <h3>${titleText}</h3>
-        <p>${summaryText}</p>
+        <span class="news-kicker">${news.kicker}</span>
+        <h3>${news.title}</h3>
+        <p>${news.summary}</p>
         <div class="news-meta">
           <span>${news.date}</span>
           <span>${news.readTime}</span>
@@ -364,14 +262,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Use news-2 (Enterprise Software) as lead story
     const lead = newsDatabase[1];
-    const titleText = currentLanguage === 'en' ? lead.title : lead.titleTeReo;
-    const kickerText = currentLanguage === 'en' ? lead.kicker : lead.kickerTeReo;
-    const summaryText = currentLanguage === 'en' ? lead.summary : lead.summaryTeReo;
 
     featuredStorySection.innerHTML = `
-      <span class="news-kicker">${kickerText}</span>
-      <h3>${titleText}</h3>
-      <p>${summaryText}</p>
+      <span class="news-kicker">${lead.kicker}</span>
+      <h3>${lead.title}</h3>
+      <p>${lead.summary}</p>
       <div class="news-meta">
         <span>${lead.date}</span>
         <span>${lead.readTime}</span>
@@ -384,11 +279,11 @@ document.addEventListener('DOMContentLoaded', () => {
   const categoryCards = document.querySelectorAll('.category-select-card');
   categoryCards.forEach(card => {
     card.addEventListener('click', () => {
+      const isCurrentlyActive = card.classList.contains('active');
       categoryCards.forEach(c => c.classList.remove('active'));
       
       const selectedCat = card.getAttribute('data-category');
-      if (activeCategory === selectedCat) {
-        // Toggle off
+      if (isCurrentlyActive) {
         activeCategory = 'all';
       } else {
         card.classList.add('active');
@@ -418,8 +313,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Autocomplete Suggestions logic
       const matches = newsDatabase.filter(news => 
-        news.title.toLowerCase().includes(query) ||
-        news.titleTeReo.toLowerCase().includes(query)
+        news.title.toLowerCase().includes(query)
       ).slice(0, 5);
 
       autocompleteBox.innerHTML = '';
@@ -427,7 +321,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (matches.length === 0) {
         autocompleteBox.innerHTML = `
           <div style="padding: 12px 20px; font-size: 0.9rem; color: var(--text-muted);">
-            ${currentLanguage === 'en' ? 'No quick suggestions' : 'Kāore he whakaaro tere'}
+            No quick suggestions
           </div>
         `;
         return;
@@ -437,15 +331,13 @@ document.addEventListener('DOMContentLoaded', () => {
         const item = document.createElement('div');
         item.className = 'autocomplete-item';
         
-        const titleText = currentLanguage === 'en' ? match.title : match.titleTeReo;
-        
         item.innerHTML = `
-          <span style="overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:75%;">${titleText}</span>
+          <span style="overflow:hidden; text-overflow:ellipsis; white-space:nowrap; max-width:75%;">${match.title}</span>
           <span class="autocomplete-category">${match.category}</span>
         `;
 
         item.addEventListener('click', () => {
-          searchInput.value = titleText;
+          searchInput.value = match.title;
           searchWrapper.classList.remove('active');
           renderNewsGrid();
           
@@ -539,7 +431,7 @@ document.addEventListener('DOMContentLoaded', () => {
       nextBtn.style.display = 'none';
     } else {
       nextBtn.style.display = 'inline-flex';
-      nextBtn.textContent = currentLanguage === 'en' ? 'Continue' : 'Haere tonu';
+      nextBtn.textContent = 'Continue';
     }
   }
 
@@ -572,7 +464,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (activeSlideIndex === 0) {
         const titleVal = document.getElementById('form-pr-title').value.trim();
         if (!titleVal) {
-          alert(currentLanguage === 'en' ? 'Please enter a headline for your press release!' : 'Tukuna koa he ingoa mō tō pānui pāpāho!');
+          alert('Please enter a headline for your press release!');
           return;
         }
       }
@@ -642,12 +534,12 @@ document.addEventListener('DOMContentLoaded', () => {
       successView.innerHTML = `
         <div class="simulated-success-box">
           <div style="font-size: 1.5rem; font-weight: 700; color: var(--brand-secondary);">
-            ${currentLanguage === 'en' ? 'Syndicating Press Release...' : 'E tohatoha ana i te Pānui...'}
+            Syndicating Press Release...
           </div>
           <div style="width: 100%; background: var(--border-color); height: 8px; border-radius: 4px; overflow:hidden;">
             <div id="simulated-progress-bar" style="background: var(--brand-accent); width: 0%; height: 100%; transition: width 1.8s ease-in-out;"></div>
           </div>
-          <p style="font-size:0.9rem;">${currentLanguage === 'en' ? 'Preparing media targeting bundles...' : 'E whakarite ana i ngā kōpaki pāpāho...'}</p>
+          <p style="font-size:0.9rem;">Preparing media targeting bundles...</p>
         </div>
       `;
 
@@ -657,15 +549,15 @@ document.addEventListener('DOMContentLoaded', () => {
         if (bar) bar.style.width = '100%';
       }, 50);
 
-      // Transition to final success check and feedback confetti simulated
+      // Transition to final success check
       setTimeout(() => {
         successView.innerHTML = `
           <div class="simulated-success-box">
             <div class="success-check-circle">✓</div>
-            <h2>${currentLanguage === 'en' ? 'Distribution Activated!' : 'Kua Whakamanahia te Tohatoha!'}</h2>
-            <p>${currentLanguage === 'en' ? 'Your press release has been successfully processed and queued for syndication to Google News, Stuff.co.nz, and NZ Herald desks.' : 'Kua pai te tukatuka i tō pānui pāpāho, kua whakauruhia ki te rarangi tohatoha mō Google News, Stuff, me te NZ Herald.'}</p>
+            <h2>Distribution Activated!</h2>
+            <p>Your press release has been successfully processed and queued for syndication to Google News, Stuff.co.nz, and NZ Herald desks.</p>
             <button class="btn btn-primary" id="success-close-btn" style="margin-top: 16px;">
-              ${currentLanguage === 'en' ? 'Return to Portal' : 'Hoki ki te Pokapū'}
+              Return to Portal
             </button>
           </div>
         `;
