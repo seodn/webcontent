@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Car Parts Painting in Papatoetoe for Precise Panel Refinishing
 
-At Smooth Auto Panel & Paint, we specialise in individual panel colour coating, precise side mirror matching, and professional replacement bumper baking. We restore separate vehicle components to factory standards at our East Tamaki Road workshop.
+At Smooth Auto Panel & Paint, we specialise in individual panel colour coating, precise side mirror matching, and professional replacement bumper baking. 
 *   **Spectrometer Colour Matching** 
 *   **Dedicated Component Stands**
 *   **Baked Gloss Finishes** 
