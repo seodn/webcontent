@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PR Website | Premium New Zealand Press Release & Business Visibility Portal</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Tukuna he Pānui. The premium New Zealand press release distribution and online visibility portal. Showcase launches, corporate milestones, and community announcements across Auckland, Wellington, Christchurch, and regional iwi networks.">
+  <meta name="robots" content="index, follow">
+  
+  <!-- OpenGraph Metadata (Social Media Previews) -->
+  <meta property="og:title" content="PR Website | Premium New Zealand Press Release Portal">
+  <meta property="og:description" content="Elegant business publishing for New Zealand brands. Expand online reach with structured, searchable press announcements.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_NZ">
+  
+  <!-- Premium Fonts from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <!-- Consolidated Premium Stylesheets -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Structured Data (Schema.org JSON-LD for SEO) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://pr.co.nz/#organization",
+        "name": "PR Website",
+        "alternateName": "Te Pānui o Aotearoa",
+        "url": "https://github.com/seodn/webcontent",
+        "logo": "https://github.com/seodn/webcontent/logo.png",
+        "sameAs": [
+          "https://www.linkedin.com/company/prconz",
+          "https://x.com/prconz",
+          "https://www.facebook.com/prconz"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://pr.co.nz/#website",
+        "url": "https://pr.co.nz/",
+        "name": "PR Website - Te Pānui o Aotearoa",
+        "publisher": {
+          "@id": "https://pr.co.nz/#organization"
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ==========================================
+       DYNAMIC LIVE FEEDS TICKER
+       ========================================== -->
+  <div class="ticker-container" role="marquee" aria-label="Real-time NZ news feed ticker">
+    <div class="ticker-wrap">
+      <div class="ticker-title" data-trans="tickerLabel">LIVE NEW ZEALAND FEEDS</div>
+      <div class="ticker-scroll">
+        <span class="ticker-item">Fonterra announces sustainable primary industry targets for 2026</span>
+        <span class="ticker-item">Rocket Lab schedules 45th Electron launch from Mahia Peninsula</span>
+        <span class="ticker-item">Queenstown regional alpine operators report record-breaking snow bookings</span>
+        <span class="ticker-item">Iwi development social enterprise wins business contribution award</span>
+        <span class="ticker-item">NZX Trading Index registers upward trajectory following tech earnings report</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================
+       SITE HEADER NAVIGATION (FLOATING CLASSY PANEL)
+       ========================================== -->
+  <header class="site-header" id="site-header" role="banner">
+    <div class="container nav-container">
+      
+      <!-- Brand Zone with Silver Fern Emblem -->
+      <a class="logo-container" href="#home" aria-label="PR Website Homepage">
+        <div class="logo-badge">PR</div>
+        <span class="logo-text">
+          PR Website
+          <span class="logo-subtext" data-trans="brandSub">TE PĀNUI O AOTEAROA</span>
+        </span>
+      </a>
+      
+      <!-- Navbar Menus -->
+      <nav aria-label="Main Navigation Menu">
+        <ul class="nav-menu">
+          <li class="nav-item">
+            <a class="nav-link active" href="#home" data-trans="navHome">Home</a>
+          </li>
+          
+          <!-- Explore Categories Mega-Menu -->
+          <li class="nav-item">
+            <a class="nav-link" href="#explore-categories">
+              Explore <span style="font-size: 0.75rem;">▼</span>
+            </a>
+            <div class="mega-dropdown" id="categories-mega">
+              <div class="mega-grid">
+                <div class="mega-column">
+                  <h4>Industry Sectors</h4>
+                  <ul class="mega-links">
+                    <li class="mega-link-item" data-category="technology">Hangarau / Technology <span class="mega-count">4</span></li>
+                    <li class="mega-link-item" data-category="business">Pakihi / Business & NZX <span class="mega-count">5</span></li>
+                    <li class="mega-link-item" data-category="environment">Taiao / Environment & Green <span class="mega-count">2</span></li>
+                    <li class="mega-link-item" data-category="maori">Iwi / Māori Developments <span class="mega-count">1</span></li>
+                  </ul>
+                </div>
+                <div class="mega-column">
+                  <h4>More Clusters</h4>
+                  <ul class="mega-links">
+                    <li class="mega-link-item" data-category="tourism">Tāpoi / Tourism & Aviation <span class="mega-count">1</span></li>
+                    <li class="mega-link-item" data-category="lifestyle">Oranga / Lifestyle & Sport <span class="mega-count">1</span></li>
+                    <li class="mega-link-item">Kāwanatanga / Government</li>
+                    <li class="mega-link-item">Whakanui / Awards & Events</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <!-- Regional Location Menu -->
+          <li class="nav-item">
+            <a class="nav-link" href="#locations">
+              Locations <span style="font-size: 0.75rem;">▼</span>
+            </a>
+            <div class="mega-dropdown" id="locations-mega" style="width: 480px;">
+              <div class="mega-grid" style="grid-template-columns: 1fr 1fr;">
+                <div class="mega-column">
+                  <h4>Metropolitan Hubs</h4>
+                  <ul class="mega-links">
+                    <li class="mega-link-item">Tāmaki Makaurau / Auckland</li>
+                    <li class="mega-link-item">Te Whanganui-a-Tara / Wellington</li>
+                    <li class="mega-link-item">Ōtautahi / Christchurch</li>
+                    <li class="mega-link-item">Kirikiriroa / Hamilton</li>
+                  </ul>
+                </div>
+                <div class="mega-column">
+                  <h4>Regional Sectors</h4>
+                  <ul class="mega-links">
+                    <li class="mega-link-item">Waikato / Bay of Plenty</li>
+                    <li class="mega-link-item">Ōtākou / Otago</li>
+                    <li class="mega-link-item">Te Tai Tokerau / Northland</li>
+                    <li class="mega-link-item">Murihiku / Southland</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li><a class="nav-link" href="#featured" data-trans="navFeatured">Featured Releases</a></li>
+          <li><a class="nav-link" href="#benefits" data-trans="navBenefits">Why Publish</a></li>
+        </ul>
+      </nav>
+      
+      <!-- CTA actions & theme variables -->
+      <div class="nav-actions">
+        <!-- Bicultural Reo switch -->
+        <button class="lang-toggle-btn" id="lang-toggle" aria-label="Switch interface to Te Reo Māori">Te Reo Māori</button>
+        
+        <!-- Dark/Light Theme Button -->
+        <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle Light/Dark Theme">🌙</button>
+        
+        <!-- Submission CTA -->
+        <button class="btn btn-primary open-submit-modal" data-trans="btnSubmit">Submit a Release</button>
+        
+        <!-- Mobile Trigger -->
+        <button class="menu-trigger" id="mobile-menu-trigger" aria-label="Toggle mobile navigation menu">
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    
+    <!-- ==========================================
+         HERO SECTION WITH DYNAMIC SEARCH
+         ========================================== -->
+    <section class="hero-section" id="home">
+      <div class="container hero-grid">
+        
+        <div class="hero-content fade-up visible">
+          <span class="hero-eyebrow" data-trans="heroEyebrow">Publish. Be Seen. Be Trusted.</span>
+          <h1 class="hero-title" data-trans="heroTitle">Press releases for New Zealand businesses that need to look credible online.</h1>
+          <p class="hero-description" data-trans="heroDesc">The Press Release publishes polished business announcements that support search visibility, build online credibility, and give your news a professional home.</p>
+          
+          <!-- Dynamic Autocomplete Search Box -->
+          <div class="search-wrapper" id="search-wrapper">
+            <div class="search-input-box">
+              <svg class="search-icon-svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+              <input type="text" class="search-input" id="search-input" placeholder="Search headlines, categories, or locations (e.g. Auckland, Fintech)..." aria-label="Search NZ press releases">
+            </div>
+            <div class="autocomplete-box" id="autocomplete-box"></div>
+          </div>
+
+          <!-- Hero CTAs -->
+          <div class="hero-buttons">
+            <button class="btn btn-accent open-submit-modal" data-trans="btnSubmit">Submit a Release</button>
+            <a class="btn btn-secondary" href="#featured" data-trans="btnExamples">View Examples</a>
+          </div>
+
+          <!-- Bullet Highlights -->
+          <ul class="hero-specs" aria-label="Homepage specifications">
+            <li class="spec-item">🇳🇿 New Zealand distribution network</li>
+            <li class="spec-item">📰 Authentic editorial layouts</li>
+            <li class="spec-item">🔍 Semantic Google search indexing</li>
+          </ul>
+        </div>
+
+        <!-- Featured News Preview Widget -->
+        <div class="hero-news-card fade-up visible">
+          <div class="news-masthead">
+            <span class="news-masthead-title">The Press Release</span>
+            <span class="news-date">25 May 2026</span>
+          </div>
+          <article class="news-featured">
+            <span class="news-kicker">Auckland / Fintech</span>
+            <h3>AI-powered fintech startup secures $12M Series A funding</h3>
+            <p>Leading AI fintech platform announces major funding round to accelerate product development and expand across Asia-Pacific markets.</p>
+            <div class="news-meta">
+              <span>4 min read</span>
+              <span>Technology</span>
+              <span>Startup</span>
+            </div>
+          </article>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         INTERACTIVE CATEGORIES SELECTION GRID
+         ========================================== -->
+    <section class="section-shell" id="explore-categories">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow" data-trans="categoryTitle">Browse by Industry Sectors</span>
+          <h2 class="section-title">Aotearoa Segment Taxonomy</h2>
+          <p class="section-description" data-trans="categoryDesc">Click an economic or cultural sector to instantly filter current announcements.</p>
+        </div>
+
+        <!-- Bento Grid Category Cards -->
+        <div class="category-selection-grid">
+          
+          <div class="category-select-card" data-category="technology" role="button" aria-label="Filter by Tech and AI">
+            <div class="category-icon">🚀</div>
+            <h4>Hangarau / Tech & AI</h4>
+            <p>Aerospace, IT, software development, communications, and digital transformations.</p>
+          </div>
+
+          <div class="category-select-card" data-category="business" role="button" aria-label="Filter by Business & NZX">
+            <div class="category-icon">📈</div>
+            <h4>Pakihi / Business & NZX</h4>
+            <p>Corporate updates, trade, exports, finance, housing, and NZX announcements.</p>
+          </div>
+
+          <div class="category-select-card" data-category="environment" role="button" aria-label="Filter by Environment & Green">
+            <div class="category-icon">🌿</div>
+            <h4>Taiao / Green & Eco</h4>
+            <p>Sustainability, conservation, climate action, energy, and renewable resources.</p>
+          </div>
+
+          <div class="category-select-card" data-category="maori" role="button" aria-label="Filter by Māori Development">
+            <div class="category-icon">🌀</div>
+            <h4>Iwi / Māori Sector</h4>
+            <p>Iwi business partnerships, cultural social enterprises, and Treaty updates.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         FEATURED LAYOUT 1 (LEAD STORY + SIDEBAR)
+         ========================================== -->
+    <section class="section-shell soft" id="featured">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow" data-trans="featuredTitle">Featured Release Layout</span>
+          <h2 class="section-title">Lead story format for maximum authority.</h2>
+          <p class="section-description" data-trans="featuredDesc">Strong single-story treatment for launches, acquisitions, funding, major hires, and company milestones.</p>
+        </div>
+
+        <!-- Layout 1 Grid -->
+        <div class="featured-layout fade-up visible">
+          
+          <article class="featured-story" id="featured-lead-story">
+            <!-- Dynamically Rendered by app.js -->
+          </article>
+
+          <!-- Sidebar cards representing smaller updates -->
+          <div class="featured-sidebar">
+            
+            <article class="featured-card">
+              <span class="news-kicker">Christchurch / Property</span>
+              <h4>Real estate tech startup launches valuation platform</h4>
+              <p>Streamlined property assessment tool now available across NZ markets.</p>
+            </article>
+            
+            <article class="featured-card">
+              <span class="news-kicker">Hamilton / Manufacturing</span>
+              <h4>Industrial supplier announces sustainability initiative</h4>
+              <p>Carbon-neutral operations milestone reached across all facilities.</p>
+            </article>
+            
+            <article class="featured-card">
+              <span class="news-kicker">Tauranga / Logistics</span>
+              <h4>Coastal port operator invests in automation</h4>
+              <p>$50M infrastructure upgrade to boost throughput and efficiency.</p>
+            </article>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         TRUST POSITIONING SECTION
+         ========================================== -->
+    <section class="section-shell">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow">Why PR Website?</span>
+          <h2 class="section-title">Not Just News. Business Visibility With Purpose.</h2>
+          <p class="section-description">PR Website is a professional publishing platform created for New Zealand businesses. It is designed for company announcements, launches, awards, partnerships, milestones, events, and brand updates.</p>
+        </div>
+
+        <div class="trust-cards">
+          
+          <div class="trust-card fade-up visible">
+            <div class="trust-icon">📄</div>
+            <h3>Professional Publishing</h3>
+            <p>Share your business updates in a polished press-release format that stands out online.</p>
+          </div>
+          
+          <div class="trust-card fade-up visible">
+            <div class="trust-icon">🇳🇿</div>
+            <h3>Built for NZ Businesses</h3>
+            <p>Created for local companies, service providers, agencies, startups, and growing brands.</p>
+          </div>
+          
+          <div class="trust-card fade-up visible">
+            <div class="trust-icon">🔍</div>
+            <h3>Visibility-Focused</h3>
+            <p>Support your online presence with structured, searchable business content.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         DYNAMIC LIVE NEWS GRID
+         ========================================== -->
+    <section class="section-shell soft" id="news-grid-section">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow" data-trans="gridTitle">Recent Press Releases</span>
+          <h2 class="section-title">The Portal Feed</h2>
+          <p class="section-description" data-trans="gridDesc">Browse the latest verified corporate updates, product launches, and regional milestones across New Zealand.</p>
+        </div>
+
+        <!-- Grid Container dynamically handled by search & category filter -->
+        <div class="news-grid" id="news-grid-container">
+          <!-- Dynamically Rendered by app.js -->
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         INTERACTIVE STATISTICS DASHBOARD
+         ========================================== -->
+    <section class="stats-section" id="stats-dashboard">
+      <div class="container stats-grid">
+        
+        <div class="stat-item">
+          <!-- IntersectionObserver triggers count-up from 0 to 4200 -->
+          <div class="stat-number" id="counter-outlets" data-value="4200" data-suffix="+">0</div>
+          <div class="stat-label" data-trans="statOutlets">NZ Syndication Channels</div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-number" id="counter-indexing" data-value="99.8" data-suffix="%">0</div>
+          <div class="stat-label" data-trans="statIndexing">Search Indexing Rate</div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-number" id="counter-support" data-value="24" data-suffix="/7">0</div>
+          <div class="stat-label" data-trans="statSupport">Newsdesk Support</div>
+        </div>
+
+        <div class="stat-item">
+          <div class="stat-number" id="counter-iwi" data-value="15" data-suffix="+">0</div>
+          <div class="stat-label" data-trans="statIwi">Bicultural Sectors Supported</div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         HOW IT WORKS SECTION
+         ========================================== -->
+    <section class="section-shell">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow">Simple Process</span>
+          <h2 class="section-title">How It Works</h2>
+          <p class="section-description">Publishing your business news should be simple, professional, and effective.</p>
+        </div>
+
+        <div class="process-steps">
+          
+          <div class="process-step fade-up visible">
+            <div class="step-icon">1</div>
+            <h3>Submit Your Press Release</h3>
+            <p>Send us your business announcement, launch, update, event, or milestone. Include key details, context, and any relevant links.</p>
+          </div>
+          
+          <div class="process-step fade-up visible">
+            <div class="step-icon">2</div>
+            <h3>We Review and Publish</h3>
+            <p>Your content is reviewed, formatted, and published in a professional press-release style with proper structure and branding.</p>
+          </div>
+          
+          <div class="process-step fade-up visible">
+            <div class="step-icon">3</div>
+            <h3>Gain Visibility and Credibility</h3>
+            <p>Your business receives a dedicated online release that can support trust, search visibility, and digital authority.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         BENEFITS SECTION
+         ========================================== -->
+    <section class="section-shell soft" id="benefits">
+      <div class="container">
+        
+        <div class="section-header fade-up visible">
+          <span class="section-eyebrow">Value Proposition</span>
+          <h2 class="section-title">Why Publish on PR Website?</h2>
+          <p class="section-description">Business owners should understand the value of a digital footprint within seconds.</p>
+        </div>
+
+        <div class="benefits-grid">
+          
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">1</div>
+            <h3>Improve Online Visibility</h3>
+            <p>Create more searchable content around your brand, services, announcements, and business activity.</p>
+          </div>
+
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">2</div>
+            <h3>Support Your SEO Strategy</h3>
+            <p>Press-release-style content can help strengthen your wider content footprint and support discoverability.</p>
+          </div>
+
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">3</div>
+            <h3>Build Brand Credibility</h3>
+            <p>A professionally published release gives your business a stronger and more trustworthy online presence.</p>
+          </div>
+
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">4</div>
+            <h3>Share Important Updates</h3>
+            <p>Announce product launches, awards, partnerships, events, company milestones, or new locations.</p>
+          </div>
+
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">5</div>
+            <h3>Create Professional Exposure</h3>
+            <p>Give your updates a polished platform instead of only posting them on social media.</p>
+          </div>
+
+          <div class="benefit-card fade-up visible">
+            <div class="benefit-number">6</div>
+            <h3>Strengthen Google Discoverability</h3>
+            <p>Help people find more relevant, structured information about your business online.</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ==========================================
+         FINAL CTA SECTION
+         ========================================== -->
+    <section class="section-shell" style="background: linear-gradient(135deg, var(--brand-primary), var(--brand-primary-hover)); color: white;" id="submit-section">
+      <div class="container">
+        
+        <div class="section-header fade-up visible" style="color: white; margin-bottom: 40px;">
+          <h2 class="section-title" style="color: white;">Ready to publish your business news?</h2>
+          <p class="section-description" style="color: rgba(255, 255, 255, 0.85); max-width: 700px;">Send your announcement and we will prepare it as a polished New Zealand business release with clear structure, premium styling, and a trustworthy presentation.</p>
+        </div>
+
+        <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap;">
+          <button class="btn btn-secondary open-submit-modal" data-trans="btnStartSub">Start Your Submission</button>
+          <a class="btn" style="background: var(--brand-secondary); border-color: var(--brand-secondary); color: var(--text-inverse); font-weight: 800;" href="mailto:news@pressrelease.co.nz" data-trans="btnEmailDesk">Email the Newsdesk</a>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==========================================
+       FOOTER
+       ========================================== -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+        
+        <div class="footer-brand">
+          <a class="footer-logo" href="#home">
+            <div class="footer-logo-badge">PR</div>
+            <span class="footer-logo-text">PR Website</span>
+          </a>
+          <p>Professional press release publishing for New Zealand businesses that want announcements to feel credible, searchable, and easy to share.</p>
+        </div>
+        
+        <div class="footer-links-col">
+          <h4>Release Categories</h4>
+          <ul class="footer-links-list">
+            <li><a class="footer-link" href="#explore-categories">Technology / Hangarau</a></li>
+            <li><a class="footer-link" href="#explore-categories">Business / Pakihi</a></li>
+            <li><a class="footer-link" href="#explore-categories">Environment / Taiao</a></li>
+            <li><a class="footer-link" href="#explore-categories">Māori Developments</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-links-col">
+          <h4>Platform</h4>
+          <ul class="footer-links-list">
+            <li><a class="footer-link" href="#featured">Featured Layouts</a></li>
+            <li><a class="footer-link" href="#benefits">Why Publish</a></li>
+            <li><a class="footer-link open-submit-modal" href="#submit">Submit a Release</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-links-col">
+          <h4>Company</h4>
+          <ul class="footer-links-list">
+            <li><a class="footer-link" href="mailto:news@pressrelease.co.nz">Contact Newsdesk</a></li>
+            <li><a class="footer-link" href="#">Editorial Guidelines</a></li>
+            <li><a class="footer-link" href="#">Terms of Service</a></li>
+            <li><a class="footer-link" href="#">Privacy Policy</a></li>
+          </ul>
+        </div>
+        
+      </div>
+      
+      <div class="footer-bottom">
+        <div>
+          <span>&copy; 2026 PR Website (Te Pānui o Aotearoa). All rights reserved.</span>
+        </div>
+        <div style="color: var(--brand-secondary); font-weight: 700;">
+          Designed in New Zealand 🇳🇿
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ==========================================
+       INTERACTIVE SUBMISSION MODAL WIZARD
+       ========================================== -->
+  <div class="modal-overlay" id="submission-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      
+      <div class="modal-header">
+        <span class="modal-title" id="modal-title">Submit Business Release</span>
+        <button class="modal-close-btn" id="close-modal" aria-label="Close Dialog">&times;</button>
+      </div>
+
+      <!-- Progressive Step Indicator Bar -->
+      <div class="wizard-progress">
+        <div class="progress-step-item active">
+          <span class="progress-step-num">1</span>
+          <span>Details</span>
+        </div>
+        <div class="progress-step-item">
+          <span class="progress-step-num">2</span>
+          <span>Targeting</span>
+        </div>
+        <div class="progress-step-item">
+          <span class="progress-step-num">3</span>
+          <span>Preview</span>
+        </div>
+      </div>
+
+      <!-- Outer Box for wizard form -->
+      <div id="wizard-modal-inner">
+        <form id="wizard-form">
+          <div class="wizard-form-body">
+            
+            <!-- Slide 1: Basic details -->
+            <div class="wizard-slide active" id="slide-1">
+              <div class="form-group">
+                <label for="form-pr-title">Press Release Headline *</label>
+                <input type="text" class="form-control" id="form-pr-title" placeholder="e.g. Technology startup secures major growth milestone" required>
+              </div>
+              <div class="form-group">
+                <label for="form-pr-body">Release Body / Announcement Summary *</label>
+                <textarea class="form-control" id="form-pr-body" placeholder="Provide details including who, what, when, where, and why of your announcement..." required></textarea>
+              </div>
+              <div class="form-group" style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                <div>
+                  <label for="form-pr-category">Primary Category</label>
+                  <select class="form-control" id="form-pr-category">
+                    <option value="technology">Hangarau / Technology</option>
+                    <option value="business">Pakihi / Business</option>
+                    <option value="environment">Taiao / Environment</option>
+                    <option value="maori">Iwi / Māori sector</option>
+                  </select>
+                </div>
+                <div>
+                  <label for="form-pr-region">Primary Target Region</label>
+                  <select class="form-control" id="form-pr-region">
+                    <option value="auckland">Tāmaki Makaurau / Auckland</option>
+                    <option value="wellington">Te Whanganui-a-Tara / Wellington</option>
+                    <option value="canterbury">Ōtautahi / Christchurch</option>
+                    <option value="waikato">Kirikiriroa / Hamilton</option>
+                    <option value="otago">Ōtepoti / Dunedin</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+            <!-- Slide 2: Syndication targeting -->
+            <div class="wizard-slide" id="slide-2">
+              <div class="form-group">
+                <label style="margin-bottom: 8px;">Select Target Media Syndication Outlets</label>
+                <div class="outlet-target-grid">
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox" checked> Google News Indexing
+                  </label>
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox" checked> Stuff.co.nz Newsdesk
+                  </label>
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox" checked> New Zealand Herald Desk
+                  </label>
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox" checked> Scoop Business Feed
+                  </label>
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox"> Bloomberg Terminal Feed
+                  </label>
+                  <label class="outlet-checkbox-label">
+                    <input type="checkbox"> RNZ National Distribution
+                  </label>
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="form-pr-contact">Media Contact Email (For verification)</label>
+                <input type="email" class="form-control" id="form-pr-contact" placeholder="e.g. communications@yourbrand.co.nz">
+              </div>
+            </div>
+
+            <!-- Slide 3: Confirmation and preview draft -->
+            <div class="wizard-slide" id="slide-3">
+              <div class="form-group">
+                <label>Review Release Draft Card</label>
+                <div id="simulated-preview-box" class="hero-news-card" style="box-shadow: none; border-color: var(--border-thick);">
+                  <!-- Autobuilt by app.js -->
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- Navigation controls -->
+          <div class="wizard-form-footer">
+            <button type="button" class="btn btn-secondary" id="wizard-prev-btn" style="display: none;">Back</button>
+            <button type="button" class="btn btn-primary" id="wizard-next-btn">Continue</button>
+            <button type="submit" class="btn btn-accent" id="wizard-submit-btn" style="display: none;">Confirm & Publish</button>
+          </div>
+        </form>
+      </div>
+
+      <!-- Success View (Toggled on submit) -->
+      <div id="simulated-success-view" style="display: none;"></div>
+
+    </div>
+  </div>
+
+  <!-- Back To Top Button -->
+  <button class="back-to-top-btn" id="back-to-top" aria-label="Scroll back to top">↑</button>
+
+  <!-- Interactive JavaScript -->
+  <script src="app.js"></script>
+  
+  <script>
+    // Intersection Observer for scroll-fade animations
+    const animationObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          animationObserver.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.1
+    });
+
+    document.querySelectorAll('.fade-up').forEach(el => animationObserver.observe(el));
+
+    // Handle back-to-top button
+    const backToTopBtn = document.getElementById('back-to-top');
+    window.addEventListener('scroll', () => {
+      if (backToTopBtn) {
+        backToTopBtn.classList.toggle('visible', window.scrollY > 400);
+      }
+    });
+
+    if (backToTopBtn) {
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    }
+
+    // Modal close and wizard index controls
+    const wizardSlides = document.querySelectorAll('.wizard-slide');
+    const wizardStepItems = document.querySelectorAll('.progress-step-item');
+    const nextBtn = document.getElementById('wizard-next-btn');
+    const submitBtn = document.getElementById('wizard-submit-btn');
+
+    function updateWizardButtons(index) {
+      if (index === wizardSlides.length - 1) {
+        nextBtn.style.display = 'none';
+        submitBtn.style.display = 'inline-flex';
+      } else {
+        nextBtn.style.display = 'inline-flex';
+        submitBtn.style.display = 'none';
+      }
+    }
+
+    // Listen to wizard step items
+    const observer = new MutationObserver(() => {
+      const activeIndex = Array.from(wizardSlides).findIndex(slide => slide.classList.contains('active'));
+      updateWizardButtons(activeIndex);
+    });
+
+    wizardSlides.forEach(slide => {
+      observer.observe(slide, { attributes: true, attributeFilter: ['class'] });
+    });
+  </script>
+</body>
+</html>
