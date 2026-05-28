@@ -27,6 +27,8 @@ At Smooth Auto Panel & Paint, we get your car's body panels looking like new aga
 ## Decades of Experience in Dent and Scratch Repairs
 At Smooth Auto Panel & Paint, we provide professional dent repairs, paintless dent removal (PDR), and scratch repairs at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team reshapes vehicle doors, bonnets, and guards to their original look. We use fine PDR rods to massage away supermarket parking dings without needing to repaint, as well as specialised pulling equipment and paint matching to fix deep creases, scratches, and scrapes.
 
+[Call 022 584 1510]
+
 ---
 
 ### Common Scenarios
@@ -48,7 +50,6 @@ Our workshop uses modern equipment to handle everything from paintless touch-ups
 *   **Key Scratch Blending:** Matching your paint code and clear-coating over scratches to make them disappear.
 *   **WOF Rust Welding:** Compliant welding and panel repairs to fix structural WOF failures.
 
-[View All Services]
 
 ---
 
@@ -108,6 +109,7 @@ We select the best repair technique depending on whether your paint surface is d
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your Fresh Panels
+Proper aftercare helps protect newly repaired panels and paintwork from scratches, fading, and premature wear. Following these simple care tips will help maintain your vehicle’s appearance after dent or scratch repairs.
 *   **Wash Gritty Panels Gently:** Hand wash panels with mild soap and fresh water to prevent grit scratches.
 *   **Rinse Tree Sap Quickly:** Wash off bird droppings and tree sap quickly to protect your car's clear coat.
 *   **Avoid Harsh Polishing:** Do not use abrasive rubbing compounds or machine buffers on fresh paint for 30 days.
@@ -122,12 +124,15 @@ Smooth Auto Panel & Paint operates strictly in accordance with Motor Trade Assoc
 
 ### Our Location
 ## Conveniently Located on East Tamaki Road
+Located on East Tamaki Road, our workshop is easily accessible for drivers across South Auckland needing fast, professional dent removal and scratch repair services.
+
 Easily accessible from Hunters Corner and Great South Road, our Papatoetoe workshop at 26C East Tamaki Road serves drivers across Clover Park, Otara, Wiri, Manukau, East Tamaki, and wider South Auckland.
 
 ---
 
 ### Customer Reviews
 ## What South Auckland Drivers Say About Our Dent Repairs
+We proudly help local drivers restore damaged panels, remove dents, and repair scratches with high-quality workmanship and reliable turnaround times.
 *   *“I had three annoying shopping trolley dings massaged out of my car door. They used PDR rods and it took less than an hour. The door looks absolutely perfect!”* — **Brendon S., Papatoetoe**
 *   *“Excellent scratch repair. Someone keyed my driver's guard door. Smooth Auto Panel & Paint matched the metallic silver paint perfectly and baked it. Looks brand new!”* — **Amara K., Manukau**
 *   *“Fast bumper scrape repair on our company car. Re-aligned the bumper and resprayed it inside 24 hours. Highly competitive price.”* — **Gary L., South Auckland**
@@ -136,6 +141,7 @@ Easily accessible from Hunters Corner and Great South Road, our Papatoetoe works
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Dent Removal Queries
+Here are answers to some of the most common questions regarding paintless dent removal, bumper repairs, scratch blending, repair timelines, and vehicle paint restoration services.
 *   **Q: What is Paintless Dent Removal (PDR)?**
     *   *A:* PDR is a repair method where we use specialised metal rods behind a panel to gently massage minor dents flat without needing fillers or paint.
 *   **Q: How do I know if a dent can be repaired with PDR?**
