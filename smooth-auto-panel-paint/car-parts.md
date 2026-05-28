@@ -27,6 +27,7 @@ At Smooth Auto Panel & Paint, we specialise in individual panel colour coating, 
 ## Expert Paint Restoration for Individual Panels and Trims
 At Smooth Auto Panel & Paint, we provide expert individual component spray painting, replacement part refinishing, and custom panel colour matching at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, we utilise fine spray guns, component baking stands, and exact spectrometer formulations to finish replacement bonnets, doors, wing mirrors, spoilers, and bumper covers. This meticulous process guarantees that separate automotive components perfectly match the surrounding vehicle bodywork with no visible colour variations.
 
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -48,7 +49,6 @@ We handle everything from small plastic garnishes to large body panels with stan
 *   **Bonnets & Boot Lids Respraying:** Restoring stone-chipped bonnets or oxidised boot lids with high-durability baked clears.
 *   **Spoiler & Body Kit Coating:** Precise spray coating custom wings, side skirts, and styling spoilers to align with corporate fleet colours.
 
-[View All Services]
 
 ---
 
@@ -108,6 +108,7 @@ While DIY might seem cheaper, the differences in durability and look are substan
 
 ### Aftercare Guide
 ## Caring for Your Newly Painted Car Parts
+Proper aftercare helps maintain gloss, colour consistency, and long-term durability after your component painting service. Following these care steps can help prevent premature fading, peeling, or surface damage.
 *   **Handle Replacement Panels Gently:** Avoid commercial high-pressure jet washes near new panel edges for 14 days.
 *   **Apply UV Wax Protection:** Apply premium carnauba wax after 30 days to protect wing mirrors and spoilers from Auckland sun fade.
 *   **Rinse Off Grit Safely:** Wash bug splats off wing mirrors and front bumper bars promptly with warm soapy water and microfibres.
@@ -128,6 +129,8 @@ Conveniently located at 26C East Tamaki Road, Papatoetoe, we serve car owners, p
 
 ### Customer Reviews
 ## Parts Painting Reviews from South Auckland Customers
+We are proud to help drivers, vehicle importers, and car enthusiasts restore damaged or replacement parts with accurate colour matching and high-quality paint finishes.
+
 *   *“I bought an unpainted replacement wing mirror online. Smooth Auto Panel & Paint colour-matched it using my car’s paint code and painted it. It matches the door perfectly!”* — **Nathan T., Flat Bush**
 *   *“Great job painting my replacement bonnet. The silver metallic has no lines or patches and transitions beautifully to the fenders. Outstanding workmanship.”* — **Deepak P., Otara**
 *   *“Excellent service respraying the spoiler on my Toyota. The sun had completely ruined the clear coat. It looks brand new again. Highly recommend.”* — **Keisha W., Papatoetoe**
@@ -136,6 +139,7 @@ Conveniently located at 26C East Tamaki Road, Papatoetoe, we serve car owners, p
 
 ### Frequently Asked Questions
 ## Find Answers Regarding Individual Component Painting
+Here are answers to some of the most common questions customers ask about replacement bumper painting, colour matching, repair timelines, and component refinishing services.
 *   **Q: Can you match the colour of my car if the paint has faded?**
     *   *A:* Yes. We do not just mix paint by factory code. We scan your car’s actual panel with a digital spectrometer to match any sun-fading, ensuring a seamless blend.
 *   **Q: Do I need to leave my entire car at the shop if I only need a part painted?**
