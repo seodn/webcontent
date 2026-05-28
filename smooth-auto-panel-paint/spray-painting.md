@@ -27,6 +27,7 @@ At Smooth Auto Panel & Paint, we restore passenger cars, work vans, and commerci
 ## Over 30 Years of Automotive Painting Experience
 At Smooth Auto Panel & Paint, we provide professional car spray painting and scratch repairs at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our certified painters use a large, heated spray booth to deliver clean, factory-quality paint finishes. Whether you need a full respray for a car, utility van, or transport truck, we match the paint exactly to your vehicle's current shade for a seamless look.
 
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -48,7 +49,6 @@ We offer a complete range of services to keep your vehicle looking brand new:
 *   **Plastic Bumper Painting:** Sanding, priming, and respraying scraped plastic bumpers with flex-primers to prevent cracking.
 *   **Scratch & Chip Repairs:** Localised paint touch-ups, chip filling, and polishing to make scratches disappear.
 
-[View All Services]
 
 ---
 
@@ -108,6 +108,7 @@ We help you select the most practical approach based on your vehicle's overall p
 
 ### Aftercare Guide
 ## Simple Guidelines to Protect Your Fresh Clear Coat
+Proper aftercare helps maintain your vehicle’s gloss, paint durability, and long-term finish quality. Following these simple care steps can help prevent premature fading, scratches, and surface damage.
 *   **Avoid Automated Car Washes:** Do not use automated brush washes for the first 30 days to let the clear coat cure.
 *   **Wash with Mild Soap:** Hand wash with fresh water and pH-neutral car shampoo. Avoid dishwashing detergents.
 *   **Dry with Microfibre Towels:** Use clean, soft microfibre towels to dry the car instead of synthetic sponges.
@@ -122,12 +123,15 @@ Smooth Auto Panel & Paint operates to strict MTA trade standards. We use premium
 
 ### Our Location
 ## Centrally Located for South Auckland Drivers
+Our workshop is centrally located on East Tamaki Road, making it easy for drivers and fleet owners across South Auckland to access professional spray painting and paint restoration services.
+
 Easily accessible from Great South Road and Hunters Corner, our workshop at 26C East Tamaki Road serves drivers and fleet owners in Papatoetoe, Otara, Manukau, East Tamaki, and wider South Auckland.
 
 ---
 
 ### Customer Reviews
 ## Hear What Our Local Clients Say About Our Work
+We proudly help local drivers, businesses, and fleet owners restore damaged or faded paintwork with accurate colour matching and high-quality finishes.
 *   *“I had a deep scrape on my passenger door repaired and painted by Smooth Auto Panel & Paint. The colour matching is incredible, you can't see the blend at all. Faultless work!”* — **Aradhana S., Papatoetoe**
 *   *“Top-quality bumper repair. They welded a crack in my bumper, painted it, and baked it in their oven booth. It looks brand new. Superb price too!”* — **John T., Manukau**
 *   *“We send all our commercial fleet vans to Smooth Auto Panel & Paint for spray painting. Their oversized booth handles big vehicles easily, and the turnarounds are extremely fast.”* — **Marcus K., East Tamaki**
@@ -136,6 +140,7 @@ Easily accessible from Great South Road and Hunters Corner, our workshop at 26C 
 
 ### Frequently Asked Questions
 ## Find Answers to Common Spray Painting Queries
+Here are answers to some of the most common questions regarding paint matching, bumper resprays, full vehicle repainting, clear coat protection, and repair timelines.
 *   **Q: Can you match metallic or custom pearl paint colours?**
     *   *A:* Yes. We use colour reading technology to match the metallic flake and pearl content of your paint for a perfect mix.
 *   **Q: What is a baked paint finish?**
