@@ -27,6 +27,7 @@ At Smooth Auto Panel & Paint, we cut out rust and repair your vehicle properly s
 ## Decades of Experience in Certified Rust Repairs
 At Smooth Auto Panel & Paint, we provide vehicle rust repairs, structural steel welding, and underbody protection at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our certified welders cut away structural rust on pillars, sills, floor pans, firewalls, and wheel arches, restoring your vehicle's strength to pass WOF or COF inspections.
 
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -47,8 +48,6 @@ We offer permanent, certified solutions to restore your vehicle's safety and pas
 *   **Sill & Guard Rebuilding:** Restoring corroded outer guards, sills, and door edges with custom-made steel plates.
 *   **Underbody Sealing:** Pressure cleaning, chemical treatments, and heavy-duty underbody protective sealing.
 *   **Windscreen Channel Repairs:** Removing glass, cutting away rust, rebuilding the metal frame, and refitting the windscreen.
-
-[View All Services]
 
 ---
 
@@ -108,6 +107,7 @@ Understanding the difference between a temporary patch and a legal, safe repair:
 
 ### Aftercare Guide
 ## Preventing Future Rust on Restored Panels
+Proper aftercare and regular maintenance help reduce moisture buildup, slow corrosion, and protect newly repaired metal surfaces from future rust development.
 *   **Clean Underbody Wheel Arches:** Regularly spray out your wheel arches to clear trapped mud and road salts.
 *   **Repair Paint Stone Chips Promptly:** Touch up paint chips quickly to prevent moisture from rusting bare steel.
 *   **Park Under Cover When Possible:** Parking inside a garage or carport keeps metal dry and slows steel oxidation.
@@ -122,12 +122,15 @@ Smooth Auto Panel & Paint operates strictly in accordance with MTA standards. Ou
 
 ### Our Location
 ## Conveniently Located for Easy VTNZ Rechecks
+Our East Tamaki Road workshop is easily accessible for drivers across South Auckland needing certified rust repairs, structural welding, and WOF compliance work.
+
 Located at 26C East Tamaki Road, Papatoetoe, we serve car owners, commercial operators, and taxi drivers across Papatoetoe, Hunters Corner, Clover Park, Otara, Wiri, Manukau, and wider Auckland.
 
 ---
 
 ### Customer Reviews
 ## Hear from Drivers We Got Back on the Road
+We proudly help local drivers, commercial operators, and vehicle owners restore rust-damaged vehicles with compliant welding, honest advice, and quality workmanship.
 *   *“My Nissan failed its WOF at VTNZ for sill rust. Smooth Auto Panel & Paint cut out the rust, did the certified welding, and it passed the recheck with no problems. Fantastic service!”* — **Liam J., Papatoetoe**
 *   *“Had minor rust bubbling around my rear window surround. They removed the glass, treated the metal, resprayed, and put the glass back. Excellent, clean work.”* — **Sia T., Otara**
 *   *“Very professional welding on our transit van floor pan. The WOF inspector was highly impressed with the weld quality. Will definitely use them again.”* — **Hemi R., Wiri**
@@ -136,6 +139,7 @@ Located at 26C East Tamaki Road, Papatoetoe, we serve car owners, commercial ope
 
 ### Frequently Asked Questions
 ## Essential Questions About Structural Rust and Inspections
+Here are answers to some of the most common questions regarding structural rust repairs, WOF failures, certified welding, underbody corrosion, and compliance requirements.
 *   **Q: Can a car pass its WOF with cosmetic body filler over rust?**
     *   *A:* No. Under NZTA safety regulations, cosmetic body filler cannot be used to cover structural rust. Active rust must be cut out and replaced with welded steel plate.
 *   **Q: How do WOF inspectors check underbody rust?**
