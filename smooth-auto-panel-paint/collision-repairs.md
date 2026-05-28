@@ -28,6 +28,7 @@ At Smooth Auto Panel & Paint, we repair your vehicle properly and safely so it p
 ## MTA-Approved Smash Repairs You Can Count On
 At Smooth Auto Panel & Paint, we provide professional collision repairs, smash restoration, and vehicle panel beating at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team restores cars, SUVs, vans, and commercial vehicles. We coordinate directly with all major New Zealand insurance companies (like AMI, State, AA, Vero, and Tower) to manage your claim, get quick approvals, and keep you mobile with a free courtesy vehicle.
 
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -49,7 +50,6 @@ Our workshop handles all aspects of accident repair, ensuring a seamless journey
 *   **Precision Refinishing:** Applying baked enamel paint finishes with accurate colour matching.
 *   **Final Safety Checks:** Completing structural checks to make sure your car is safe before returning it to the road.
 
-[View All Services]
 
 ---
 
@@ -109,6 +109,7 @@ We help you weigh your options based on the extent of the damage:
 
 ### Aftercare Guide
 ## Caring for Your Car After Smash Repairs
+Proper aftercare helps maintain your vehicle’s paint finish, panel alignment, and long-term durability after smash repairs. Following these simple care steps can help protect newly repaired and painted surfaces.
 *   **Do Not Use High-Pressure Washes:** Avoid high-pressure wand washes and automated brush washes for the first 30 days to protect clear coats.
 *   **Gentle Hand Wash Only:** Wash with fresh water and soft microfibre mitts. Avoid abrasive household sponges.
 *   **Rinse Tree Sap Immediately:** Wash off tree sap and bird droppings quickly to prevent paint damage.
@@ -123,12 +124,15 @@ Smooth Auto Panel & Paint is an approved repair shop operating to MTA-approved c
 
 ### Our Location
 ## Central Location with Easy Motorway Access
+Our Papatoetoe workshop is easily accessible from major motorway routes, making it simple for customers across South Auckland to organise insurance repairs, smash restoration, and courtesy vehicles.
+
 Easily accessible from Great South Road and the Southern Motorway (SH1), our Papatoetoe workshop at 26C East Tamaki Road serves drivers across Hunters Corner, Otara, Manukau, East Tamaki, and wider South Auckland.
 
 ---
 
 ### Customer Reviews
 ## What South Auckland Drivers Say About Our Work
+We are proud to help local drivers, families, and commercial fleet owners restore their vehicles safely with high-quality workmanship and professional insurance support.
 *   *“Smooth Auto Panel & Paint sorted my rear-end accident repair perfectly. They managed the claim with AMI directly and gave me a free courtesy car. Exceptional service!”* — **Nathan W., Papatoetoe**
 *   *“Highly recommend this shop for smash repairs. The paint blend on my bonnet is invisible, and the panel gaps are perfect. Brilliant local team.”* — **Priya S., Manukau**
 *   *“Excellent fleet smash repair work. They repaired our delivery van's crumpled rear panels and got us back on the road in 3 days. Extremely fast.”* — **Dave L., Otara**
@@ -137,6 +141,7 @@ Easily accessible from Great South Road and the Southern Motorway (SH1), our Pap
 
 ### Frequently Asked Questions
 ## Essential Answers About Collision Repairs and Claims
+Here are answers to some of the most common questions about collision repairs, insurance claims, courtesy vehicles, repair timelines, and structural restoration services.
 *   **Q: Can I choose Smooth Auto Panel & Paint as my repairer for insurance claims?**
     *   *A:* Yes. In New Zealand, you generally have the right to choose your own repairer. Tell your insurance company you wish to have your vehicle repaired by Smooth Auto Panel & Paint in Papatoetoe.
 *   **Q: Will you handle the insurer phone calls and paperwork?**
