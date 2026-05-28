@@ -13,7 +13,6 @@
 ### Hero Section
 # Certified Collision Repairs in Papatoetoe for Stress-Free Fixes
 
-#### Professional smash repairs and direct insurance coordination.
 At Smooth Auto Panel & Paint, we repair your vehicle properly and safely so it performs the way it should after an accident.
 *   **Free Courtesy Cars**
 *   **Direct Insurance Claims** 
