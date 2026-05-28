@@ -27,6 +27,8 @@ At Smooth Auto Panel & Paint, we specialise in commercial vehicle resprays, flee
 ## Decades of Experience in Commercial Vehicle Respraying
 At Smooth Auto Panel & Paint, we provide commercial truck painting, fleet respraying, and heavy-vehicle refinishing at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our workshop features a large heated spray booth designed to handle transport trucks, utility vans, and fleets. Our team uses durable, weather-resistant paint coatings to ensure a professional, long-lasting finish, working on schedules that minimise business downtime.
 
+[Call 022 584 1510]
+
 ---
 
 ### Common Scenarios
@@ -48,7 +50,6 @@ We offer a complete range of services to protect your transport assets and prese
 *   **Industrial Chassis Painting:** Applying anti-corrosion protective coatings to loader frames and trailers.
 *   **Fleet Scratch & Dent Repairs:** Fast touch-ups, dent removal, rust treatment, and panel beating for fleet vehicles.
 
-[View All Services]
 
 ---
 
@@ -108,6 +109,7 @@ We match the type of paint to the operating conditions of your vehicle:
 
 ### Aftercare Guide
 ## Caring for Heavy Vehicle Paintwork
+Proper aftercare helps protect your commercial vehicle’s paintwork from fading, chemical exposure, and premature wear. Following these simple maintenance steps can extend the lifespan of your refinished surfaces.
 *   **Allow Paint to Cure:** Avoid harsh chemical washes for the first 14 days following heat-baking.
 *   **Clean Fuel Spills Promptly:** Rinsing off raw fuel or hydraulic spills keeps your paint looking vibrant.
 *   **Hand Wash Fleet Cabs:** Wash fleet cabs with soft brushes or mitts rather than aggressive automated industrial truck washes.
@@ -122,12 +124,15 @@ Smooth Auto Panel & Paint is a trusted commercial paint partner operating strict
 
 ### Our Location
 ## Serving South Auckland's Industrial Hubs
+Our Papatoetoe workshop is positioned close to key industrial and transport hubs, making commercial fleet drop-offs, truck refinishing, and scheduled repaint work simple and efficient.
+
 Located at 26C East Tamaki Road, Papatoetoe, our workshop is minutes from the industrial areas of East Tamaki, Wiri, Manukau, Airport Oaks, and Penrose, making fleet drop-offs and pick-ups convenient.
 
 ---
 
 ### Customer Reviews
 ## What South Auckland Business Owners Say
+We proudly support transport companies, contractors, and commercial fleet owners with durable refinishing solutions, reliable turnaround times, and professional workmanship.
 *   *“We send all our commercial vans to Smooth Auto Panel & Paint. Their large spray booth handles transit vans easily, and the turnaround is exceptionally fast.”* — **David H., East Tamaki Logistics**
 *   *“Exceptional cab painting for our concrete mixer fleet. The polyurethane coating is extremely tough and has resisted concrete splashes easily. 5-star B2B service.”* — **Robert M., Wiri Transport**
 *   *“Excellent scratch repair and anti-rust chassis coating for our flatbed trucks. Smooth Auto Panel & Paint is our go-to shop for commercial vehicle painting.”* — **Sarah G., Manukau Machinery**
@@ -136,6 +141,7 @@ Located at 26C East Tamaki Road, Papatoetoe, our workshop is minutes from the in
 
 ### Frequently Asked Questions
 ## Find Answers Regarding B2B Services and Vehicle Sizes
+Here are answers to some of the most common questions regarding fleet refinishing, heavy vehicle paint systems, turnaround times, corporate colour matching, and commercial scheduling.
 *   **Q: Can your paint booth handle large 4-axle trucks and buses?**
     *   *A:* Yes. Our specialized oversized heated paint baking booth is specifically dimensioned to house heavy transport cabs, tipper bodies, commercial transit vans, and long box trailers.
 *   **Q: Do you offer multi-vehicle fleet pricing discounts?**
