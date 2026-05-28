@@ -27,6 +27,7 @@ At Smooth Auto Panel & Paint, we restore your vehicle's safety, shape, and value
 ## Decades of Panel Beating and Body Restoration Experience
 At Smooth Auto Panel & Paint, we provide professional panel beating, dent repair, and vehicle body restoration at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team handles passenger vehicle repairs, insurance claims management, WOF rust welding, and commercial chassis straightening. We use advanced chassis pullers and high-precision welding systems, working directly with major New Zealand insurers to make the repair process as simple and stress-free as possible.
 
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -48,7 +49,6 @@ Our workshop is fully equipped to handle anything from minor supermarket dings t
 *   **Replacement Panel Fitting:** Sourcing and aligning original or high-quality aftermarket panels.
 *   **Certified WOF Welding:** Welding repairs for vehicles with structural rust failures or rust holes.
 
-[View All Services]
 
 ---
 
@@ -108,6 +108,7 @@ Our technicians evaluate your panels to suggest the most economical and safe sol
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your New Panels
+Proper aftercare helps maintain newly repaired panels, fresh paintwork, and structural repairs. Following these simple maintenance tips can help extend the life and appearance of your vehicle after restoration work.
 *   **Avoid Waxing Fresh Paint:** Do not apply heavy waxes or polishes to fresh paintwork for the first 30 days to let the clear coat cure.
 *   **Gentle Hand Wash Only:** Hand wash with fresh water and mild soap. Avoid automated brush washes.
 *   **Avoid Extreme Sun Exposure:** Park in shaded areas or garages where possible to protect new paint from high UV rays.
@@ -122,12 +123,15 @@ All panel beating and spray painting work at Smooth Auto Panel & Paint is carrie
 
 ### Our Location
 ## Central Papatoetoe Workshop on East Tamaki Road
+Our Papatoetoe workshop is centrally positioned for easy access from surrounding South Auckland suburbs, making vehicle drop-offs and repair assessments simple and convenient.
+
 Located at 26C East Tamaki Road, our workshop is minutes from Great South Road, Hunters Corner, Otara, and Manukau. Our central location makes drop-offs convenient for local commuters and business fleet managers.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Body Restoration
+We proudly help local drivers, businesses, and fleet owners restore damaged vehicles with reliable workmanship, honest service, and quality repairs.
 *   *“The panel beating team at Smooth Auto Panel & Paint restored my damaged driver-side door perfectly. You can't even tell it was dented. The free late-model courtesy car was a lifesaver!”* — **Liam K., Papatoetoe**
 *   *“Top-notch WOF rust repair. They cut out the rust and welded new steel plates within 24 hours. The inspection sheet passed without a single question.”* — **Hemi P., Manukau**
 *   *“Highly professional team for commercial vehicle repairs. They realigned our fleet van’s rear guard quickly, keeping our delivery drivers on the road.”* — **Andrew M., South Auckland**
@@ -136,6 +140,7 @@ Located at 26C East Tamaki Road, our workshop is minutes from Great South Road, 
 
 ### Frequently Asked Questions
 ## Find Answers to Common Panel Beating Questions
+Here are answers to some of the most common questions regarding dent repairs, insurance claims, structural welding, repair timelines, and replacement panel fitting services.
 *   **Q: Do you charge for structural damage assessments and quotes?**
     *   **A:** No. We offer free, no-obligation damage assessments at our Papatoetoe workshop. Walk-ins are welcome, or you can book an assessment online.
 *   **Q: Can you help with my insurance claim?**
