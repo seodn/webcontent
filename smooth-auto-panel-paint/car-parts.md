@@ -123,6 +123,8 @@ Smooth Auto Panel & Paint is a proud MTA-approved repairer. All replacement auto
 
 ### Our Location
 ## Serving South Auckland's Component Painting Needs
+Our workshop is centrally located on East Tamaki Road, making it easy for customers across South Auckland to access professional component painting, bumper refinishing, and colour matching services.
+
 Conveniently located at 26C East Tamaki Road, Papatoetoe, we serve car owners, parts recyclers, and auto importers across Papatoetoe, Otara, Wiri, Manukau, Flat Bush, and East Tamaki.
 
 ---
