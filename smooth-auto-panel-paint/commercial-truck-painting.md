@@ -24,7 +24,7 @@ Professional commercial truck painting and fleet refinishing services for transp
 ---
 
 ### About Us
-## Decades of Experience in Commercial Vehicle Respraying
+## Durable Refinishing for Trucks, Vans & Commercial Fleets
 Commercial truck painting helps protect heavy vehicles from weather, road debris, fuel spills, and everyday wear while maintaining a professional appearance. Whether you operate a single work vehicle or an entire fleet, quality refinishing helps extend vehicle life and support your brand image.
 
 Professional commercial vehicle painting involves thorough preparation, anti-corrosion treatments, premium coatings, and durable finishes designed to withstand demanding operating conditions. This service is suitable for trucks, vans, trailers, utility vehicles, and commercial fleets of all sizes.
