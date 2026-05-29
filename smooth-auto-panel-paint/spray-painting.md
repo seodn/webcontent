@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Car Spray Painting in Papatoetoe for Flawless Finishes
 
-At Smooth Auto Panel & Paint, we restore passenger cars, work vans, and commercial trucks to a factory finish.
+Professional car spray painting services for faded paint, accident repairs, replacement panels, and complete vehicle resprays. Restore your vehicle's appearance with accurate colour matching and durable, factory-quality finishes.
 *   **Accurate Paint Matching** 
 *   **Heated Spray Booth** 
 *   **Hassle-Free Service** 
@@ -24,9 +24,15 @@ At Smooth Auto Panel & Paint, we restore passenger cars, work vans, and commerci
 ---
 
 ### About Us
-## Over 30 Years of Automotive Painting Experience
-At Smooth Auto Panel & Paint, we provide professional car spray painting and scratch repairs at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our certified painters use a large, heated spray booth to deliver clean, factory-quality paint finishes. Whether you need a full respray for a car, utility van, or transport truck, we match the paint exactly to your vehicle's current shade for a seamless look.
+## Professional Vehicle Painting & Paint Restoration
+Car spray painting helps restore damaged, faded, scratched, or worn paintwork while protecting your vehicle from further deterioration. Whether you need a single panel painted, bumper refinishing, scratch repairs, or a complete respray, professional painting helps maintain your vehicle's appearance and value.
 
+Using advanced colour-matching technology, quality paint systems, and controlled spray booth environments, modern automotive painting delivers a smooth, durable finish that blends seamlessly with existing panels. This service is suitable for private vehicles, commercial fleets, accident repairs, and vehicle restorations.
+
+✔ Full vehicle resprays and paint restoration
+✔ Single-panel painting and colour matching
+✔ Bumper, scratch, and stone chip repairs
+✔ Durable finishes designed for long-term protection
 [Call 022 584 1510]
 ---
 
