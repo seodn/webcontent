@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Collision Repairs in Papatoetoe for Stress-Free Fixes
 
-At Smooth Auto Panel & Paint, we repair your vehicle properly and safely so it performs the way it should after an accident.
+Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, vans, and commercial vehicles. From minor dents and panel damage to major structural repairs, we help restore your vehicle safely and efficiently.
 *   **Free Courtesy Cars**
 *   **Direct Insurance Claims** 
 *   **MTA-Approved Repairs** 
@@ -25,7 +25,14 @@ At Smooth Auto Panel & Paint, we repair your vehicle properly and safely so it p
 
 ### About Us
 ## MTA-Approved Smash Repairs You Can Count On
-At Smooth Auto Panel & Paint, we provide professional collision repairs, smash restoration, and vehicle panel beating at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team restores cars, SUVs, vans, and commercial vehicles. We coordinate directly with all major New Zealand insurance companies (like AMI, State, AA, Vero, and Tower) to manage your claim, get quick approvals, and keep you mobile with a free courtesy vehicle.
+Collision repairs involve restoring vehicles damaged in accidents, impacts, or everyday road incidents. The process may include panel repairs, structural straightening, replacement parts, paint refinishing, and safety inspections to ensure the vehicle is returned to a safe and roadworthy condition.
+
+Whether the damage is minor cosmetic panel work or more significant structural repairs, professional collision repair helps protect vehicle safety, maintain resale value, and restore factory appearance. Working with experienced repairers also helps streamline insurance claims and reduce downtime.
+
+✔ Insurance-approved accident repair solutions
+✔ Structural, panel, and paint restoration services
+✔ Support for cars, SUVs, vans, and commercial vehicles
+✔ Safety-focused repairs with quality workmanship
 
 [Call 022 584 1510]
 ---
