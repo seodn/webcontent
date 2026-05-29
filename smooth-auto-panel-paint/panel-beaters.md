@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Panel Beaters in Papatoetoe for Quality Repairs
 
-At Smooth Auto Panel & Paint, we restore your vehicle's safety, shape, and value to original factory standards.
+Professional panel beating services for accident damage, dent repairs, structural restoration, and vehicle body repairs. We help restore your vehicle's safety, appearance, and roadworthiness after damage.
 *   **Free Courtesy Cars**
 *   **MTA-Approved Workshop** 
 *   **Direct Insurance Claims** 
@@ -25,7 +25,14 @@ At Smooth Auto Panel & Paint, we restore your vehicle's safety, shape, and value
 
 ### About Us
 ## Decades of Panel Beating and Body Restoration Experience
-At Smooth Auto Panel & Paint, we provide professional panel beating, dent repair, and vehicle body restoration at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team handles passenger vehicle repairs, insurance claims management, WOF rust welding, and commercial chassis straightening. We use advanced chassis pullers and high-precision welding systems, working directly with major New Zealand insurers to make the repair process as simple and stress-free as possible.
+Panel beating is the process of repairing damaged vehicle panels, restoring body alignment, and correcting structural damage caused by accidents, impacts, or corrosion. It plays an important role in maintaining vehicle safety, appearance, and long-term value.
+
+From minor dents and damaged doors to major collision repairs and structural welding, professional panel beating helps return vehicles to their original condition. Modern repair techniques allow damaged panels to be repaired, reshaped, or replaced while maintaining factory standards.
+
+✔ Accident and collision damage repairs
+✔ Structural and body panel restoration
+✔ Dent removal and replacement panel fitting
+✔ WOF-related welding and rust repairs
 
 [Call 022 584 1510]
 ---
