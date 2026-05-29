@@ -62,7 +62,38 @@ We do not abandon what works. We strengthen your foundation and layer in future-
 
 ---
 
-## 3. Unlocked Platforms: Where We Place Our Clients
+## 3. Competitor Analysis: Why They Rank & How We Win
+
+By analyzing early adapters of AI search in New Zealand and globally, we can see exactly what makes them rank and how Digital Neighbour can structurally outperform them.
+
+### 1. ThatWare (Global Technical Scale)
+*   **Why they rank:** They rank globally by targeting highly technical search terms (like "AI search engine optimization agency"). Their site has massive amounts of content packed with data science terms (NLP, semantic models, vector search databases) and extremely dense JSON-LD schema markups.
+*   **Their weakness:** Their messaging is incredibly complex and filled with corporate tech jargon. A business owner in Auckland or Christchurch looking for local leads will feel completely alienated by their math-heavy and academic explanations. They also lack direct, localized New Zealand web speed and conversion engineering.
+*   **Our Counter-Strategy:** We maintain the same deep technical backend (clean structured schemas, optimized indexing, and fast layouts) but **translate it into plain, practical English**. We talk about phone calls and leads, not vector databases.
+
+### 2. Totally Digital (New Zealand Creative Competitor)
+*   **Why they rank:** They are an early adapter in the New Zealand market explicitly calling out "AEO" and "GEO" services. They use clean, visual, high-conversion layouts (Hero -> Trust Logos -> Core Services -> Case Studies). They focus heavily on high-end Shopify and WooCommerce e-commerce builds, which naturally require structured data.
+*   **Their weakness:** They position themselves primarily as a general creative/marketing agency. They treat AI search optimization as just another service block rather than an embedded, hands-on, end-to-end strategy backed by a solid roster of local services.
+*   **Our Counter-Strategy:** We borrow their modern visual layout flow on our landing pages but differentiate by positioning ourselves as a deeply embedded, high-touch growth partner. We highlight our custom, speed-engineered site architectures that allow real-time AI crawlers to parse websites instantly.
+
+### 3. Do Good Things (Local NZ Performance Agency)
+*   **Why they rank:** They rank by building highly targeted location-specific landing pages (targeting cities like Wellington, Hamilton, and Queenstown). They have a bold, results-focused attitude ("Strategy first, pretty later"), no lock-in contracts, and transparent pricing that appeals directly to business owners' wallets.
+*   **Their weakness:** While they have strong copy and Webflow designs, they are lighter on deep technical schema nesting, expert doctor/clinician E-E-A-T indexing, and advanced database integration. They are based in Queenstown, away from the main commercial hubs.
+*   **Our Counter-Strategy:** We match their bold, direct, results-first positioning and flexible pricing model, but ground our presence in the two largest commercial hubs of New Zealand: **Auckland and Christchurch**. We highlight our roster of **31 active local clients** and prove our superior technical depth in structured page schemas.
+
+---
+
+### How We Structurally Align Our Pages to Win:
+To outrank our competitors and ensure AI search models and Google easily recommend us, we adopt these four structural content rules across our web pages:
+
+1.  **Clear Heading Outlines (Hierarchical Outline):** We use a strict `H1 -> H2 -> H3` structure without skipping levels. AI web crawlers read page headers like a book index; a clean outline makes the relationship between topics instantly clear.
+2.  **Modular, Direct Answer Blocks:** We place concise, 40-60 word declarative Q&A answers immediately below question headings. This makes it extremely easy for Google's AI Overview or ChatGPT to scrape and display our direct quote as a citation.
+3.  **HTML Comparison Tables & Lists:** Instead of writing long, dense paragraphs comparing services or showing specs, we structure data inside `<table>` HTML elements and clean bullet points. AI search engines are highly programmed to retrieve and display tabular data in search results.
+4.  **Nested Local Schema Markup:** We build advanced JSON-LD scripts linking our client's physical location, verified reviews, services, and doctor/author credentials (`sameAs` Wikipedia/Wikidata nodes) directly in the website code.
+
+---
+
+## 4. Unlocked Platforms: Where We Place Our Clients
 
 By transitioning to our Hybrid Search framework, we unlock visibility across five major platforms:
 
@@ -76,7 +107,7 @@ By transitioning to our Hybrid Search framework, we unlock visibility across fiv
 
 ---
 
-## 4. Practical Blueprints for Our 31 Clients
+## 5. Practical Blueprints for Our 31 Clients
 
 To show you exactly how this works, we have grouped your actual **31 active client websites** into four practical blueprints. This proves how the hybrid model applies directly to real Kiwi businesses in Christchurch and Auckland.
 
@@ -156,7 +187,7 @@ To show you exactly how this works, we have grouped your actual **31 active clie
 
 ---
 
-## 5. Sales Conversation Guide: Pitching in Plain English
+## 6. Sales Conversation Guide: Pitching in Plain English
 
 When speaking to a New Zealand business owner, use this direct, jargon-free script to explain the transition:
 
@@ -170,7 +201,7 @@ When speaking to a New Zealand business owner, use this direct, jargon-free scri
 
 ---
 
-## 6. Our Lead Hook: The "AI Search Readiness Audit"
+## 7. Our Lead Hook: The "AI Search Readiness Audit"
 
 To generate immediate interest and prove our value, we offer prospects a free **AI Search Readiness Audit**:
 
