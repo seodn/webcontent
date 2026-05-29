@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Rust Repairs in Papatoetoe for WOF Welding Solutions
 
-At Smooth Auto Panel & Paint, we cut out rust and repair your vehicle properly so it passes its WOF recheck.
+Professional rust repairs and structural welding services that help restore vehicle safety, prevent further corrosion, and meet WOF compliance requirements. From surface rust treatment to structural repairs, we provide long-lasting solutions.
 *   **MTA-Approved Repairs** 
 *   **Underbody Protection** 
 *   **VTNZ & WOF Ready** 
@@ -24,8 +24,15 @@ At Smooth Auto Panel & Paint, we cut out rust and repair your vehicle properly s
 ---
 
 ### About Us
-## Decades of Experience in Certified Rust Repairs
-At Smooth Auto Panel & Paint, we provide vehicle rust repairs, structural steel welding, and underbody protection at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our certified welders cut away structural rust on pillars, sills, floor pans, firewalls, and wheel arches, restoring your vehicle's strength to pass WOF or COF inspections.
+## Permanent Solutions for Vehicle Rust Damage
+Rust repairs involve removing corroded metal, restoring structural strength, and protecting the affected area from future deterioration. Rust can develop from moisture, road debris, stone chips, and damaged paint, often leading to WOF failures if left untreated.
+
+Professional rust repair focuses on removing the source of corrosion rather than covering it up. Depending on the severity, repairs may include rust treatment, metal fabrication, structural welding, panel replacement, and protective sealing to help extend the life of your vehicle.
+
+✔ Surface rust treatment and prevention
+✔ Structural welding and rust removal
+✔ WOF and COF compliance repairs
+✔ Long-term protection against future corrosion
 
 [Call 022 584 1510]
 ---
