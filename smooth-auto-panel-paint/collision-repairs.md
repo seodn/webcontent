@@ -24,7 +24,7 @@ Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, va
 ---
 
 ### About Us
-## MTA-Approved Smash Repairs You Can Count On
+## Professional Accident Repairs That Restore Safety and Appearance
 Collision repairs involve restoring vehicles damaged in accidents, impacts, or everyday road incidents. The process may include panel repairs, structural straightening, replacement parts, paint refinishing, and safety inspections to ensure the vehicle is returned to a safe and roadworthy condition.
 
 Whether the damage is minor cosmetic panel work or more significant structural repairs, professional collision repair helps protect vehicle safety, maintain resale value, and restore factory appearance. Working with experienced repairers also helps streamline insurance claims and reduce downtime.
