@@ -24,7 +24,7 @@ Professional dent removal and scratch repair services that restore damaged panel
 ---
 
 ### About Us
-## Decades of Experience in Dent and Scratch Repairs
+## Restore Damaged Panels Without Replacing Them
 Dent removal is a cost-effective way to restore damaged vehicle panels caused by parking incidents, shopping trolleys, minor collisions, and everyday wear. Depending on the damage, repairs may involve paintless dent removal, dent pulling, panel reshaping, or paint refinishing.
 
 Professional dent and scratch repairs help maintain your vehicle's appearance, preserve resale value, and prevent minor damage from becoming more expensive repairs later. The right repair method depends on the depth of the dent and whether the paint surface has been damaged.
