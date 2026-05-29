@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Dent Removal in Papatoetoe for Flawless Panel Restoration
 
-At Smooth Auto Panel & Paint, we get your car's body panels looking like new again, quickly and affordably.
+Professional dent removal and scratch repair services that restore damaged panels without compromising your vehicle's appearance. From minor parking dings to larger dents and scratches, we help return your vehicle to its original condition.
 *   **Paintless Dent Removal (PDR)** 
 *   **Hand-Massaged Repairs** 
 *   **Cost-Effective Service** 
@@ -25,7 +25,14 @@ At Smooth Auto Panel & Paint, we get your car's body panels looking like new aga
 
 ### About Us
 ## Decades of Experience in Dent and Scratch Repairs
-At Smooth Auto Panel & Paint, we provide professional dent repairs, paintless dent removal (PDR), and scratch repairs at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, our team reshapes vehicle doors, bonnets, and guards to their original look. We use fine PDR rods to massage away supermarket parking dings without needing to repaint, as well as specialised pulling equipment and paint matching to fix deep creases, scratches, and scrapes.
+Dent removal is a cost-effective way to restore damaged vehicle panels caused by parking incidents, shopping trolleys, minor collisions, and everyday wear. Depending on the damage, repairs may involve paintless dent removal, dent pulling, panel reshaping, or paint refinishing.
+
+Professional dent and scratch repairs help maintain your vehicle's appearance, preserve resale value, and prevent minor damage from becoming more expensive repairs later. The right repair method depends on the depth of the dent and whether the paint surface has been damaged.
+
+✔ Paintless dent removal for minor dents
+✔ Deep dent and crease repair solutions
+✔ Scratch repairs and paint restoration
+✔ Helps maintain vehicle appearance and value
 
 [Call 022 584 1510]
 
