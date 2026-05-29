@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Car Parts Painting in Papatoetoe for Precise Panel Refinishing
 
-At Smooth Auto Panel & Paint, we specialise in individual panel colour coating, precise side mirror matching, and professional replacement bumper baking. 
+Professional car parts painting in Papatoetoe for bumpers, doors, bonnets, mirrors, and trims. We deliver accurate colour matching and factory-quality finishes that blend seamlessly with your vehicle.
 *   **Spectrometer Colour Matching** 
 *   **Dedicated Component Stands**
 *   **Baked Gloss Finishes** 
@@ -25,7 +25,14 @@ At Smooth Auto Panel & Paint, we specialise in individual panel colour coating, 
 
 ### About Us
 ## Expert Paint Restoration for Individual Panels and Trims
-At Smooth Auto Panel & Paint, we provide expert individual component spray painting, replacement part refinishing, and custom panel colour matching at 26C East Tamaki Road, Papatoetoe. Backed by over 30 years of trade experience, we utilise fine spray guns, component baking stands, and exact spectrometer formulations to finish replacement bonnets, doors, wing mirrors, spoilers, and bumper covers. This meticulous process guarantees that separate automotive components perfectly match the surrounding vehicle bodywork with no visible colour variations.
+Car parts painting is designed to restore damaged, faded, or replacement vehicle components so they blend seamlessly with the rest of your vehicle. Whether you need a new bumper painted, a replacement door colour matched, or a spoiler refinished, professional component painting helps maintain a consistent factory appearance.
+
+Using advanced colour-matching technology and quality paint systems, individual parts can be refinished to match surrounding panels in colour, gloss, and finish. This service is ideal for accident repairs, replacement parts, cosmetic improvements, and vehicle restorations.
+
+✔ Colour matching for replacement panels and parts
+✔ Factory-quality baked paint finishes
+✔ Suitable for plastic, metal, and composite components
+✔ Helps restore your vehicle's appearance and value
 
 [Call 022 584 1510]
 ---
