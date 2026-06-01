@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Collision Repairs in Papatoetoe for Stress-Free Fixes
 
-Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, vans, and commercial vehicles. From minor dents and panel damage to major structural repairs, we help restore your vehicle safely and efficiently.
+Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, vans, and commercial vehicles. From minor dents and panel damage to major structural work—including dedicated truck collision repairs Papatoetoe transport fleets rely on—we help restore your vehicle safely and efficiently.
 *   **Free Courtesy Cars**
 *   **Direct Insurance Claims** 
 *   **MTA-Approved Repairs** 
@@ -27,7 +27,7 @@ Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, va
 ## Professional Accident Repairs That Restore Safety and Appearance
 Collision repairs involve restoring vehicles damaged in accidents, impacts, or everyday road incidents. The process may include panel repairs, structural straightening, replacement parts, paint refinishing, and safety inspections to ensure the vehicle is returned to a safe and roadworthy condition.
 
-Whether the damage is minor cosmetic panel work or more significant structural repairs, professional collision repair helps protect vehicle safety, maintain resale value, and restore factory appearance. Working with experienced repairers also helps streamline insurance claims and reduce downtime.
+Whether the damage is minor cosmetic panel work or more significant structural repairs, professional collision repair South Auckland services help protect vehicle safety, maintain resale value, and restore factory appearance. Working with experienced repairers also helps streamline insurance claims and reduce downtime.
 
 ✔ Insurance-approved accident repair solutions
 ✔ Structural, panel, and paint restoration services
@@ -48,7 +48,7 @@ Even minor fender benders can cause hidden damage that compromises your safety. 
 ---
 
 ### Our Services
-## Complete Smash Repair and Restoration Work
+## Complete Smash Repairs South Auckland Drivers Trust
 Our workshop handles all aspects of accident repair, ensuring a seamless journey from start to finish:
 *   **Insurance Claim Handling:** We take the photos, estimate the work, and coordinate directly with your insurer.
 *   **Chassis Straightening:** Straightening bent vehicle frames using advanced pulling benches.
