@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Body Kit Installation in Papatoetoe, South Auckland
 
-At Smooth Auto Panel & Paint, we upgrade passenger vehicles and commercial fleets at our East Tamaki Road workshop.
+Professional body kit installation services for cars, utes, trucks, and commercial vehicles. From spoilers and side skirts to complete truck and vehicle body kits, we provide precise fitment, accurate colour matching, and factory-quality finishes.
 *   **Custom Upgrades** 
 *   **Perfect Fitment** 
 *   **Flawless Paint Matching** 
