@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Collision Repairs in Papatoetoe for Stress-Free Fixes
 
-Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, vans, and commercial vehicles. From minor dents and panel damage to major structural work—including dedicated truck collision repairs Papatoetoe transport fleets rely on—we help restore your vehicle safely and efficiently.
+Collision repairs for cars, SUVs, vans, trucks, and commercial vehicles, restoring accident damage safely and efficiently.
 *   **Free Courtesy Cars**
 *   **Direct Insurance Claims** 
 *   **MTA-Approved Repairs** 
@@ -24,7 +24,7 @@ Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, va
 ---
 
 ### About Us
-## Professional Accident Repairs That Restore Safety and Appearance
+## Understanding Collision & Smash Repairs
 Collision repairs involve restoring vehicles damaged in accidents, impacts, or everyday road incidents. The process may include panel repairs, structural straightening, replacement parts, paint refinishing, and safety inspections to ensure the vehicle is returned to a safe and roadworthy condition.
 
 Whether the damage is minor cosmetic panel work or more significant structural repairs, professional collision repair South Auckland services help protect vehicle safety, maintain resale value, and restore factory appearance. Working with experienced repairers also helps streamline insurance claims and reduce downtime.
