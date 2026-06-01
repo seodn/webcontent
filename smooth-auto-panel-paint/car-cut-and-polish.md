@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Car Cut and Polish in Papatoetoe, South Auckland
 
-At Smooth Auto Panel & Paint, we bring the shine back to passenger cars, vans, and commercial trucks at our East Tamaki Road workshop.
+Professional cut and polish services for cars, vans, trucks, and commercial vehicles. Remove swirl marks, light scratches, oxidation, and dull paint while restoring a deep gloss finish and long-lasting paint protection.
 *   **Deep Paint Correction** 
 *   **Flawless Gloss Finish** 
 *   **Free Courtesy Cars** 
@@ -24,8 +24,18 @@ At Smooth Auto Panel & Paint, we bring the shine back to passenger cars, vans, a
 ---
 
 ### About Us
-## Over 30 Years of Automotive Paint Experience
-At Smooth Auto Panel & Paint, we are a fully qualified repair and paint workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our local team knows exactly how to treat and restore automotive paint. We specialise in comprehensive paint correction, offering a premium cut and polish car South Auckland service to remove years of dullness and minor scratches. We also offer free courtesy cars so you don't have to pause your day while we revive your vehicle's appearance.
+## Professional Paint Correction & Gloss Restoration
+
+A professional cut and polish helps restore the appearance of faded, scratched, or dull paintwork by removing surface imperfections and enhancing the clarity of your vehicle's finish. It is an effective way to revive paint that has been affected by UV exposure, swirl marks, water spots, and everyday wear.
+
+Using specialist polishing compounds and machine polishing techniques, paint correction can significantly improve gloss, depth, and colour while helping protect the vehicle's exterior. This service is suitable for private vehicles, commercial fleets, show cars, and vehicles being prepared for sale.
+
+✔ Removes swirl marks, oxidation, and light scratches
+✔ Restores gloss, depth, and paint clarity
+✔ Suitable for cars, vans, trucks, and fleets
+✔ Helps maintain vehicle appearance and value
+
+[Call 022 584 1510]
 
 ---
 
@@ -48,7 +58,6 @@ Our workshop uses professional-grade machines and compounds to restore your vehi
 *   **Commercial Fleet Detailing:** Professional truck cut and polish South Auckland service to keep your company vehicles looking sharp.
 *   **Headlight Restoration:** Polishing yellowed, cloudy headlights to improve night driving safety and pass WOF inspections.
 
-[View All Our Paint Services]
 
 ---
 
@@ -107,6 +116,7 @@ We help you choose the right service based on your budget and expectations:
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your Brilliant Shine
+Proper aftercare helps preserve your vehicle's gloss, paint protection, and polished appearance. Following these simple maintenance practices can help keep your paintwork looking cleaner and shinier for longer.
 *   **Never Use Automated Brushes:** Automated car washes will immediately reintroduce swirl marks into your fresh paint.
 *   **Gentle Hand Washing:** Always wash your car using a two-bucket method, a soft microfibre mitt, and dedicated car wash shampoo.
 *   **Top Up the Protection:** Apply a spray wax or quick detailer after washing to maintain the slick feel and UV protection.
@@ -121,12 +131,15 @@ All our paint correction work is carried out by qualified technicians following 
 
 ### Our Location
 ## Easy to Find Near the Southern Motorway
+Our workshop is centrally located on East Tamaki Road, making it easy for drivers and fleet operators across South Auckland to access professional paint correction, polishing, and detailing services.
+
 Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoetoe, Hunters Corner, Manukau, Otara, East Tamaki, and across South Auckland. We are just minutes from the Southern Motorway (SH1) for convenient drop-offs.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Polishing
+We proudly help local drivers, businesses, and fleet owners restore faded paintwork, remove imperfections, and achieve a high-gloss finish with professional polishing services.
 *   *“My red Holden was turning pink from the sun. The team did a full cut and polish car South Auckland service for me, and the red is incredibly deep and glossy again. Looks like a new paint job!”* — **Mark T., Manukau**
 *   *“Great car cut and polish Papatoetoe experience. They got rid of all the annoying scratches around my door handles and the swirl marks are gone.”* — **Sita P., Papatoetoe**
 *   *“We needed a truck cut and polish South Auckland business to tidy up a vehicle we were selling. The team made the cab look brand new, which definitely helped the sale.”* — **Greg F., East Tamaki**
@@ -135,6 +148,7 @@ Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoe
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Polishing Queries
+Here are answers to some of the most common questions regarding paint correction, swirl mark removal, scratch reduction, polishing timelines, and long-term paint protection.
 *   **Q: Will a cut and polish remove deep scratches?**
     *   *A:* It will completely remove fine scratches that are only in the clear coat. If a scratch catches your fingernail, it is likely too deep to polish out entirely, but polishing will make it much less noticeable.
 *   **Q: How long does a full cut and polish car South Auckland service take?**
