@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Body Kit Installation in Papatoetoe, South Auckland
 
-Upgrade the appearance of your car, ute, truck, or commercial vehicle with professionally fitted body kits, spoilers, side skirts, and styling enhancements. We ensure secure installation, seamless paint matching, and a high-quality finish designed to last.
+Body kit installation for cars, utes, trucks, and commercial vehicles, with precise fitment, colour matching, and factory-quality finishes.
 *   **Custom Upgrades** 
 *   **Perfect Fitment** 
 *   **Flawless Paint Matching** 
@@ -24,7 +24,7 @@ Upgrade the appearance of your car, ute, truck, or commercial vehicle with profe
 ---
 
 ### About Us
-## Professional Body Kit Installation & Vehicle Styling Upgrades
+## Understanding Vehicle Body Kit Upgrades
 Body kit installation is a popular way to enhance your vehicle’s appearance, improve road presence, and create a more personalised look. Whether you're fitting a front bumper, side skirts, rear spoiler, or a complete body kit, professional installation ensures every component fits correctly and complements the vehicle's design.
 
 Many aftermarket body kits require adjustments, preparation, and paint matching before installation. Proper fitting helps achieve even panel gaps, secure mounting, and a factory-quality finish while reducing the risk of future cracking, rubbing, or alignment issues.
