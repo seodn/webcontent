@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Rust Repairs in Papatoetoe for WOF Welding Solutions
 
-Professional rust repairs and structural welding services that help restore vehicle safety, prevent further corrosion, and meet WOF compliance requirements. From surface rust treatment to structural repairs, we provide long-lasting solutions.
+Rust repair and structural welding services for cars, vans, trucks, and commercial vehicles, helping restore safety and WOF compliance
 *   **MTA-Approved Repairs** 
 *   **Underbody Protection** 
 *   **VTNZ & WOF Ready** 
@@ -24,7 +24,7 @@ Professional rust repairs and structural welding services that help restore vehi
 ---
 
 ### About Us
-## Permanent Solutions for Vehicle Rust Damage
+## Understanding Vehicle Rust Repairs & Structural Welding
 Rust repairs involve removing corroded metal, restoring structural strength, and protecting the affected area from future deterioration. Rust can develop from moisture, road debris, stone chips, and damaged paint, often leading to WOF failures if left untreated.
 
 Professional rust repair focuses on removing the source of corrosion rather than covering it up. Depending on the severity, repairs may include rust treatment, metal fabrication, structural welding, panel replacement, and protective sealing to help extend the life of your vehicle.
