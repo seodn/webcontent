@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Mag Wheel Repairs in Papatoetoe, South Auckland
 
-Professional mag wheel repair and alloy wheel refinishing services for cars, vans, utes, and commercial vehicles. From curb damage and scratches to complete wheel resprays, we restore your wheels with durable finishes and factory-quality colour matching.
+Mag wheel repair and alloy wheel refinishing services for cars, vans, utes, and commercial vehicles across South Auckland.
 *   **Curb Damage Removal** 
 *   **Custom Colour Painting**
 *   **Free Courtesy Cars** 
@@ -24,7 +24,7 @@ Professional mag wheel repair and alloy wheel refinishing services for cars, van
 ---
 
 ### About Us
-## Professional Alloy Wheel Repair & Refinishing
+## Understanding Mag Wheel Repair & Refinishing
 
 Mag wheels can easily become damaged from curbs, potholes, road debris, and everyday driving. Scratches, scuffs, peeling paint, and faded finishes not only affect the appearance of your vehicle but can also reduce its overall presentation and value.
 
