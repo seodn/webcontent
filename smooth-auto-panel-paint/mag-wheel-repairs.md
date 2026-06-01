@@ -13,11 +13,10 @@
 ### Hero Section
 # Professional Mag Wheel Repairs in Papatoetoe, South Auckland
 
-#### Removing curb rash, scratches, and restoring the finish.
 At Smooth Auto Panel & Paint, we repair and respray damaged alloy and mag wheels at our East Tamaki Road workshop.
-*   **Curb Damage Removal** – Expert mag wheel repair South Auckland drivers trust to fix unsightly scratches.
-*   **Custom Colour Painting** – We can match your factory wheel colour or respray them a completely new shade.
-*   **Free Courtesy Cars** – A clean, modern replacement car to keep you moving while we fix your wheels.
+*   **Curb Damage Removal** 
+*   **Custom Colour Painting**
+*   **Free Courtesy Cars** 
 
 [Request a Wheel Repair Quote]
 [Call Workshop: 022 584 1510]
