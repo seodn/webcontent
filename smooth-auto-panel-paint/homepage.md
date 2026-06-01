@@ -25,7 +25,7 @@ At Smooth Auto Panel & Paint, we restore passenger cars, commercial vans, and he
 
 ### About Us
 ## Over 30 Years of Trade Excellence in South Auckland
-At Smooth Auto Panel & Paint, we are a fully qualified panel beating and automotive spray painting workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our certified team handles passenger vehicle collision repairs, insurance claims management, WOF structural rust repairs, and commercial vehicle resprays. We work directly with all major New Zealand insurance providers and offer free, late-model courtesy vehicles to keep local drivers mobile while their cars are in our shop.
+At Smooth Auto Panel & Paint, we are a fully qualified panel beating and automotive spray painting workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our Papatoetoe panel and paint team handles passenger vehicle collision repairs, insurance claims management, WOF structural rust repairs, and commercial vehicle resprays. We work directly with all major New Zealand insurance providers and offer free, late-model courtesy vehicles to keep local drivers mobile while their cars are in our shop.
 
 ---
 
@@ -42,11 +42,11 @@ Collisions, car park bumps, and road debris cause immediate damage that compromi
 ### Our Services
 ## Complete Body and Paint Solutions Under One Roof
 From minor dents to heavy transport resprays, our state-of-the-art workshop is fully equipped to handle any repair job with precision and care.
-*   **Professional Panel Beaters:** Precision metal straightening, dent pulling, and body panel replacement.
-*   **Automotive Spray Painting:** Full vehicle resprays and computerised paint colour matching in a professional oven booth.
+*   **Professional Panel Beaters:** As experienced South Auckland panel beaters, we provide precision metal straightening, dent pulling, and body panel replacement.
+*   **Automotive Spray Painting:** High-quality automotive paint South Auckland services, including full vehicle resprays and computerised colour matching.
 *   **Direct Insurance Smash Repairs:** Stress-free claims handling with quotes and digital photos sent straight to your insurer.
 *   **Certified WOF Rust Repairs:** Certified structural welding and rust treatment to pass NZTA inspections quickly.
-*   **Heavy Commercial Truck Refinishing:** Specialised large-booth spray painting and panel beating for transport fleets.
+*   **Heavy Commercial Truck Refinishing:** Dedicated truck panel and paint South Auckland services for transport fleets, using our specialised large spray booth.
 
 [View All 13 Automotive Services]
 
@@ -76,7 +76,7 @@ We take the stress out of vehicle repairs. Here is how we get your vehicle back 
 
 ### Why Choose Us
 ## The Trusted Choice for Professional Repairs in South Auckland
-We are committed to delivering flawless finishes and exceptional service for every customer.
+When you need reliable car repair in South Auckland, we are committed to delivering flawless finishes and exceptional service for every customer.
 *   **Perfect Paint Colour Match:** Computerised colour spectrometers ensure new paint matches your vehicle's aged panel colours perfectly.
 *   **Zero Commuter Downtime:** Free late-model courtesy cars are provided for all major private and insurance repairs.
 *   **MTA-Approved Safety:** All frame pulling and panel welding adhere strictly to New Zealand trade safety standards.
