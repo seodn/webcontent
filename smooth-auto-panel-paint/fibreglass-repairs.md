@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Fibreglass Repairs in Papatoetoe, South Auckland
 
-At Smooth Auto Panel & Paint, we repair fibreglass components for passenger cars, campervans, and commercial trucks at our East Tamaki Road workshop.
+Professional fibreglass repair services for cars, campervans, trucks, and commercial vehicles. From cracked body kits and damaged bumpers to shattered fibreglass panels, we restore strength, appearance, and durability with high-quality repair techniques.
 *   **Structural Repairs** 
 *   **Seamless Finish** 
 *   **Free Courtesy Cars** 
@@ -24,8 +24,18 @@ At Smooth Auto Panel & Paint, we repair fibreglass components for passenger cars
 ---
 
 ### About Us
-## Over 30 Years of Panel and Paint Experience
-At Smooth Auto Panel & Paint, we are a fully qualified repair workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our local team handles everything from minor car scrapes to heavy commercial damage. We specialise in reliable car fibreglass repairs Papatoetoe wide, using quality resins, matting, and accurate paint matching to restore bumpers, body kits, and truck fairings. We also offer free courtesy cars to make the repair process as hassle-free as possible.
+## Professional Fibreglass Panel & Body Component Repairs
+
+Fibreglass is commonly used in vehicle bumpers, body kits, spoilers, campervans, truck fairings, and custom automotive components because it is lightweight, durable, and easy to shape. However, impacts, vibration, and everyday wear can cause cracks, splits, holes, and structural damage that require professional repairs.
+
+Fibreglass repairs involve rebuilding damaged areas using specialist resin systems, fibreglass matting, shaping techniques, and paint refinishing. Proper repairs help restore strength, maintain appearance, and extend the lifespan of damaged fibreglass components without always requiring costly replacements.
+
+✔ Fibreglass crack, split, and hole repairs
+✔ Body kits, spoilers, bumpers, and fairings
+✔ Suitable for cars, campervans, trucks, and fleets
+✔ Structural restoration with seamless paint matching
+
+[Call 022 584 1510]
 
 ---
 
@@ -48,7 +58,6 @@ From minor stress cracks to rebuilding shattered sections, our workshop is fully
 *   **Truck and Fleet Repairs:** Specialised truck fibreglass repairs South Auckland wide for commercial transport vehicles.
 *   **Custom Body Kit Repairs:** Fixing delicate aftermarket side skirts and spoilers.
 
-[View All Our Repair Services]
 
 ---
 
@@ -107,6 +116,7 @@ We select the smartest, most cost-effective method to fix your vehicle:
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your Repaired Panels
+Proper aftercare helps maintain the strength, finish, and long-term durability of repaired fibreglass components. Following these simple maintenance recommendations can help reduce the risk of future damage and preserve the quality of the repair.
 *   **Avoid Automated Car Washes:** Do not use automated brush washes for the first 30 days to let the clear coat settle.
 *   **Mind High Curbs:** Fibreglass is rigid; take extra care when parking face-in to avoid cracking the freshly repaired underside of your front bumper.
 *   **Gentle Hand Washing:** Wash your vehicle with fresh water, a soft microfibre mitt, and mild car wash soap.
@@ -121,12 +131,15 @@ All preparation, fibreglass laying, and spray painting work is carried out by qu
 
 ### Our Location
 ## Easy to Find Near the Southern Motorway
+Our workshop is centrally located on East Tamaki Road, providing easy access for drivers, campervan owners, and commercial fleet operators across South Auckland seeking professional fibreglass repair services.
+
 Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoetoe, Hunters Corner, Manukau, Otara, East Tamaki, and across South Auckland. We are just minutes from the Southern Motorway (SH1) for convenient drop-offs and pickups.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Work
+We proudly help vehicle owners, campervan operators, and commercial fleets restore damaged fibreglass components with quality workmanship, accurate paint matching, and reliable turnaround times.
 *   *“I cracked my aftermarket front bumper on a steep driveway. The team did an amazing car fibreglass repairs Papatoetoe job, and it looks brand new again!”* — **Sarah M., Papatoetoe**
 *   *“We needed reliable truck fibreglass repairs South Auckland wide for our fleet's damaged wind deflectors. Smooth Auto did a fantastic job with a really quick turnaround.”* — **James K., East Tamaki**
 *   *“Great team. The paint match on my repaired side skirt is completely unnoticeable after my fibreglass repairs South Auckland experience, and the free courtesy car was a lifesaver.”* — **Aroha W., Manukau**
@@ -135,6 +148,7 @@ Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoe
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Queries
+Here are answers to some of the most common questions regarding cracked fibreglass panels, body kit repairs, structural restoration, repair timelines, and replacement alternatives.
 *   **Q: Can you fix fibreglass if pieces are actually missing?**
     *   *A:* Yes. If the hole isn't too large, we can rebuild the missing section using fresh fibreglass matting and resin, then sand it to match the original shape.
 *   **Q: Will the new paint match the rest of my car?**
