@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Mag Wheel Repairs in Papatoetoe, South Auckland
 
-At Smooth Auto Panel & Paint, we repair and respray damaged alloy and mag wheels at our East Tamaki Road workshop.
+Professional mag wheel repair and alloy wheel refinishing services for cars, vans, utes, and commercial vehicles. From curb damage and scratches to complete wheel resprays, we restore your wheels with durable finishes and factory-quality colour matching.
 *   **Curb Damage Removal** 
 *   **Custom Colour Painting**
 *   **Free Courtesy Cars** 
@@ -24,8 +24,18 @@ At Smooth Auto Panel & Paint, we repair and respray damaged alloy and mag wheels
 ---
 
 ### About Us
-## Over 30 Years of Automotive Paint Experience
-At Smooth Auto Panel & Paint, we are a fully qualified repair workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our local team handles everything from minor panel dents to complete wheel restorations. We provide a reliable mag wheel repair service South Auckland wide, filling deep curb scrapes and accurately colour-matching the paint so your alloys look pristine again. We also offer free courtesy cars to make the process completely hassle-free.
+## Professional Alloy Wheel Repair & Refinishing
+
+Mag wheels can easily become damaged from curbs, potholes, road debris, and everyday driving. Scratches, scuffs, peeling paint, and faded finishes not only affect the appearance of your vehicle but can also reduce its overall presentation and value.
+
+Professional mag wheel repairs restore damaged alloy wheels through sanding, reshaping, refinishing, and colour matching techniques. Whether you need a single wheel repaired or a complete set refinished, professional wheel restoration helps bring back a clean, factory-quality appearance.
+
+✔ Curb rash, scuff, and scratch repairs
+✔ Alloy wheel repainting and refinishing
+✔ Custom wheel colour changes and upgrades
+✔ Suitable for cars, vans, utes, and commercial vehicles
+
+[Call 022 584 1510]
 
 ---
 
@@ -48,7 +58,6 @@ Our workshop uses professional preparation techniques and heated spray booths to
 *   **Clear Coat Restoration:** Applying durable, high-gloss clear coats that protect against brake dust and road grime.
 *   **Comprehensive Care:** A complete mag wheel repair Papatoetoe service designed for passenger cars and light commercial vehicles.
 
-[View All Our Repair Services]
 
 ---
 
@@ -108,6 +117,7 @@ We select the smartest, most cost-effective method to fix your vehicle:
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your Fresh Wheels
+Proper aftercare helps maintain your wheel finish, paint protection, and overall appearance. Following these simple maintenance practices can help reduce future damage and keep your wheels looking their best.
 *   **Avoid Harsh Acid Cleaners:** Do not use cheap, acidic wheel cleaners as they will eat into your new clear coat.
 *   **Gentle Hand Washing:** Wash your wheels regularly with mild car wash soap and a soft wheel brush to prevent brake dust buildup.
 *   **Mind High Curbs:** Take extra care when parallel parking to avoid scraping the freshly painted lip against the concrete.
@@ -122,12 +132,15 @@ All preparation and spray painting work is carried out by qualified trade techni
 
 ### Our Location
 ## Easy to Find Near the Southern Motorway
+Our workshop is centrally located on East Tamaki Road, making it easy for drivers across South Auckland to access professional alloy wheel repairs, wheel refinishing, and custom colour change services.
+
 Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoetoe, Hunters Corner, Manukau, Otara, East Tamaki, and across South Auckland. We are just minutes from the Southern Motorway (SH1) for convenient drop-offs and pickups.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Work
+We proudly help local drivers and vehicle owners restore scratched, damaged, and faded alloy wheels with quality workmanship, accurate colour matching, and durable finishes.
 *   *“I badly scraped my front alloy wheel on a curb. The team provided an excellent mag wheel repair Papatoetoe service. You can't even tell it was ever damaged!”* — **Sarah M., Papatoetoe**
 *   *“I was looking for a reliable mag wheel repair service South Auckland wide to change my silver wheels to gloss black. Smooth Auto did an amazing job and the finish is flawless.”* — **James K., East Tamaki**
 *   *“Great team and competitive pricing for mag wheel repair South Auckland. The free courtesy car was a huge bonus while they worked on my wheels.”* — **Aroha W., Manukau**
@@ -136,6 +149,7 @@ Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoe
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Queries
+Here are answers to some of the most common questions regarding curb rash repairs, alloy wheel refinishing, colour matching, custom wheel painting, and repair turnaround times.
 *   **Q: Can you fix deep gouges in the metal?**
     *   *A:* Yes. We use specialised alloy fillers and sanding techniques to completely remove and reshape deep curb gouges before painting.
 *   **Q: Can you repair buckled or cracked wheels?**
