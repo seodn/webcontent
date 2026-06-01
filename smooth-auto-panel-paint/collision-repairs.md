@@ -13,7 +13,7 @@
 ### Hero Section
 # Certified Collision Repairs in Papatoetoe for Stress-Free Fixes
 
-Professional collision repairs in Papatoetoe for accident-damaged cars, SUVs, vans, and commercial vehicles. From minor dents and panel damage to major structural work—including dedicated truck collision repairs Papatoetoe transport fleets rely on—we help restore your vehicle safely and efficiently.
+Professional collision repairs in Papatoetoe for accident-damaged cars, trucks, vans, and commercial vehicles. From minor dents and panel damage to major structural work—including dedicated truck collision repairs Papatoetoe transport fleets rely on—we help restore your vehicle safely and efficiently.
 *   **Free Courtesy Cars**
 *   **Direct Insurance Claims** 
 *   **MTA-Approved Repairs** 
