@@ -13,11 +13,10 @@
 ### Hero Section
 # Professional Car Cut and Polish in Papatoetoe, South Auckland
 
-#### Restoring deep gloss and removing fine scratches.
 At Smooth Auto Panel & Paint, we bring the shine back to passenger cars, vans, and commercial trucks at our East Tamaki Road workshop.
-*   **Deep Paint Correction** – High-quality car cut and polish Papatoetoe drivers recommend to remove swirl marks and oxidation.
-*   **Flawless Gloss Finish** – We restore the mirror-like shine to your clear coat.
-*   **Free Courtesy Cars** – A clean, modern replacement car to keep you moving while we detail your vehicle.
+*   **Deep Paint Correction** 
+*   **Flawless Gloss Finish** 
+*   **Free Courtesy Cars** 
 
 [Request a Polish Quote]
 [Call Workshop: 022 584 1510]
