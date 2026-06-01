@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Dent Removal in Papatoetoe for Flawless Panel Restoration
 
-Professional dent removal and scratch repair services that restore damaged panels without compromising your vehicle's appearance. From minor parking dings to larger dents and scratches, we help return your vehicle to its original condition.
+Dent removal and scratch repair services for cars, vans, utes, and commercial vehicles, helping restore damaged panels and paintwork.
 *   **Paintless Dent Removal (PDR)** 
 *   **Hand-Massaged Repairs** 
 *   **Cost-Effective Service** 
@@ -24,7 +24,7 @@ Professional dent removal and scratch repair services that restore damaged panel
 ---
 
 ### About Us
-## Restore Damaged Panels Without Replacing Them
+## Understanding Dent & Scratch Repair Solutions
 Dent removal is a cost-effective way to restore damaged vehicle panels caused by parking incidents, shopping trolleys, minor collisions, and everyday wear. Depending on the damage, repairs may involve paintless dent removal, dent pulling, panel reshaping, or paint refinishing.
 
 Professional dent and scratch repairs help maintain your vehicle's appearance, preserve resale value, and prevent minor damage from becoming more expensive repairs later. The right repair method depends on the depth of the dent and whether the paint surface has been damaged.
