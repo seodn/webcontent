@@ -13,11 +13,10 @@
 ### Hero Section
 # Professional Bumper Repairs in Papatoetoe, South Auckland
 
-#### Fixing scrapes, cracks, and dents quickly and affordably.
 At Smooth Auto Panel & Paint, we repair plastic bumpers for passenger cars, vans, and commercial vehicles at our East Tamaki Road workshop.
-*   **Seamless Repairs** – Expert car bumper repair Papatoetoe drivers trust to remove unsightly scratches and cracks.
-*   **Plastic Welding** – We fix split bumpers so you don't always have to buy a costly replacement.
-*   **Free Courtesy Cars** – A clean, modern replacement car to keep you moving while we work.
+*   **Seamless Repairs** 
+*   **Plastic Welding** 
+*   **Free Courtesy Cars** 
 
 [Request a Bumper Repair Quote]
 [Call Workshop: 022 584 1510]
