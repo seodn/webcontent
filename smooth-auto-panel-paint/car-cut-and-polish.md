@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Car Cut and Polish in Papatoetoe, South Auckland
 
-Professional cut and polish services for cars, vans, trucks, and commercial vehicles. Remove swirl marks, light scratches, oxidation, and dull paint while restoring a deep gloss finish and long-lasting paint protection.
+Restore gloss, remove swirl marks, and improve paint clarity for cars, trucks, and commercial vehicles.
 *   **Deep Paint Correction** 
 *   **Flawless Gloss Finish** 
 *   **Free Courtesy Cars** 
@@ -24,7 +24,7 @@ Professional cut and polish services for cars, vans, trucks, and commercial vehi
 ---
 
 ### About Us
-## Professional Paint Correction & Gloss Restoration
+## Understanding Paint Correction & Surface Restoration
 
 A professional cut and polish helps restore the appearance of faded, scratched, or dull paintwork by removing surface imperfections and enhancing the clarity of your vehicle's finish. It is an effective way to revive paint that has been affected by UV exposure, swirl marks, water spots, and everyday wear.
 
