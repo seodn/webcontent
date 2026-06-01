@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Bumper Repairs in Papatoetoe, South Auckland
 
-Professional bumper repair services for cars, vans, trucks, and commercial vehicles. We repair scratches, dents, cracks, and collision damage while restoring your bumper's appearance with seamless colour matching and durable finishes.
+Restore damaged bumpers with expert repairs, plastic welding, colour matching, and durable paint finishes.
 *   **Seamless Repairs** 
 *   **Plastic Welding** 
 *   **Free Courtesy Cars** 
@@ -24,7 +24,7 @@ Professional bumper repair services for cars, vans, trucks, and commercial vehic
 ---
 
 ### About Us
-## Professional Bumper Repair & Plastic Restoration
+## Understanding Bumper Damage & Repair Solutions
 
 Vehicle bumpers are designed to absorb minor impacts and protect important components during low-speed collisions. Over time, parking scrapes, dents, cracks, and collision damage can affect both the appearance and structural integrity of your bumper.
 
