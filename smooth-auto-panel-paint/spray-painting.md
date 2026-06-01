@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Car Spray Painting in Papatoetoe for Flawless Finishes
 
-Professional car spray painting services for faded paint, accident repairs, replacement panels, and complete vehicle resprays. Restore your vehicle's appearance with accurate colour matching and durable, factory-quality finishes.
+Spray painting services for cars, vans, trucks, and commercial vehicles, delivering accurate colour matching and durable factory-quality finishes.
 *   **Accurate Paint Matching** 
 *   **Heated Spray Booth** 
 *   **Hassle-Free Service** 
@@ -24,7 +24,7 @@ Professional car spray painting services for faded paint, accident repairs, repl
 ---
 
 ### About Us
-## Professional Vehicle Painting & Paint Restoration
+## Understanding Vehicle Spray Painting & Paint Restoration
 Car spray painting helps restore damaged, faded, scratched, or worn paintwork while protecting your vehicle from further deterioration. Whether you need a single panel painted, bumper refinishing, scratch repairs, or a complete respray, professional painting helps maintain your vehicle's appearance and value.
 
 Using advanced colour-matching technology, quality paint systems, and controlled spray booth environments, modern automotive painting delivers a smooth, durable finish that blends seamlessly with existing panels. This service is suitable for private vehicles, commercial fleets, accident repairs, and vehicle restorations.
