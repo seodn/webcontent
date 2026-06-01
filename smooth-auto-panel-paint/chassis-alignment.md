@@ -13,11 +13,10 @@
 ### Hero Section
 # Professional Chassis Alignment in Papatoetoe, South Auckland
 
-#### Precision measuring and straightening for a safe drive.
 At Smooth Auto Panel & Paint, we correct structural damage for passenger cars, vans, and commercial trucks at our East Tamaki Road workshop.
-*   **Factory Specifications** – Professional chassis alignment South Auckland drivers trust to restore safety.
-*   **Accurate Measuring** – We pull twisted and bent frames back into their exact original shape.
-*   **Free Courtesy Cars** – A clean, modern replacement car to keep you moving while we work.
+*   **Factory Specifications** 
+*   **Accurate Measuring**
+*   **Free Courtesy Cars** 
 
 [Request an Alignment Quote]
 [Call Workshop: 022 584 1510]
