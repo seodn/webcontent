@@ -13,7 +13,7 @@
 ### Hero Section
 # Commercial Truck Painting in Papatoetoe for Heavy Vehicles
 
-Professional commercial truck painting and fleet refinishing services for transport operators, contractors, and businesses across South Auckland. Restore your vehicle's appearance, protect it from harsh conditions, and maintain a professional brand image.
+Commercial truck painting and fleet refinishing services for trucks, vans, utes, trailers, and commercial vehicles across South Auckland.
 *   **Large Spray Booth** 
 *   **Heavy-Duty Paint** 
 *   **Fast Fleet Turnaround** 
@@ -24,7 +24,7 @@ Professional commercial truck painting and fleet refinishing services for transp
 ---
 
 ### About Us
-## Durable Refinishing for Trucks, Vans & Commercial Fleets
+## Understanding Commercial Truck Painting
 Commercial truck painting helps protect heavy vehicles from weather, road debris, fuel spills, and everyday wear while maintaining a professional appearance. Whether you operate a single work vehicle or an entire fleet, quality refinishing helps extend vehicle life and support your brand image.
 
 Professional commercial vehicle painting involves thorough preparation, anti-corrosion treatments, premium coatings, and durable finishes designed to withstand demanding operating conditions. This service is suitable for trucks, vans, trailers, utility vehicles, and commercial fleets of all sizes.
