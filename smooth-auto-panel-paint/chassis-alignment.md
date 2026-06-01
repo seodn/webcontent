@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Chassis Alignment in Papatoetoe, South Auckland
 
-Professional chassis alignment and frame straightening services for cars, vans, trucks, and commercial vehicles. We restore accident-damaged vehicle structures to factory specifications, helping improve safety, handling, and roadworthiness.
+Chassis alignment and frame straightening services that restore safety, handling, and structural integrity after accident damage.
 *   **Factory Specifications** 
 *   **Accurate Measuring**
 *   **Free Courtesy Cars** 
@@ -24,7 +24,7 @@ Professional chassis alignment and frame straightening services for cars, vans, 
 ---
 
 ### About Us
-## Professional Chassis Alignment & Frame Straightening
+## Understanding Chassis Alignment & Structural Repairs
 
 Chassis alignment is the process of restoring a vehicle's structural frame after it has been damaged in an accident or impact. Even minor frame distortion can affect steering, suspension performance, tyre wear, and overall vehicle safety if left uncorrected.
 
