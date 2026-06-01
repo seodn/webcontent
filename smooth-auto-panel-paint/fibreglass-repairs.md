@@ -13,11 +13,10 @@
 ### Hero Section
 # Professional Fibreglass Repairs in Papatoetoe, South Auckland
 
-#### Restoring strength and shape to cracked fibreglass panels.
 At Smooth Auto Panel & Paint, we repair fibreglass components for passenger cars, campervans, and commercial trucks at our East Tamaki Road workshop.
-*   **Structural Repairs** – Expert fibreglass repairs South Auckland drivers trust to fix cracks and holes.
-*   **Seamless Finish** – We reshape and paint the repaired area so it blends invisibly with the rest of the panel.
-*   **Free Courtesy Cars** – A clean, modern replacement car to keep you moving while we work.
+*   **Structural Repairs** 
+*   **Seamless Finish** 
+*   **Free Courtesy Cars** 
 
 [Request a Repair Quote]
 [Call Workshop: 022 584 1510]
