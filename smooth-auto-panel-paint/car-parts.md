@@ -25,7 +25,7 @@ Professional car parts painting in Papatoetoe for bumpers, doors, bonnets, mirro
 
 ### About Us
 ## Expert Paint Restoration for Individual Panels and Trims
-Car parts painting is designed to restore damaged, faded, or replacement vehicle components so they blend seamlessly with the rest of your vehicle. Whether you need a new bumper painted, a replacement door colour matched, or a spoiler refinished, professional component painting helps maintain a consistent factory appearance.
+Car parts painting is designed to restore damaged, faded, or replacement vehicle components so they blend seamlessly with the rest of your vehicle. Whether you need a new bumper painted, a replacement door colour matched, or a spoiler refinished, our expert painting for car parts Papatoetoe wide helps maintain a consistent factory appearance.
 
 Using advanced colour-matching technology and quality paint systems, individual parts can be refinished to match surrounding panels in colour, gloss, and finish. This service is ideal for accident repairs, replacement parts, cosmetic improvements, and vehicle restorations.
 
@@ -54,7 +54,7 @@ We handle everything from small plastic garnishes to large body panels with stan
 *   **Door, Fender & Guard Matching:** Spectrometer matching and painting replacement doors, bonnets, or fenders for seamless panel fitment.
 *   **Wing Mirror & Trim Refinishing:** Restoring keyed, scraped, or replacement mirror covers and side door garnishes.
 *   **Bonnets & Boot Lids Respraying:** Restoring stone-chipped bonnets or oxidised boot lids with high-durability baked clears.
-*   **Spoiler & Body Kit Coating:** Precise spray coating custom wings, side skirts, and styling spoilers to align with corporate fleet colours.
+*   **Spoiler & Body Kit Coating:** Precise spray coating for custom wings, side skirts, and truck parts South Auckland transport fleets need to match their corporate colours.
 
 
 ---
@@ -129,8 +129,8 @@ Smooth Auto Panel & Paint is a proud MTA-approved repairer. All replacement auto
 ---
 
 ### Our Location
-## Serving South Auckland's Component Painting Needs
-Our workshop is centrally located on East Tamaki Road, making it easy for customers across South Auckland to access professional component painting, bumper refinishing, and colour matching services.
+## Painting Car Parts South Auckland Wide
+Our workshop is centrally located on East Tamaki Road, making it easy for customers looking for painted car parts South Auckland wide to access professional component refinishing and colour matching services.
 
 Conveniently located at 26C East Tamaki Road, Papatoetoe, we serve car owners, parts recyclers, and auto importers across Papatoetoe, Otara, Wiri, Manukau, Flat Bush, and East Tamaki.
 
