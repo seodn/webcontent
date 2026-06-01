@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Fibreglass Repairs in Papatoetoe, South Auckland
 
-Professional fibreglass repair services for cars, campervans, trucks, and commercial vehicles. From cracked body kits and damaged bumpers to shattered fibreglass panels, we restore strength, appearance, and durability with high-quality repair techniques.
+Fibreglass repair services for cars, campervans, trucks, trailers, and commercial vehicles, restoring damaged panels, fairings, and body components.
 *   **Structural Repairs** 
 *   **Seamless Finish** 
 *   **Free Courtesy Cars** 
@@ -24,7 +24,7 @@ Professional fibreglass repair services for cars, campervans, trucks, and commer
 ---
 
 ### About Us
-## Professional Fibreglass Panel & Body Component Repairs
+## Understanding Fibreglass Vehicle Repairs
 
 Fibreglass is commonly used in vehicle bumpers, body kits, spoilers, campervans, truck fairings, and custom automotive components because it is lightweight, durable, and easy to shape. However, impacts, vibration, and everyday wear can cause cracks, splits, holes, and structural damage that require professional repairs.
 
