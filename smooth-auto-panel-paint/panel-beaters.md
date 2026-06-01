@@ -27,7 +27,7 @@ Professional panel beating services for accident damage, dent repairs, structura
 ## Decades of Panel Beating and Body Restoration Experience
 Panel beating is the process of repairing damaged vehicle panels, restoring body alignment, and correcting structural damage caused by accidents, impacts, or corrosion. It plays an important role in maintaining vehicle safety, appearance, and long-term value.
 
-From minor dents and damaged doors to major collision repairs and structural welding, professional panel beating helps return vehicles to their original condition. Modern repair techniques allow damaged panels to be repaired, reshaped, or replaced while maintaining factory standards.
+From minor dents and damaged doors to major collision repairs and structural welding, our expert panel beaters Papatoetoe team helps return vehicles to their original condition. Modern repair techniques allow damaged panels to be repaired, reshaped, or replaced while maintaining factory standards.
 
 ✔ Accident and collision damage repairs
 ✔ Structural and body panel restoration
@@ -51,7 +51,7 @@ Even minor bumps or hidden rust can compromise your vehicle’s safety. We inspe
 ## Reliable Body Repairs for Vehicles of All Sizes
 Our workshop is fully equipped to handle anything from minor supermarket dings to major truck repairs:
 *   **Car Smash Repairs:** Body panel repair and structural restoration following minor bumps or major crashes.
-*   **Commercial Truck Panel Beating:** Frame straightening and heavy-vehicle panel repairs for commercial fleets.
+*   **Commercial Vehicle Repairs:** Dedicated truck panel beaters South Auckland fleets trust for frame straightening and heavy-vehicle panel repairs.
 *   **Paintless Dent Removal (PDR):** Quick, affordable repairs for parking dings without repainting the panel.
 *   **Replacement Panel Fitting:** Sourcing and aligning original or high-quality aftermarket panels.
 *   **Certified WOF Welding:** Welding repairs for vehicles with structural rust failures or rust holes.
@@ -137,7 +137,7 @@ Located at 26C East Tamaki Road, our workshop is minutes from Great South Road, 
 ---
 
 ### Customer Reviews
-## What Our Local Clients Say About Our Body Restoration
+## What Clients Say About Our Panel Beaters South Auckland Services
 We proudly help local drivers, businesses, and fleet owners restore damaged vehicles with reliable workmanship, honest service, and quality repairs.
 *   *“The panel beating team at Smooth Auto Panel & Paint restored my damaged driver-side door perfectly. You can't even tell it was dented. The free late-model courtesy car was a lifesaver!”* — **Liam K., Papatoetoe**
 *   *“Top-notch WOF rust repair. They cut out the rust and welded new steel plates within 24 hours. The inspection sheet passed without a single question.”* — **Hemi P., Manukau**
