@@ -24,8 +24,17 @@ At Smooth Auto Panel & Paint, we upgrade passenger vehicles and commercial fleet
 ---
 
 ### About Us
-## Over 30 Years of Panel and Paint Experience
-At Smooth Auto Panel & Paint, we are a fully qualified repair and modification workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our local team handles everything from minor accident repairs to complete car body kit installation Papatoetoe wide. We take the time to properly fit bumpers, side skirts, and spoilers, ensuring your vehicle looks fantastic and remains safe on the road. We also offer free courtesy cars to keep you moving while we work on your vehicle.
+## Professional Body Kit Installation & Vehicle Styling Upgrades
+Body kit installation is a popular way to enhance your vehicle’s appearance, improve road presence, and create a more personalised look. Whether you're fitting a front bumper, side skirts, rear spoiler, or a complete body kit, professional installation ensures every component fits correctly and complements the vehicle's design.
+
+Many aftermarket body kits require adjustments, preparation, and paint matching before installation. Proper fitting helps achieve even panel gaps, secure mounting, and a factory-quality finish while reducing the risk of future cracking, rubbing, or alignment issues.
+
+✔ Front bumpers, side skirts, spoilers, and splitters
+✔ Car and commercial vehicle body kit installations
+✔ Professional colour matching and paint refinishing
+✔ Secure fitment with factory-style panel alignment
+
+[Call 022 584 1510]
 
 ---
 
@@ -47,8 +56,6 @@ Our workshop is fully equipped to handle all your styling and modification needs
 *   **Spoiler and Wing Mounting:** Secure bolting and adhesive bonding for rear wings and roof spoilers.
 *   **Custom Paint Matching:** Spraying your new components in our heated booth for an exact colour match.
 *   **Panel Adjustments:** Modifying aftermarket parts to ensure the panel gaps are even and flush.
-
-[View All Custom Services]
 
 ---
 
@@ -107,6 +114,7 @@ Not sure which material is best for your car? Here is a quick guide:
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your New Look
+Proper aftercare helps maintain your body kit’s appearance, paint finish, and fitment quality. Following these simple maintenance recommendations can help protect your investment and keep your vehicle looking its best.
 *   **Mind the Curbs:** Custom kits often lower your car's ground clearance, so be careful when parking near high curbs.
 *   **Avoid Automated Car Washes:** Do not use automated brush washes for the first 30 days to let the fresh clear coat settle.
 *   **Gentle Hand Washing:** Wash your vehicle with fresh water, a soft microfibre mitt, and mild car wash soap.
@@ -121,12 +129,15 @@ All fitting and spray painting work is carried out by qualified trade technician
 
 ### Our Location
 ## Easy to Find Near the Southern Motorway
+Our workshop is centrally located on East Tamaki Road, providing easy access for drivers throughout South Auckland looking for professional body kit fitting, paint matching, and vehicle styling upgrades.
+
 Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoetoe, Hunters Corner, Manukau, Otara, East Tamaki, and across South Auckland. We are just minutes from the Southern Motorway (SH1) for convenient drop-offs.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Work
+We proudly help car owners, performance enthusiasts, and commercial vehicle operators achieve professional-quality body kit installations with reliable workmanship and attention to detail.
 *   *“I bought an aftermarket bumper online and the fit was terrible. The team spent the time modifying it, and now my car body kit installation Papatoetoe job looks like it came from the factory!”* — **Liam T., Papatoetoe**
 *   *“We needed a reliable truck body kit installation South Auckland service for our new rig. Smooth Auto matched our company colours perfectly. Highly recommended.”* — **David H., East Tamaki**
 *   *“Great service and they gave me a free courtesy car while they painted and fitted my new side skirts.”* — **Chloe R., Manukau**
@@ -135,6 +146,7 @@ Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoe
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Queries
+Here are answers to some of the most common questions about body kit fitment, paint matching, aftermarket parts, installation timelines, and vehicle modifications.
 *   **Q: Do you supply the body kits or do I bring my own?**
     *   *A:* We typically install kits that customers have sourced themselves, but we can help advise you on the best brands and materials before you buy.
 *   **Q: Will the new paint match my old paint exactly?**
