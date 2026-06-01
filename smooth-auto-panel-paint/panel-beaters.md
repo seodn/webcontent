@@ -13,7 +13,7 @@
 ### Hero Section
 # Trusted Panel Beaters in Papatoetoe for Quality Repairs
 
-Professional panel beating services for accident damage, dent repairs, structural restoration, and vehicle body repairs. We help restore your vehicle's safety, appearance, and roadworthiness after damage.
+Panel beating services for cars, vans, trucks, and commercial vehicles, restoring accident damage, dents, and structural body repairs.
 *   **Free Courtesy Cars**
 *   **MTA-Approved Workshop** 
 *   **Direct Insurance Claims** 
@@ -24,7 +24,7 @@ Professional panel beating services for accident damage, dent repairs, structura
 ---
 
 ### About Us
-## Decades of Panel Beating and Body Restoration Experience
+## Understanding Panel Beating & Vehicle Body Repairs
 Panel beating is the process of repairing damaged vehicle panels, restoring body alignment, and correcting structural damage caused by accidents, impacts, or corrosion. It plays an important role in maintaining vehicle safety, appearance, and long-term value.
 
 From minor dents and damaged doors to major collision repairs and structural welding, our expert panel beaters Papatoetoe team helps return vehicles to their original condition. Modern repair techniques allow damaged panels to be repaired, reshaped, or replaced while maintaining factory standards.
