@@ -13,7 +13,7 @@
 ### Hero Section
 # Professional Bumper Repairs in Papatoetoe, South Auckland
 
-At Smooth Auto Panel & Paint, we repair plastic bumpers for passenger cars, vans, and commercial vehicles at our East Tamaki Road workshop.
+Professional bumper repair services for cars, vans, trucks, and commercial vehicles. We repair scratches, dents, cracks, and collision damage while restoring your bumper's appearance with seamless colour matching and durable finishes.
 *   **Seamless Repairs** 
 *   **Plastic Welding** 
 *   **Free Courtesy Cars** 
@@ -24,9 +24,18 @@ At Smooth Auto Panel & Paint, we repair plastic bumpers for passenger cars, vans
 ---
 
 ### About Us
-## Over 30 Years of Panel Beating and Spray Painting Experience
-At Smooth Auto Panel & Paint, we are a fully qualified repair workshop located at 26C East Tamaki Road, Papatoetoe. With more than three decades of experience, our local team handles everything from minor supermarket scrapes to major collision damage. We specialise in reliable bumper repair South Auckland wide, using modern plastic welding and accurate paint matching to make your vehicle look as good as new. We also offer free courtesy cars to make the repair process as hassle-free as possible.
+## Professional Bumper Repair & Plastic Restoration
 
+Vehicle bumpers are designed to absorb minor impacts and protect important components during low-speed collisions. Over time, parking scrapes, dents, cracks, and collision damage can affect both the appearance and structural integrity of your bumper.
+
+Professional bumper repairs help restore damaged plastic bumpers without always requiring a full replacement. Using specialist repair techniques such as plastic welding, dent reshaping, paint refinishing, and colour matching, damaged bumpers can often be returned to their original appearance while helping maintain your vehicle's value.
+
+✔ Plastic bumper crack repairs and welding
+✔ Dent reshaping and impact damage repairs
+✔ Colour matching and paint refinishing
+✔ Car, van, ute, and truck bumper repairs
+
+[Call 022 584 1510]
 ---
 
 ### Common Scenarios
@@ -48,7 +57,6 @@ From minor touch-ups to full replacements, our workshop is fully equipped for an
 *   **Truck Bumper Repair:** Specialised truck bumper repair South Auckland wide for larger commercial vehicles and fleets.
 *   **Sensor Recalibration:** Carefully removing and refitting parking sensors during the repair process.
 
-[View All Our Repair Services]
 
 ---
 
@@ -107,6 +115,7 @@ We select the smartest, most cost-effective method to fix your vehicle:
 
 ### Aftercare Guide
 ## Simple Tips to Protect Your Fresh Paint
+Proper aftercare helps maintain your bumper's paint finish, colour consistency, and long-term durability. Following these simple care recommendations can help protect the repaired area from scratches, fading, and premature wear.
 *   **Avoid Automated Car Washes:** Do not use automated brush washes for the first 30 days to let the clear coat settle.
 *   **Gentle Hand Washing:** Wash your vehicle with fresh water, a soft microfibre mitt, and mild car wash soap.
 *   **Mind High Curbs:** Be careful when parking face-in to avoid scraping the freshly painted underside of your front bumper.
@@ -121,12 +130,15 @@ All panel beating and spray painting work is carried out by qualified trade tech
 
 ### Our Location
 ## Easy to Find Near the Southern Motorway
+Our workshop is centrally located on East Tamaki Road, providing easy access for drivers across South Auckland seeking professional bumper repairs, paint refinishing, and plastic restoration services.
+
 Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoetoe, Hunters Corner, Manukau, Otara, East Tamaki, and across South Auckland. We are just minutes from the Southern Motorway (SH1) for convenient drop-offs and pickups.
 
 ---
 
 ### Customer Reviews
 ## What Our Local Clients Say About Our Work
+We proudly help local drivers, families, and commercial vehicle owners restore damaged bumpers with quality workmanship, accurate colour matching, and reliable turnaround times.
 *   *“I reversed into a low wall and cracked my bumper. They managed to weld and fix it without needing a new part. Excellent car bumper repair Papatoetoe service!”* — **Sarah M., Papatoetoe**
 *   *“Our delivery van needed a quick truck bumper repair South Auckland wide to keep it looking professional. Smooth Auto did a fantastic job with a really quick turnaround.”* — **James K., East Tamaki**
 *   *“Great team. The paint match on my silver Mazda is completely unnoticeable after my bumper repair South Auckland experience, and the free courtesy car was a lifesaver.”* — **Aroha W., Manukau**
@@ -135,6 +147,7 @@ Our workshop at 26C East Tamaki Road is easily accessible for drivers in Papatoe
 
 ### Frequently Asked Questions
 ## Quick Answers to Common Queries
+Here are answers to some of the most common questions regarding bumper scratches, plastic crack repairs, paint matching, repair timelines, and replacement options.
 *   **Q: Can you fix my bumper if the plastic is actually split?**
     *   *A:* Yes. We use plastic welding techniques to melt and fuse the cracked areas back together, restoring the bumper's strength.
 *   **Q: Will the new paint match the rest of my car?**
