@@ -8,17 +8,29 @@ This context is built directly upon Digital Neighbour's core operational values,
 
 ---
 
-## 1. Product Overview
+## 1. Strategic Vision & Aim
+
+*   **Our Aim:** To be recognized as the top 1% Search Agency in New Zealand.
+*   **The Scope of "Search":** To us, "Search" means any platform where a customer looks for services. This includes conversational LLM search engines (ChatGPT Search, Claude, Google Gemini, Perplexity), traditional web search engines (Google, Bing), smart voice assistants (Siri, Google Assistant), or search-driven paid advertising (Google Ads, Bing Ads). Wherever a customer searches, we will help our clients reach them, capture the demand, and do great business.
+
+---
+
+## 2. Product Overview & Services
 
 *   **One-liner:** New Zealand’s premier search marketing agency bridging the gap between traditional Google SEO/Ads and the new conversational AI search engines.
 *   **What it does:** We defend and grow our clients' traditional Google rankings and Google Ads to generate immediate leads, while simultaneously structuring their websites and data so they are recommended by conversational AI platforms like ChatGPT Search, Google Gemini, and Apple Intelligence (Siri).
 *   **Product category:** Hybrid Search Marketing & Digital Growth.
 *   **Product type:** Embedded Technical Marketing Agency & Managed Growth Service.
 *   **Business model:** Month-to-month, outcome-driven partnerships with no locked-in long-term contracts (open-term relationships).
+*   **Services & Revenue Breakdown:**
+    *   **SEO (Core Service):** 60% of total revenue.
+    *   **Website Design & Custom Development:** 20% of total revenue.
+    *   **Google Ads:** 10% of total revenue.
+    *   **Remaining Services (Hosting, Support, etc.):** 10% of total revenue.
 
 ---
 
-## 2. Founder Story & Leadership
+## 3. Founder Story & Leadership
 
 This product positioning is grounded in the real-world experiences of our leadership:
 
@@ -33,7 +45,7 @@ This product positioning is grounded in the real-world experiences of our leader
 
 ---
 
-## 3. Core Company Principles (How We Think)
+## 4. Core Company Principles (How We Think)
 
 Our team lives by five principles extracted directly from our internal team guides:
 
@@ -45,7 +57,7 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ---
 
-## 4. Search & SEO Philosophy
+## 5. Search & SEO Philosophy
 
 *   **SEO is Evolving, Not Dying:** At Digital Neighbour, we believe search is not dying—it is expanding. Traditional keyword search is shifting to a broader search ecosystem.
 *   **The Mall Analogy:** *"Google is no longer the entire shopping mall. It is now one of many stores inside the shopping mall. Customers are walking into different stores (ChatGPT, Siri, Claude, Gemini, Perplexity) looking for answers. Businesses need visibility across all of them."*
@@ -53,9 +65,9 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ---
 
-## 5. Target Audience & Client Blueprints
+## 6. Target Audience & Client Blueprints
 
-*   **Target companies:** New Zealand small-to-medium businesses (SMEs) and localized brands—predominantly located in **Christchurch and Auckland**—spanning essential trades (mechanics, panel beaters, concrete sealing, solar control), local healthcare (dentists, physios), childcare/education, retail/services (florists, travel), B2B developers, and residential builders.
+*   **Target companies:** New Zealand small-to-medium businesses (SMEs) and localized brands—predominantly located in **Christchurch and Auckland**—spanning essential trades (mechanics, panel beaters, concrete sealing, window tinting), local healthcare (dentists, physios), childcare/education, retail/services (florists, travel), B2B developers, and residential builders.
 *   **Decision-makers:** Business Owners, Managing Directors, and local Marketing Managers who need tangible results (phone calls, booking forms, leads) rather than confusing agency charts.
 *   **Primary use case:** Ensuring local and national businesses remain highly visible and recommended whenever a customer looks for their service, whether they type a keyword into Google or ask their phone/ChatGPT a natural language question.
 *   **Jobs to be done:**
@@ -66,11 +78,11 @@ Our team lives by five principles extracted directly from our internal team guid
     *   **Blueprint A (Automotive & Mechanical Trades):** Voice & local entity optimization (linking Google Business Profiles to Wikidata structures so CarPlay/Siri recommend workshops), clear Q&A styling, and sub-1.5s load speeds for real-time mobile lookup.
     *   **Blueprint B (Local Services & Trades):** Service specification tables, first-party review schema nesting, and geographical local authority networks.
     *   **Blueprint C (Healthcare, Dental & Childcare):** High-trust sector compliance (E-E-A-T) linking profiles to professional NZ registries (Dental Council, Teaching Council) using `sameAs` attributes.
-    *   **Blueprint D (Retail, Food, Travel & Tech):** Rich product schema integration for price, stock, and reviews to sync with AI shopping agents.
+    *   **Blueprint D (Retail, Food, Travel & Tech):** Rich product schema integration for price, stock, and reviews to sync with AI shopping agents (e.g., Christchurch City Flowers, Krishna Jewellers, Silva Travel).
 
 ---
 
-## 6. Problems & Pain Points
+## 7. Problems & Pain Points
 
 *   **Core problem:** Search behavior is changing rapidly. More than 60% of searches now result in "zero clicks" because Google displays the answer directly on the page, and local searchers are starting to ask ChatGPT or Siri instead of typing short phrases.
 *   **Why traditional solutions fall short:**
@@ -82,7 +94,7 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ---
 
-## 7. Competitive Landscape
+## 8. Competitive Landscape
 
 *   **Direct Competitor: ThatWare**  
     *   *Where they fall short:* ThatWare operates as a highly technical, distant agency. Their messaging is heavily bogged down in complex jargon (like NLP, semantic algorithms, and machine learning models). They lack a local New Zealand presence and do not provide hands-on, high-converting custom web development or localized support for Auckland and Christchurch business owners.
@@ -93,7 +105,7 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ---
 
-## 8. Differentiation: Why Customers Choose Digital Neighbour
+## 9. Differentiation: Why Customers Choose Digital Neighbour
 
 *   **No Complex Jargon (Analogy-Led):** We do not throw terms like "GEO", "AEO", or "vector search spaces" at our clients. We explain exactly *how* search is changing in plain English and use simple analogies.
 *   **Embedded Partner Model:** We do not act like an external vendor sending automated monthly PDFs. We work alongside the client, deeply understanding their local business dynamics in Christchurch and Auckland ("Their business is their baby, our job is to look after it").
@@ -103,7 +115,7 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ---
 
-## 9. The 7-Step SEO Process
+## 10. The 7-Step SEO Process
 
 We follow a transparent, collaborative, and results-first process:
 1.  **Discovery:** Understanding business goals, target audience, services, markets, competitors, and growth plans. We believe understanding the business is more important than understanding keywords.
@@ -116,7 +128,7 @@ We follow a transparent, collaborative, and results-first process:
 
 ---
 
-## 10. Digital Neighbour Tool Stack
+## 11. Digital Neighbour Tool Stack
 
 We believe tools do not create results—people do. However, great people using great tools create better outcomes. Our technical ecosystem includes:
 
@@ -126,7 +138,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 11. Objections & Answers
+## 12. Objections & Answers
 
 | Common Objection | Our Strategic Response |
 | :--- | :--- |
@@ -138,7 +150,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 12. Switching Dynamics (The Four Forces of JTBD)
+## 13. Switching Dynamics (The Four Forces of JTBD)
 
 *   **Push (Frustrations with current setup):** 
     *   Website traffic is starting to slip despite paying a traditional SEO retainer.
@@ -157,7 +169,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 13. Customer Language & Analogy Library
+## 14. Customer Language & Analogy Library
 
 *   **How they describe their problems:**
     *   *"My leads have dropped recently and I do not know why."*
@@ -188,7 +200,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 14. Brand Voice & Style
+## 15. Brand Voice & Style
 
 *   **Tone:** Friendly, helpful, practical, and highly reassuring.
 *   **Style:** Clear, conversational, direct, and completely free of complex acronyms.
@@ -196,7 +208,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 15. Proof Points & Track Record
+## 16. Proof Points & Track Record
 
 *   **Active Client Base:** **31 active SEO clients** across Auckland and Christchurch, representing diverse New Zealand industries (automotive panel beating, childcare, dentists, retail jewellers, florists, home trade services).
 *   **Google Ads Expertise:** **8 active Google Ads clients** receiving consistent monthly lead flow.
@@ -212,7 +224,7 @@ We believe tools do not create results—people do. However, great people using 
 
 ---
 
-## 16. Strategic Goals
+## 17. Strategic Goals
 
 *   **Primary business goal:** Secure Digital Neighbour as the go-to agency for New Zealand SMEs looking to survive and thrive during the search engine revolution.
 *   **Primary conversion action:** A free, interactive **"AI Search Readiness Audit"** where we show NZ business owners exactly how their business currently appears (or fails to appear) when searched via ChatGPT, Google Gemini, and Siri compared to their competitors.
