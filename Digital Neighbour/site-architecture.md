@@ -8,13 +8,12 @@ This document defines the information architecture, URL hierarchy, navigation st
 
 ## 1. Page Hierarchy (ASCII Tree)
 
-We maintain a moderate 3-level depth to stay as flat as possible while organizing our 18 distinct services under logical parent categories.
+We maintain a moderate 3-level depth to stay as flat as possible while organizing our services under logical parent categories, with Search Engine Optimisation acting as our core marketing hub.
 
 ```
 Homepage (/)
 ├── Services (/services)
-│   ├── Search Visibility Hub (/services/search-visibility)
-│   │   ├── Traditional SEO (/services/seo)
+│   ├── Search Engine Optimisation Hub (/services/search-engine-optimisation)
 │   │   ├── Local SEO (/services/local-seo)
 │   │   ├── AI SEO (GEO & AEO) (/services/ai-seo)
 │   │   ├── E-commerce SEO (/services/ecommerce-seo)
@@ -60,13 +59,12 @@ graph TD
     CONTACT[Contact Us /contact]
 
     %% Service Category Hubs
-    S_VIS[Search Visibility Hub /services/search-visibility]
+    S_SEO[Search Engine Optimisation Hub /services/search-engine-optimisation]
     S_DEV[Web Development Hub /services/website-development]
     S_ADS[Google Ads Hub /services/google-ads]
     S_OTH[Other Services Hub /services/other-services]
 
-    %% L2 - Search Visibility
-    SEO[Traditional SEO /services/seo]
+    %% L2 - Search Engine Optimisation (Spokes)
     LSEO[Local SEO /services/local-seo]
     AISEO[AI SEO AEO/GEO /services/ai-seo]
     ESEO[E-commerce SEO /services/ecommerce-seo]
@@ -95,7 +93,7 @@ graph TD
     %% Subgraphs for Navigation Zones
     subgraph Header_Nav [Header Navigation]
         HOME
-        S_VIS
+        S_SEO
         S_DEV
         S_ADS
         S_OTH
@@ -105,7 +103,7 @@ graph TD
     end
 
     %% Connections
-    HOME --> S_VIS
+    HOME --> S_SEO
     HOME --> S_DEV
     HOME --> S_ADS
     HOME --> S_OTH
@@ -113,11 +111,10 @@ graph TD
     HOME --> BLOG
     HOME --> CONTACT
 
-    S_VIS --> SEO
-    S_VIS --> LSEO
-    S_VIS --> AISEO
-    S_VIS --> ESEO
-    S_VIS --> CRO
+    S_SEO --> LSEO
+    S_SEO --> AISEO
+    S_SEO --> ESEO
+    S_SEO --> CRO
 
     S_DEV --> EDEV
     S_DEV --> WDEV
@@ -137,7 +134,7 @@ graph TD
     S_OTH --> EHOST
 
     %% Directing to Primary CTA
-    SEO -.-> AUDIT
+    S_SEO -.-> AUDIT
     AISEO -.-> AUDIT
     CRO -.-> AUDIT
     WDEV -.-> AUDIT
@@ -156,12 +153,11 @@ graph TD
 | **About Us** | `/about` | Homepage | Header / Footer | Medium |
 | **Blog** | `/blog` | Homepage | Header / Footer | Medium |
 | **Contact Us** | `/contact` | Homepage | Header / Footer | High |
-| **Search Visibility Hub** | `/services/search-visibility` | Homepage | Header (Dropdown) | High |
-| Traditional SEO | `/services/seo` | Search Visibility Hub | Dropdown / Footer | High |
-| Local SEO | `/services/local-seo` | Search Visibility Hub | Dropdown / Footer | High |
-| AI SEO (AEO / GEO) | `/services/ai-seo` | Search Visibility Hub | Dropdown / Footer | High |
-| E-commerce SEO | `/services/ecommerce-seo` | Search Visibility Hub | Dropdown / Footer | Medium |
-| Conversion Rate Optimisation | `/services/cro` | Search Visibility Hub | Dropdown / Footer | Medium |
+| **Search Engine Optimisation Hub** | `/services/search-engine-optimisation` | Homepage | Header (Dropdown) | High |
+| Local SEO | `/services/local-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
+| AI SEO (AEO / GEO) | `/services/ai-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
+| E-commerce SEO | `/services/ecommerce-seo` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
+| Conversion Rate Optimisation | `/services/cro` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
 | **Website Development Hub** | `/services/website-development` | Homepage | Header (Dropdown) | High |
 | E-commerce Website Dev | `/services/ecommerce-development` | Website Development Hub | Dropdown / Footer | Medium |
 | WordPress Website Dev | `/services/wordpress-development` | Website Development Hub | Dropdown / Footer | High |
@@ -185,11 +181,11 @@ graph TD
 ## 4. Navigation Spec
 
 ### Header Navigation
-Designed to group our 18 services into 4 dropdown columns to avoid choices overload (following the 4-7 max items rule).
+Designed to group our services into 4 dropdown columns to avoid choices overload (following the 4-7 max items rule).
 
 *   **Logo:** (Left-aligned) links to `/`
-*   **Item 1: Search Visibility** (Dropdown Menu):
-    *   Traditional SEO (`/services/seo`)
+*   **Item 1: Search Engine Optimisation** (Dropdown Menu):
+    *   Overview / Core SEO (`/services/search-engine-optimisation`)
     *   Local SEO (`/services/local-seo`)
     *   AI SEO (AEO/GEO) (`/services/ai-seo`)
     *   E-commerce SEO (`/services/ecommerce-seo`)
@@ -215,10 +211,10 @@ Designed to group our 18 services into 4 dropdown columns to avoid choices overl
 *   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
 
 ### Footer Organization
-Structured in columns to act as an exhaustive sitemap:
+Structured in columns to act as an sitemap:
 
-*   **Column 1: Search Visibility**
-    *   Traditional SEO
+*   **Column 1: Search Engine Optimisation**
+    *   Search Engine Optimisation Overview
     *   Local SEO
     *   AI SEO (AEO / GEO)
     *   E-commerce SEO
@@ -249,7 +245,7 @@ Structured in columns to act as an exhaustive sitemap:
 
 ### Breadcrumbs Pattern
 Implemented on all L2 pages to reinforce parent hierarchy and internal link strength:
-*   `Home > Services > Search Visibility > AI SEO (GEO & AEO)`
+*   `Home > Services > Search Engine Optimisation > AI SEO (GEO & AEO)`
 *   `Home > Blog > Category > Post Title`
 
 ---
@@ -260,10 +256,10 @@ To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tigh
 
 ### Hub-and-Spoke Topic Clusters
 
-#### Cluster 1: Search Visibility (Core Service Hub - 60% Revenue)
-*   **Hub Page:** `/services/search-visibility` (Provides a plain English overview of the search landscape shift, using our Yellow Pages to Google / smartphone shift analogies).
-*   **Spokes:** `/services/seo`, `/services/local-seo`, `/services/ai-seo`, `/services/ecommerce-seo`, `/services/cro`.
-*   **Linking Rules:** The Hub links out to all 5 spokes. Every spoke links back to the `/services/search-visibility` hub with anchor text matching the service name. Spoke pages also interlink (e.g., `/services/local-seo` links to `/services/ai-seo` as the future of local business lookup).
+#### Cluster 1: Search Engine Optimisation (Core Service Hub - 60% Revenue)
+*   **Hub Page:** `/services/search-engine-optimisation` (Provides a plain English overview of core SEO and the search landscape shift, using our Yellow Pages to Google / smartphone shift analogies).
+*   **Spokes:** `/services/local-seo`, `/services/ai-seo`, `/services/ecommerce-seo`, `/services/cro`.
+*   **Linking Rules:** The Hub links out to all 4 spokes. Every spoke links back to the `/services/search-engine-optimisation` hub. Spoke pages also interlink (e.g., `/services/local-seo` links to `/services/ai-seo` as the future of local business lookup).
 
 #### Cluster 2: Website Development (20% Revenue)
 *   **Hub Page:** `/services/website-development` (Focuses on building fast, SEO-friendly assets that act as a business foundation).
@@ -277,7 +273,7 @@ To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tigh
 
 ### Cross-Section Linking Opportunities
 
-1.  **Connecting Web Dev to SEO (The Foundation Analogy):** On `/services/wordpress-development` and `/services/ecommerce-development`, link directly to `/services/seo` and `/services/website-optimisation` with anchor text like *"clean technical SEO foundation"* or *"speed optimization"*. Cite our signature analogy: *"A website is the foundation of a house, and SEO is the house itself. If the foundation is weak, the walls crack."*
+1.  **Connecting Web Dev to SEO (The Foundation Analogy):** On `/services/wordpress-development` and `/services/ecommerce-development`, link directly to `/services/search-engine-optimisation` and `/services/website-optimisation` with anchor text like *"clean technical SEO foundation"* or *"speed optimization"*. Cite our signature analogy: *"A website is the foundation of a house, and SEO is the house itself. If the foundation is weak, the walls crack."*
 2.  **Connecting Google Ads to CRO and Landing Pages:** On `/services/google-search-ads` and `/services/performance-max`, link to `/services/cro` and `/services/landing-page-optimisation` with text like *"improving landing page conversion rates"*. Cite the QA check rule: *"A broken contact form or bad landing page can cost thousands in wasted ad spend."*
-3.  **Audit Hook CTA Anchor:** Every L2 service page (especially `/services/ai-seo`, `/services/seo`, `/services/local-seo`, `/services/cro`) must feature a distinct Call-to-Action section linking to `/ai-readiness-audit`. The anchor text should promote the *"Free NZ AI Search Readiness Audit"* to compare their business against local competitors.
+3.  **Audit Hook CTA Anchor:** Every L2 service page (especially `/services/ai-seo`, `/services/search-engine-optimisation`, `/services/local-seo`, `/services/cro`) must feature a distinct Call-to-Action section linking to `/ai-readiness-audit`. The anchor text should promote the *"Free NZ AI Search Readiness Audit"* to compare their business against local competitors.
 4.  **Blog to Service Linking:** Every educational blog post in a category must link to its corresponding L2 service page within the first 150 words (e.g., a post about Siri voice search links to `/services/ai-seo`).
