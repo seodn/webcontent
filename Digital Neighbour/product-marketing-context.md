@@ -23,10 +23,11 @@ This context is built directly upon Digital Neighbour's core operational values,
 *   **Product type:** Embedded Technical Marketing Agency & Managed Growth Service.
 *   **Business model:** Month-to-month, outcome-driven partnerships with no locked-in long-term contracts (open-term relationships).
 *   **Services & Revenue Breakdown:**
-    *   **SEO (Core Service):** 60% of total revenue.
-    *   **Website Design & Custom Development:** 20% of total revenue.
-    *   **Google Ads:** 10% of total revenue.
+    *   **SEO (Core Service):** 60% of total revenue. All custom websites and search channels are built with a deep SEO-first approach.
+    *   **Website Design & Custom Development:** 20% of total revenue. Every custom website we build is designed to be 100% SEO-friendly out of the box.
+    *   **Google Ads:** 10% of total revenue. Used as an ongoing, high-converting lead channel for established SEO clients to capture immediate search intent.
     *   **Remaining Services (Hosting, Support, etc.):** 10% of total revenue.
+*   **LLM Search Tracking:** We actively audit and integrate tracking on LLM platforms, measuring and tracking "Share of Voice" and recommendations inside AI answers as part of our core growth metrics.
 
 ---
 
@@ -67,7 +68,7 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ## 6. Target Audience & Client Blueprints
 
-*   **Target companies:** New Zealand small-to-medium businesses (SMEs) and localized brands—predominantly located in **Christchurch and Auckland**—spanning essential trades (mechanics, panel beaters, concrete sealing, window tinting), local healthcare (dentists, physios), childcare/education, retail/services (florists, travel), B2B developers, and residential builders.
+*   **Target companies:** Both established local/national businesses (e.g., multi-location clinics, large B2B developers) and local trades/SMEs (mechanics, panel beaters, concrete sealing, window tinting, florists, travel, childcare/education, retail/services, residential builders) located predominantly in **Christchurch and Auckland**.
 *   **Decision-makers:** Business Owners, Managing Directors, and local Marketing Managers who need tangible results (phone calls, booking forms, leads) rather than confusing agency charts.
 *   **Primary use case:** Ensuring local and national businesses remain highly visible and recommended whenever a customer looks for their service, whether they type a keyword into Google or ask their phone/ChatGPT a natural language question.
 *   **Jobs to be done:**
@@ -76,7 +77,7 @@ Our team lives by five principles extracted directly from our internal team guid
     3.  *"Manage my website, SEO, and Google Ads under one roof so I do not have to coordinate multiple tech providers."*
 *   **Client Blueprints:**
     *   **Blueprint A (Automotive & Mechanical Trades):** Voice & local entity optimization (linking Google Business Profiles to Wikidata structures so CarPlay/Siri recommend workshops), clear Q&A styling, and sub-1.5s load speeds for real-time mobile lookup.
-    *   **Blueprint B (Local Services & Trades):** Service specification tables, first-party review schema nesting, and geographical local authority networks.
+    *   **Blueprint B (Local Services & Trades):** Service specification tables, first-party review schema nesting, and geographical local authority networks (e.g., Concrete Sealing, Window Tinting, Citrus Based Cleaners).
     *   **Blueprint C (Healthcare, Dental & Childcare):** High-trust sector compliance (E-E-A-T) linking profiles to professional NZ registries (Dental Council, Teaching Council) using `sameAs` attributes.
     *   **Blueprint D (Retail, Food, Travel & Tech):** Rich product schema integration for price, stock, and reviews to sync with AI shopping agents (e.g., Christchurch City Flowers, Krishna Jewellers, Silva Travel).
 
@@ -107,11 +108,13 @@ Our team lives by five principles extracted directly from our internal team guid
 
 ## 9. Differentiation: Why Customers Choose Digital Neighbour
 
-*   **No Complex Jargon (Analogy-Led):** We do not throw terms like "GEO", "AEO", or "vector search spaces" at our clients. We explain exactly *how* search is changing in plain English and use simple analogies.
-*   **Embedded Partner Model:** We do not act like an external vendor sending automated monthly PDFs. We work alongside the client, deeply understanding their local business dynamics in Christchurch and Auckland ("Their business is their baby, our job is to look after it").
-*   **The Technical Core:** We don't just write content. Because we build our clients' websites, we ensure their sites are incredibly fast, lightweight, and cleanly coded (loading in under 1.5 seconds). This is a massive advantage because AI search engines prefer crawling lightning-fast sites.
-*   **Immediate + Future Results:** We do not ask clients to wait for the future. We run high-converting Google Ads and traditional local SEO to drive leads *today*, while layering in AI readiness to secure their leads *tomorrow*.
-*   **Open-Term Trust:** We prefer open-term relationships (month-to-month). We believe trust should be earned, not enforced by lock-in contracts.
+Based directly on Digital Neighbour's core philosophy, we structurally separate ourselves from other New Zealand agencies through five key differences:
+
+*   **Education Over Jargon:** We explain things in plain English and use simple analogies. We do not hide behind technical terminology or make clients feel excluded from their own marketing.
+*   **Complete Transparency:** Clients understand exactly *what* is happening, *why* it is happening, and *what* they are paying for. We provide clear context, not just spreadsheets of numbers.
+*   **High-Touch Communication:** We stay actively involved, providing regular updates and seeking approvals before executing changes. We act as partners, not vendors.
+*   **Strategy Before Selling:** We do not rush recommendations. We review market opportunities, analyze business needs, and map search intent before proposing services.
+*   **Open-Term Contract Philosophy:** We prefer open-term relationships (month-to-month). We believe trust should be earned and maintained daily, not enforced by lock-in contracts. If a client no longer sees value, they have the flexibility to leave.
 
 ---
 
