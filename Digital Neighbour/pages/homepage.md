@@ -1,150 +1,147 @@
-# Grow Your Business with a Search Agency Built for Auckland and Christchurch
+# Grow Your Business with a Search Agency Built for New Zealand
 
-## 1. Hero Section: Precision Search Marketing to Capture Local Demand
-**We Connect Your Business to Buyers on Google, ChatGPT, and Siri.**
+## Section 1: Hero
+### Grow Your Business with Search Engine Optimisation (SEO-GEO), Answer Engine Optimisation (AEO), Website Design, and Google Ads
+Digital Neighbour helps New Zealand businesses secure more customer bookings and increase website traffic. We build clear website code and manage search engine marketing campaigns to help you get found online.
 
-Digital Neighbour is a Christchurch and Auckland search marketing agency specializing in traditional SEO, Google Ads, and custom website design. We optimize your online assets to ensure your business ranks on Google and is recommended by AI search engines.
-
-*   **Custom SEO, AEO, and GEO setups:** We secure visibility across both traditional search engines and generative AI tools.
-*   **Month-to-Month Partnerships:** We work on flexible, open-term agreements to earn your trust through performance daily.
-*   **Plain English Communication:** We explain technical growth strategies using simple, business-friendly terms.
+*   **Month-to-Month Terms:** Digital Neighbour operates on open terms to earn your trust daily.
+*   **Plain English Advice:** Digital Neighbour explains search strategy without confusing jargon.
+*   **Simple Web Coding:** Digital Neighbour designs fast websites that search systems recommend.
 
 **[Request a Free AI Search Readiness Audit] [Book a Consultation Call]**
 
 ---
 
-## 2. About Digital Neighbour Search Solutions
-Digital Neighbour is a specialized search agency founded in August 2022 by **Sagar Bhola** and directed by **Pranav Tipre**. From offices in **Christchurch** and **Auckland**, the agency manages growth campaigns for **31 active SEO clients** and **8 Google Ads clients** across New Zealand. Digital Neighbour focuses on the **Hybrid Search Era**, combining traditional search engine optimisation (SEO) with next-generation Answer Engine Optimisation (AEO) and Generative Engine Optimisation (GEO) to keep client phones ringing.
+## Section 2: About Digital Neighbour
+### A New Zealand Search Agency Built on Results
+Digital Neighbour is a specialized search agency operating across New Zealand. We combine traditional search ranking methods with new systems that help websites appear in artificial intelligence recommendations. Our team manages growth campaigns for thirty-one active search campaigns and eight paid advertisement accounts to help Kiwi brands succeed.
 
 ---
 
-## 3. The Need for Modern Search Visibility in New Zealand
-Search engine technology is changing. Customers no longer just type keywords into search boxes. They ask their phones, cars, and computer systems detailed, natural language questions.
-
-If your website is slow or lacks technical indexing data, conversational AI search engines will not recommend your business. Traditional digital marketing strategies are failing because modern search displays summaries directly, bypassing old links.
-
-**Common Search Problems We Solve:**
-*   Your local search traffic is decreasing while your competitor rankings increase.
-*   Your current marketing reports are filled with confusing charts but your phone calls are dropping.
-*   Your mobile site takes more than three seconds to load, causing visitors to leave.
-*   Your website lacks the structured data markups required by AI web crawlers.
+## Section 3: Google Search is Changing
+### People Do Not Just Search; They Ask Questions Before Making Decisions
+Google Search is changing. People do not just search; they ask questions before making any decision in the buyer journey through AI like ChatGPT, Claude, and Gemini. If your business site is not updated for this shift, you will lose customer leads to competitors who have adapted.
 
 ---
 
-## 4. Service Options: SEO, AEO, GEO, and Paid Media
-We provide a focused suite of search and development options to capture high-intent buyers:
+## Section 4: Core Services
+### Simple Search Options to Grow Your Revenue
+Digital Neighbour focuses on four core areas to help your business win more customers:
 
-*   **Search Engine Optimisation (SEO):** We optimize your Google rankings and Local Business Profiles to capture local keyword search volume.
-*   **Answer Engine Optimisation (AEO):** We structure your web copy into clear question and answer formats for Siri and voice search tools.
-*   **Generative Engine Optimisation (GEO):** We build nested schemas and geographic references so ChatGPT and Google Gemini recommend your brand.
-*   **Google Ads Management:** We run search, shopping, and Performance Max ad campaigns to capture immediate buyer intent.
-*   **Website Design & Speed Engineering:** We build custom websites optimized for sub-1.5 second loading speeds and high conversion rates.
-
-**[View All Services]**
+*   **[Search Engine Optimisation](/search-engine-optimisation):** Digital Neighbour increases your visibility on traditional Google maps and generative AI search summaries.
+*   **[Answer Engine Optimisation](/ai-seo):** Digital Neighbour formats your text so voice assistants and smartphones recommend your business.
+*   **[Website Design](/website-development):** Digital Neighbour builds simple, fast-loading sites that load in under 1.5 seconds to convert visitors into inquiries.
+*   **[Google Ads](/google-ads):** Digital Neighbour runs targeted search and shopping ads to bring immediate buyers to your website.
 
 ---
 
-## 5. Mid-Page CTA Banner: Not Sure What Search Growth Solution You Need?
-Let us run a free diagnostic scan on your website to show you exactly where you stand. We will test your visibility on ChatGPT, Google Gemini, and Siri compared to your top local competitors.
+## Section 5: Diagnostic Scan
+### Not Sure What Search Growth Solution Your Business Needs?
+Digital Neighbour will run a free search scan on your website. We will show you exactly how your business appears to artificial intelligence search engines compared to your top local competitors.
 
 **[Claim Your Free AI Search Readiness Audit]**
 
 ---
 
-## 6. How It Works: The Seven-Step Search Process
-We follow a structured, collaborative workflow to deliver high-quality, transparent results:
+## Section 6: Our Process
+### Six Simple Steps to a Successful Partnership
+Digital Neighbour follows a clear path to build your online presence:
 
-1.  **Discovery:** We study your local business offerings, target audience, and local competitors.
-2.  **Research:** We identify high-intent buyer searches and competitive gaps in your market.
-3.  **Technical Audit:** We analyze your website load speed, indexing status, and structured code data.
-4.  **Strategy Development:** Our search specialists build a customized growth blueprint.
-5.  **Client Collaboration:** We review target keywords and copy directions together with your team.
-6.  **Website Optimisation:** Our developers implement clean code improvements and speed optimizations.
-7.  **Ongoing Optimisation:** We monitor monthly metrics, audit contact forms, and track AI recommendations.
-
----
-
-## 7. Outcomes and Advantages: What You Gain
-Partnering with Digital Neighbour provides measurable improvements to your business foundation:
-*   **Steady Inquiry Flow:** We target buyers who are actively searching for your services to keep your booking calendar full.
-*   **Future Ready Optimization:** We structure your business assets to stay ahead of search engine algorithm changes.
-*   **Absolute Cost Transparency:** You know exactly what tasks we are performing and how your budget is spent.
-*   **Owner Mindset Partnership:** We treat your budget with the same care as our own, focusing on conversion margins.
+1.  **Business Chat:** Digital Neighbour learns about your services and target customers.
+2.  **Website Check:** Digital Neighbour reviews your website loading speed and code health.
+3.  **Search Strategy:** Digital Neighbour plans the exact steps needed to get you found.
+4.  **Copy Writing:** Digital Neighbour writes simple text that search tools can read.
+5.  **Code Upgrades:** Digital Neighbour optimizes your site coding for speed and search layout.
+6.  **Monthly Review:** Digital Neighbour shows you actual leads, calls, and completed tasks.
 
 ---
 
-## 8. Cost and Pricing: Simple Month-to-Month Retainers
-We believe in straightforward pricing based on the size of your local market and competition:
+## Section 7: Benefits
+### Measurable Advantages for Kiwi Business Owners
+Partnering with Digital Neighbour helps you secure a stable business foundation:
 
-*   **Local SEO and AI Search Retainers:** Starting from fifteen hundred dollars per month.
-*   **Google Ads Management Packages:** Starting from eight hundred dollars per month.
-*   **Custom Website Development Projects:** Project-based pricing starting from five thousand dollars.
-
-**Primary Factors Affecting Final Cost:**
-*   The level of search competition in your target suburbs.
-*   The number of services or products you need to optimize.
-*   The current technical state and loading speed of your existing website.
+*   **More Daily Leads:** Digital Neighbour connects your services to active buyers, keeping your booking calendar active.
+*   **Long Term Value:** Digital Neighbour builds organic authority that continues to bring leads without ongoing ad costs.
+*   **No Jargon Updates:** Digital Neighbour explains all progress in plain, honest English.
 
 ---
 
-## 9. Alternative Comparisons: Selecting the Right Search Partner
-Understanding your options allows you to choose the best strategy for your business:
+## Section 8: Pricing
+### Transparent Monthly Retainers with No Lock-in Contracts
+Digital Neighbour believes in straightforward, flat rates based on competition:
 
-*   **Traditional SEO Agencies:** They focus on bulk keyword rankings and outdated link structures. They do not optimize for conversational AI or provide month-to-month flexibility.
-*   **Boutique Creative Agencies:** They build beautiful, visual websites but often ignore backend speed engineering and structured entity schema nesting.
-*   **Digital Neighbour:** We combine high-end technical search engineering (SEO, AEO, and GEO) with fast, custom websites, open-term agreements, and plain English reports.
+*   **Search Optimisation Packages:** Starting from fifteen hundred dollars per month.
+*   **Google Ads Management:** Starting from eight hundred dollars per month.
+*   **Custom Website Projects:** Starting from five thousand dollars.
 
----
-
-## 10. Maintenance and Aftercare: Ongoing Search Protection
-Search engines update their databases daily. We provide continuous support to defend your search authority:
-*   **Monthly Crawler Audits:** We verify that Googlebot and GPTBot can access your site without errors.
-*   **Contact Form Security Checks:** We manually test your booking forms regularly to prevent missed lead alerts.
-*   **Speed Maintenance:** We check site performance metrics to keep loading speeds under 1.5 seconds.
-*   **Local Profile Syncing:** We update geographic maps and hours of operation across local directory networks.
+**Factors Affecting Cost:**
+*   The level of search competition in your business area.
+*   The number of distinct services you need to promote.
+*   The current speed and code layout of your existing website.
 
 ---
 
-## 11. Trust and E-E-A-T Signals: Verified Search Expertise
-We demonstrate experience, expertise, authoritativeness, and trustworthiness in all our campaigns:
-*   **Christchurch Born Foundation:** Founded in August 2022 to protect local Kiwi businesses from poor agency practices.
-*   **Active NZ Client Base:** Proven track record supporting thirty-one active SEO campaigns and eight Google Ads campaigns.
-*   **Direct Leadership:** Sagar Bhola and Pranav Tipre actively guide your strategy and review performance metrics.
-*   **Verified Registry Nesting:** We link medical, trade, and corporate client profiles to professional New Zealand registries.
+## Section 9: Alternatives
+### Choosing the Right Path for Your Search Growth
+Select the partner structure that matches your business model:
+
+*   **Locked-in Corporate Agencies:** They require six or twelve-month contracts, use complex tech terms, and provide little transparency.
+*   **Visual Design Agencies:** They construct beautiful websites but ignore search indexing, speed codes, and AI visibility.
+*   **Digital Neighbour:** Digital Neighbour offers month-to-month contracts, simple English strategy reviews, and technical optimisation.
 
 ---
 
-## 12. Local Context and Service Area
-We provide dedicated search solutions across both major islands of New Zealand. Our team understands the local geography, suburbs, and commercial zones of **Auckland** (including Auckland Central, Mt Eden, Manukau, Albany, and Newmarket) and **Christchurch** (including Christchurch Central, Riccarton, Hornby, Papanui, and Sydenham). This local knowledge allows us to build highly targeted geographical authority networks for your business.
+## Section 10: Website Support
+### Continuous Performance Auditing to Protect Your Business
+Digital Neighbour provides ongoing care to ensure your search rankings stay strong:
+
+*   **Form Testing:** Digital Neighbour checks your website contact forms regularly to prevent lost customer inquiries.
+*   **Speed Monitoring:** Digital Neighbour checks loading speeds to keep your site running under 1.5 seconds.
+*   **Code Updates:** Digital Neighbour updates hidden website codes as search engine rules shift.
 
 ---
 
-## 13. Testimonial Section: Real Stories from Kiwi Businesses
-Our clients value our direct approach, local support, and commitment to transparent reporting.
-
-> *"Digital Neighbour explained exactly how search is changing without making me feel stupid. They handled my website, my Google Ads, and my search rankings, and now my business is showing up as a recommended answer on ChatGPT."*  
-> **- Kiwi Business Owner, Christchurch**
-
-> *"The flexibility of month-to-month terms was what initially attracted us, but the clear, plain English communication and consistent lead growth is why we remain partners."*  
-> **- Clinic Director, Auckland**
+## Section 11: Trust & Leadership
+### A New Zealand Agency Run by Sagar Bhola and Pranav Tipre
+Digital Neighbour was established in August 2022 in Christchurch by Sagar Bhola. Sagar studied search systems and backend coding before migrating to New Zealand in 2017. Director Pranav Tipre joined in 2023 to lead strategy and client relationships. Together, Sagar and Pranav guide our New Zealand team to ensure senior experts execute your campaign.
 
 ---
 
-## 14. Frequently Asked Questions
-*   **What is AEO and why is it important?**  
-    Answer Engine Optimisation (AEO) is the practice of structuring your website content so voice assistants and AI engines can read and cite your business. It is important because customers are increasingly using Siri, Gemini, and ChatGPT to find local services instead of typing keywords.
-*   **What is GEO and how does it differ from SEO?**  
-    Generative Engine Optimisation (GEO) is an extension of SEO that optimizes your brand presence for generative AI summaries. Traditional SEO focuses on web page indexing, while GEO ensures AI models trust your entity profile enough to list you as a recommended choice.
-*   **How long does it take to see search improvements?**  
-    Initial technical fixes and speed optimizations can show positive results within weeks. However, building local authority and search rankings takes three to six months of consistent effort.
-*   **Are your contracts open-term?**  
-    Yes. We operate entirely on month-to-month terms. We believe in earning your business through monthly performance rather than locking you into long-term legal contracts.
-*   **Do you manage both search optimisation and paid ads?**  
-    Yes. We provide complete search engine marketing, managing traditional SEO, AI SEO, and Google Ads campaigns under one roof.
+## Section 12: Local Support
+### Helping Businesses Across New Zealand
+Digital Neighbour provides search engine solutions to Kiwi businesses nationwide. Our team supports local clients in major centers including **Auckland** (such as Newmarket, Albany, and Mt Eden) and **Christchurch** (such as Riccarton, Sydenham, and Hornby). We build targeted regional search visibility to connect your brand to local buyers.
 
 ---
 
-## 15. Get Started: Book Your AI Search Readiness Audit
-Are you ready to see how your business appears to customers using ChatGPT, Google Gemini, and Siri? Contact our Christchurch or Auckland offices today to request your diagnostic review.
+## Section 13: Testimonials
+### Honest Feedback from Kiwi Business Owners
+Our clients value the clear communication and month-to-month flexibility of Digital Neighbour.
 
-**[Request a Free AI Search Audit] [Schedule a Strategic Consult Call]**
+> *"We were paying another agency for search work but saw our phone calls drop. Digital Neighbour rebuilt our site coding for speed, and now our business is showing up consistently."*  
+> **- Local Business Owner, Auckland**
+
+> *"No locked-in contracts and simple English explanations made the transition easy. The search results from Digital Neighbour speak for themselves."*  
+> **- Clinic Director, Christchurch**
+
+---
+
+## Section 14: Frequently Asked Questions
+### Simple Answers to Your Search Questions
+*   **How does AI search optimisation work?**  
+    Digital Neighbour structures your website text so conversational AI engines like ChatGPT, Claude, and Gemini can easily read, extract, and recommend your services.
+*   **Why does Digital Neighbour operate without contracts?**  
+    Digital Neighbour believes in earning your business every single month. If our work does not bring value, you are free to leave.
+*   **What is the target loading speed for my website?**  
+    Digital Neighbour aims for a loading speed of under 1.5 seconds. Fast websites convert more visitors and rank better on Google.
+*   **Will I receive regular performance updates?**  
+    Yes. Digital Neighbour conducts monthly strategy reviews, explaining phone calls and completed tasks in plain English.
+*   **Does Digital Neighbour manage both SEO and paid ads?**  
+    Yes. Digital Neighbour provides complete search coverage, managing search engine optimisation and Google Ads under one roof.
+
+---
+
+## Section 15: Start Today
+### See How Your Business Appears on ChatGPT, Claude, and Gemini
+Do not leave your search visibility to chance as search engines evolve. Contact Digital Neighbour to request your free audit.
+
+**[Request a Free AI Search Audit] [Speak Directly with Digital Neighbour]**

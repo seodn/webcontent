@@ -8,33 +8,32 @@ This document defines the information architecture, URL hierarchy, navigation st
 
 ## 1. Page Hierarchy (ASCII Tree)
 
-We maintain a moderate 3-level depth to stay as flat as possible while organizing our services under logical parent categories, with Search Engine Optimisation acting as our core marketing hub.
+We maintain a flat 2-level depth structure to stay as flat as possible, with Search Engine Optimisation acting as our core marketing hub.
 
 ```
 Homepage (/)
-├── Services (/services)
-│   ├── Search Engine Optimisation Hub (/services/search-engine-optimisation)
-│   │   ├── Local SEO (/services/local-seo)
-│   │   ├── AI SEO (GEO & AEO) (/services/ai-seo)
-│   │   ├── E-commerce SEO (/services/ecommerce-seo)
-│   │   └── Conversion Rate Optimisation (/services/cro)
-│   ├── Website Development Hub (/services/website-development)
-│   │   ├── E-commerce Website Development (/services/ecommerce-development)
-│   │   ├── WordPress Website Development (/services/wordpress-development)
-│   │   ├── Landing Page Development (/services/landing-page-development)
-│   │   └── Website Optimisation & Speed (/services/website-optimisation)
-│   ├── Google Ads Hub (/services/google-ads)
-│   │   ├── Google Search Ads (/services/google-search-ads)
-│   │   ├── Google Shopping Ads (/services/google-shopping-ads)
-│   │   ├── Google Remarketing (/services/google-remarketing)
-│   │   ├── Performance Max Campaigns (/services/performance-max)
-│   │   └── Landing Page Optimisation (/services/landing-page-optimisation)
-│   └── Other Services Hub (/services/other-services)
-│       ├── Call Tracking (/services/call-tracking)
-│       ├── Web Hosting (/services/web-hosting)
-│       ├── WordPress Hosting (/services/wordpress-hosting)
-│       ├── Reseller Hosting (/services/reseller-hosting)
-│       └── Email Hosting (/services/email-hosting)
+├── Search Engine Optimisation Hub (/search-engine-optimisation)
+│   ├── Local SEO (/local-seo)
+│   ├── AI SEO (GEO & AEO) (/ai-seo)
+│   ├── E-commerce SEO (/ecommerce-seo)
+│   └── Conversion Rate Optimisation (/cro)
+├── Website Development Hub (/website-development)
+│   ├── E-commerce Website Development (/ecommerce-development)
+│   ├── WordPress Website Development (/wordpress-development)
+│   ├── Landing Page Development (/landing-page-development)
+│   └── Website Optimisation & Speed (/website-optimisation)
+├── Google Ads Hub (/google-ads)
+│   ├── Google Search Ads (/google-search-ads)
+│   ├── Google Shopping Ads (/google-shopping-ads)
+│   ├── Google Remarketing (/google-remarketing)
+│   ├── Performance Max Campaigns (/performance-max)
+│   └── Landing Page Optimisation (/landing-page-optimisation)
+├── Other Services Hub (/other-services)
+│   ├── Call Tracking (/call-tracking)
+│   ├── Web Hosting (/web-hosting)
+│   ├── WordPress Hosting (/wordpress-hosting)
+│   ├── Reseller Hosting (/reseller-hosting)
+│   └── Email Hosting (/email-hosting)
 ├── AI Search Audit Landing (/ai-readiness-audit)
 ├── About Us (/about)
 ├── Blog (/blog)
@@ -59,36 +58,36 @@ graph TD
     CONTACT[Contact Us /contact]
 
     %% Service Category Hubs
-    S_SEO[Search Engine Optimisation Hub /services/search-engine-optimisation]
-    S_DEV[Web Development Hub /services/website-development]
-    S_ADS[Google Ads Hub /services/google-ads]
-    S_OTH[Other Services Hub /services/other-services]
+    S_SEO[Search Engine Optimisation Hub /search-engine-optimisation]
+    S_DEV[Web Development Hub /website-development]
+    S_ADS[Google Ads Hub /google-ads]
+    S_OTH[Other Services Hub /other-services]
 
     %% L2 - Search Engine Optimisation (Spokes)
-    LSEO[Local SEO /services/local-seo]
-    AISEO[AI SEO AEO/GEO /services/ai-seo]
-    ESEO[E-commerce SEO /services/ecommerce-seo]
-    CRO[Conversion Optimisation /services/cro]
+    LSEO[Local SEO /local-seo]
+    AISEO[AI SEO AEO/GEO /ai-seo]
+    ESEO[E-commerce SEO /ecommerce-seo]
+    CRO[Conversion Optimisation /cro]
 
     %% L2 - Web Dev
-    EDEV[E-commerce Dev /services/ecommerce-development]
-    WDEV[WordPress Dev /services/wordpress-development]
-    LDEV[Landing Page Dev /services/landing-page-development]
-    WOPT[Website Optimisation /services/website-optimisation]
+    EDEV[E-commerce Dev /ecommerce-development]
+    WDEV[WordPress Dev /wordpress-development]
+    LDEV[Landing Page Dev /landing-page-development]
+    WOPT[Website Optimisation /website-optimisation]
 
     %% L2 - Google Ads
-    GSRCH[Search Ads /services/google-search-ads]
-    GSHOP[Shopping Ads /services/google-shopping-ads]
-    GREM[Remarketing /services/google-remarketing]
-    PMAX[Performance Max /services/performance-max]
-    LPOPT[LP Optimisation /services/landing-page-optimisation]
+    GSRCH[Search Ads /google-search-ads]
+    GSHOP[Shopping Ads /google-shopping-ads]
+    GREM[Remarketing /google-remarketing]
+    PMAX[Performance Max /performance-max]
+    LPOPT[LP Optimisation /landing-page-optimisation]
 
     %% L2 - Other Services
-    CALL[Call Tracking /services/call-tracking]
-    HOST[Web Hosting /services/web-hosting]
-    WHOST[WordPress Hosting /services/wordpress-hosting]
-    RHOST[Reseller Hosting /services/reseller-hosting]
-    EHOST[Email Hosting /services/email-hosting]
+    CALL[Call Tracking /call-tracking]
+    HOST[Web Hosting /web-hosting]
+    WHOST[WordPress Hosting /wordpress-hosting]
+    RHOST[Reseller Hosting /reseller-hosting]
+    EHOST[Email Hosting /email-hosting]
 
     %% Subgraphs for Navigation Zones
     subgraph Header_Nav [Header Navigation]
@@ -153,28 +152,28 @@ graph TD
 | **About Us** | `/about` | Homepage | Header / Footer | Medium |
 | **Blog** | `/blog` | Homepage | Header / Footer | Medium |
 | **Contact Us** | `/contact` | Homepage | Header / Footer | High |
-| **Search Engine Optimisation Hub** | `/services/search-engine-optimisation` | Homepage | Header (Dropdown) | High |
-| Local SEO | `/services/local-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
-| AI SEO (AEO / GEO) | `/services/ai-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
-| E-commerce SEO | `/services/ecommerce-seo` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
-| Conversion Rate Optimisation | `/services/cro` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
-| **Website Development Hub** | `/services/website-development` | Homepage | Header (Dropdown) | High |
-| E-commerce Website Dev | `/services/ecommerce-development` | Website Development Hub | Dropdown / Footer | Medium |
-| WordPress Website Dev | `/services/wordpress-development` | Website Development Hub | Dropdown / Footer | High |
-| Landing Page Dev | `/services/landing-page-development` | Website Development Hub | Dropdown / Footer | Medium |
-| Website Optimisation & Speed | `/services/website-optimisation` | Website Development Hub | Dropdown / Footer | Medium |
-| **Google Ads Hub** | `/services/google-ads` | Homepage | Header (Dropdown) | High |
-| Google Search Ads | `/services/google-search-ads` | Google Ads Hub | Dropdown / Footer | High |
-| Google Shopping Ads | `/services/google-shopping-ads` | Google Ads Hub | Dropdown / Footer | Medium |
-| Google Remarketing | `/services/google-remarketing` | Google Ads Hub | Dropdown / Footer | Low |
-| Performance Max Campaigns | `/services/performance-max` | Google Ads Hub | Dropdown / Footer | Medium |
-| Landing Page Optimisation | `/services/landing-page-optimisation` | Google Ads Hub | Dropdown / Footer | Low |
-| **Other Services Hub** | `/services/other-services` | Homepage | Header (Dropdown) | Medium |
-| Call Tracking | `/services/call-tracking` | Other Services Hub | Dropdown / Footer | Medium |
-| Web Hosting | `/services/web-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| WordPress Hosting | `/services/wordpress-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| Reseller Hosting | `/services/reseller-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| Email Hosting | `/services/email-hosting` | Other Services Hub | Dropdown / Footer | Low |
+| **Search Engine Optimisation Hub** | `/search-engine-optimisation` | Homepage | Header (Dropdown) | High |
+| Local SEO | `/local-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
+| AI SEO (AEO / GEO) | `/ai-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
+| E-commerce SEO | `/ecommerce-seo` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
+| Conversion Rate Optimisation | `/cro` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
+| **Website Development Hub** | `/website-development` | Homepage | Header (Dropdown) | High |
+| E-commerce Website Dev | `/ecommerce-development` | Website Development Hub | Dropdown / Footer | Medium |
+| WordPress Website Dev | `/wordpress-development` | Website Development Hub | Dropdown / Footer | High |
+| Landing Page Dev | `/landing-page-development` | Website Development Hub | Dropdown / Footer | Medium |
+| Website Optimisation & Speed | `/website-optimisation` | Website Development Hub | Dropdown / Footer | Medium |
+| **Google Ads Hub** | `/google-ads` | Homepage | Header (Dropdown) | High |
+| Google Search Ads | `/google-search-ads` | Google Ads Hub | Dropdown / Footer | High |
+| Google Shopping Ads | `/google-shopping-ads` | Google Ads Hub | Dropdown / Footer | Medium |
+| Google Remarketing | `/google-remarketing` | Google Ads Hub | Dropdown / Footer | Low |
+| Performance Max Campaigns | `/performance-max` | Google Ads Hub | Dropdown / Footer | Medium |
+| Landing Page Optimisation | `/landing-page-optimisation` | Google Ads Hub | Dropdown / Footer | Low |
+| **Other Services Hub** | `/other-services` | Homepage | Header (Dropdown) | Medium |
+| Call Tracking | `/call-tracking` | Other Services Hub | Dropdown / Footer | Medium |
+| Web Hosting | `/web-hosting` | Other Services Hub | Dropdown / Footer | Low |
+| WordPress Hosting | `/wordpress-hosting` | Other Services Hub | Dropdown / Footer | Low |
+| Reseller Hosting | `/reseller-hosting` | Other Services Hub | Dropdown / Footer | Low |
+| Email Hosting | `/email-hosting` | Other Services Hub | Dropdown / Footer | Low |
 
 ---
 
@@ -185,27 +184,27 @@ Designed to group our services into 4 dropdown columns to avoid choices overload
 
 *   **Logo:** (Left-aligned) links to `/`
 *   **Item 1: Search Engine Optimisation** (Dropdown Menu):
-    *   Overview / Core SEO (`/services/search-engine-optimisation`)
-    *   Local SEO (`/services/local-seo`)
-    *   AI SEO (AEO/GEO) (`/services/ai-seo`)
-    *   E-commerce SEO (`/services/ecommerce-seo`)
-    *   Conversion Rate Optimisation (`/services/cro`)
+    *   Overview / Core SEO (`/search-engine-optimisation`)
+    *   Local SEO (`/local-seo`)
+    *   AI SEO (AEO/GEO) (`/ai-seo`)
+    *   E-commerce SEO (`/ecommerce-seo`)
+    *   Conversion Rate Optimisation (`/cro`)
 *   **Item 2: Website Development** (Dropdown Menu):
-    *   WordPress Website Dev (`/services/wordpress-development`)
-    *   E-commerce Website Dev (`/services/ecommerce-development`)
-    *   Landing Page Dev (`/services/landing-page-development`)
-    *   Website Optimisation & Speed (`/services/website-optimisation`)
+    *   WordPress Website Dev (`/wordpress-development`)
+    *   E-commerce Website Dev (`/ecommerce-development`)
+    *   Landing Page Dev (`/landing-page-development`)
+    *   Website Optimisation & Speed (`/website-optimisation`)
 *   **Item 3: Google Ads** (Dropdown Menu):
-    *   Google Search Ads (`/services/google-search-ads`)
-    *   Google Shopping Ads (`/services/google-shopping-ads`)
-    *   Performance Max Campaigns (`/services/performance-max`)
-    *   Google Remarketing (`/services/google-remarketing`)
-    *   Landing Page Optimisation (`/services/landing-page-optimisation`)
+    *   Google Search Ads (`/google-search-ads`)
+    *   Google Shopping Ads (`/google-shopping-ads`)
+    *   Performance Max Campaigns (`/performance-max`)
+    *   Google Remarketing (`/google-remarketing`)
+    *   Landing Page Optimisation (`/landing-page-optimisation`)
 *   **Item 4: Other Services** (Dropdown Menu):
-    *   Call Tracking (`/services/call-tracking`)
-    *   Web Hosting & WordPress Hosting (`/services/web-hosting`)
-    *   Reseller Hosting (`/services/reseller-hosting`)
-    *   Email Hosting (`/services/email-hosting`)
+    *   Call Tracking (`/call-tracking`)
+    *   Web Hosting & WordPress Hosting (`/web-hosting`)
+    *   Reseller Hosting (`/reseller-hosting`)
+    *   Email Hosting (`/email-hosting`)
 *   **Item 5: About Us** (`/about`)
 *   **Item 6: Blog** (`/blog`)
 *   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
@@ -245,7 +244,7 @@ Structured in columns to act as an sitemap:
 
 ### Breadcrumbs Pattern
 Implemented on all L2 pages to reinforce parent hierarchy and internal link strength:
-*   `Home > Services > Search Engine Optimisation > AI SEO (GEO & AEO)`
+*   `Home > Search Engine Optimisation > AI SEO (GEO & AEO)`
 *   `Home > Blog > Category > Post Title`
 
 ---
@@ -257,23 +256,23 @@ To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tigh
 ### Hub-and-Spoke Topic Clusters
 
 #### Cluster 1: Search Engine Optimisation (Core Service Hub - 60% Revenue)
-*   **Hub Page:** `/services/search-engine-optimisation` (Provides a plain English overview of core SEO and the search landscape shift, using our Yellow Pages to Google / smartphone shift analogies).
-*   **Spokes:** `/services/local-seo`, `/services/ai-seo`, `/services/ecommerce-seo`, `/services/cro`.
-*   **Linking Rules:** The Hub links out to all 4 spokes. Every spoke links back to the `/services/search-engine-optimisation` hub. Spoke pages also interlink (e.g., `/services/local-seo` links to `/services/ai-seo` as the future of local business lookup).
+*   **Hub Page:** `/search-engine-optimisation` (Provides a plain English overview of core SEO and the search landscape shift, using our Yellow Pages to Google / smartphone shift analogies).
+*   **Spokes:** `/local-seo`, `/ai-seo`, `/ecommerce-seo`, `/cro`.
+*   **Linking Rules:** The Hub links out to all 4 spokes. Every spoke links back to the `/search-engine-optimisation` hub. Spoke pages also interlink (e.g., `/local-seo` links to `/ai-seo` as the future of local business lookup).
 
 #### Cluster 2: Website Development (20% Revenue)
-*   **Hub Page:** `/services/website-development` (Focuses on building fast, SEO-friendly assets that act as a business foundation).
-*   **Spokes:** `/services/wordpress-development`, `/services/ecommerce-development`, `/services/landing-page-development`, `/services/website-optimisation`.
-*   **Linking Rules:** Hub page connects to all spokes. Every spoke links back to `/services/website-development`. The spoke `/services/website-optimisation` links to `/services/wordpress-development` to reference speed improvements.
+*   **Hub Page:** `/website-development` (Focuses on building fast, SEO-friendly assets that act as a business foundation).
+*   **Spokes:** `/wordpress-development`, `/ecommerce-development`, `/landing-page-development`, `/website-optimisation`.
+*   **Linking Rules:** Hub page connects to all spokes. Every spoke links back to `/website-development`. The spoke `/website-optimisation` links to `/wordpress-development` to reference speed improvements.
 
 #### Cluster 3: Google Ads (10% Revenue)
-*   **Hub Page:** `/services/google-ads` (Focuses on Ads as an ongoing lead engine).
-*   **Spokes:** `/services/google-search-ads`, `/services/google-shopping-ads`, `/services/performance-max`, `/services/google-remarketing`, `/services/landing-page-optimisation`.
-*   **Linking Rules:** Hub page links to all spokes. Every spoke links back to `/services/google-ads`.
+*   **Hub Page:** `/google-ads` (Focuses on Ads as an ongoing lead engine).
+*   **Spokes:** `/google-search-ads`, `/google-shopping-ads`, `/performance-max`, `/google-remarketing`, `/landing-page-optimisation`.
+*   **Linking Rules:** Hub page links to all spokes. Every spoke links back to `/google-ads`.
 
 ### Cross-Section Linking Opportunities
 
-1.  **Connecting Web Dev to SEO (The Foundation Analogy):** On `/services/wordpress-development` and `/services/ecommerce-development`, link directly to `/services/search-engine-optimisation` and `/services/website-optimisation` with anchor text like *"clean technical SEO foundation"* or *"speed optimization"*. Cite our signature analogy: *"A website is the foundation of a house, and SEO is the house itself. If the foundation is weak, the walls crack."*
-2.  **Connecting Google Ads to CRO and Landing Pages:** On `/services/google-search-ads` and `/services/performance-max`, link to `/services/cro` and `/services/landing-page-optimisation` with text like *"improving landing page conversion rates"*. Cite the QA check rule: *"A broken contact form or bad landing page can cost thousands in wasted ad spend."*
-3.  **Audit Hook CTA Anchor:** Every L2 service page (especially `/services/ai-seo`, `/services/search-engine-optimisation`, `/services/local-seo`, `/services/cro`) must feature a distinct Call-to-Action section linking to `/ai-readiness-audit`. The anchor text should promote the *"Free NZ AI Search Readiness Audit"* to compare their business against local competitors.
-4.  **Blog to Service Linking:** Every educational blog post in a category must link to its corresponding L2 service page within the first 150 words (e.g., a post about Siri voice search links to `/services/ai-seo`).
+1.  **Connecting Web Dev to SEO (The Foundation Analogy):** On `/wordpress-development` and `/ecommerce-development`, link directly to `/search-engine-optimisation` and `/website-optimisation` with anchor text like *"clean technical SEO foundation"* or *"speed optimization"*. Cite our signature analogy: *"A website is the foundation of a house, and SEO is the house itself. If the foundation is weak, the walls crack."*
+2.  **Connecting Google Ads to CRO and Landing Pages:** On `/google-search-ads` and `/performance-max`, link to `/cro` and `/landing-page-optimisation` with text like *"improving landing page conversion rates"*. Cite the QA check rule: *"A broken contact form or bad landing page can cost thousands in wasted ad spend."*
+3.  **Audit Hook CTA Anchor:** Every L2 service page (especially `/ai-seo`, `/search-engine-optimisation`, `/local-seo`, `/cro`) must feature a distinct Call-to-Action section linking to `/ai-readiness-audit`. The anchor text should promote the *"Free NZ AI Search Readiness Audit"* to compare their business against local competitors.
+4.  **Blog to Service Linking:** Every educational blog post in a category must link to its corresponding L2 service page within the first 150 words (e.g., a post about Siri voice search links to `/ai-seo`).

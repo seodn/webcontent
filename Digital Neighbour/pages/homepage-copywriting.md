@@ -1,187 +1,144 @@
 # Digital Neighbour Copywriting Homepage: Designed for High Conversion
 
 ## Section 1: Hero / Above the Fold
-### Headline
-Grow Your Suburb Traffic and Drive More Customer Bookings with a Search Agency Built for Auckland and Christchurch
+### Grow Your Business with Search Engine Optimisation (SEO-GEO), Answer Engine Optimisation (AEO), Website Design, and Google Ads
+Digital Neighbour helps New Zealand businesses secure more customer bookings and increase website traffic. We build clear website code and manage search engine marketing campaigns to help you get found online.
 
-### Subheadline
-We optimize your website code, Google Ads, and local business profiles so you appear first whenever and wherever customers search. Secure simple Kiwi support with no locked-in contracts.
+*   **Month-to-Month Terms:** Digital Neighbour operates on open terms to earn your trust daily.
+*   **Plain English Advice:** Digital Neighbour explains search strategy without confusing jargon.
+*   **Simple Web Coding:** Digital Neighbour designs fast websites that search systems recommend.
 
-### Reassurance Bullet Points
-*   **Month-to-month open terms:** We earn your trust daily through actual lead performance, not legal locks.
-*   **Jargon-free Kiwi support:** We explain every technical strategy in plain, business-owner friendly English.
-*   **Complete technical depth:** We build custom website speed assets (sub-1.5 seconds) and nest local schema codes as standard.
-
-### Call to Action (CTA) Buttons
-*   **Primary CTA Button:** [Claim Your Free AI Search Audit]
-*   **Secondary CTA Button:** [Schedule a Call with Sagar and Pranav]
+**[Request a Free AI Search Readiness Audit] [Book a Consultation Call]**
 
 ---
 
 ## Section 2: AI Overview / About Digital Neighbour
-### Section Heading
-About Digital Neighbour Search Solutions
-
-### Body Copy
-Digital Neighbour is a Christchurch and Auckland search marketing agency specializing in traditional SEO, Google Ads, and custom website design. Founded in **August 2022** by **Sagar Bhola** and directed by **Pranav Tipre**, the agency supports **31 active SEO campaigns** and **8 Google Ads campaigns** across New Zealand. We focus on the **Hybrid Search Era**, combining traditional search optimisation with advanced AEO (Answer Engine Optimisation) and GEO (Generative Engine Optimisation) to ensure local trades, dental clinics, and service businesses are recommended first by Google, ChatGPT, and Siri.
+### A New Zealand Search Agency Built on Results
+Digital Neighbour is a specialized search agency operating across New Zealand. We combine traditional search ranking methods with new systems that help websites appear in artificial intelligence recommendations. Our team manages growth campaigns for thirty-one active search campaigns and eight paid advertisement accounts to help Kiwi brands succeed.
 
 ---
 
 ## Section 3: Problem Articulation
-### Section Heading
-Your Marketing looks Busy. Your Bank Account does not.
-
-### Body Copy
-Many New Zealand business owners are paying monthly retainers to digital agencies but seeing their local inquiries slip. They receive automated PDF reports filled with clicks and impressions, but their booking calendars are empty. 
-
-Worse, search engine technology is changing rapidly. Google now displays AI summaries directly on the screen, and customers are using ChatGPT or voice search to find local services. 
-
-If your website is slow or lacks technical indexing data, you are losing leads to competitors who have already optimized for this change. 
-
-We started Digital Neighbour to eliminate this frustration. We focus entirely on business outcomes: keeping your phones ringing and your inquiry forms active.
+### Google Search is Changing
+### People Do Not Just Search; They Ask Questions Before Making Decisions
+Google Search is changing. People do not just search; they ask questions before making any decision in the buyer journey through AI like ChatGPT, Claude, and Gemini. If your business site is not updated for this shift, you will lose customer leads to competitors who have adapted. Many Kiwi business owners are paying monthly retainers to agencies but seeing their local inquiries slip. We started Digital Neighbour to eliminate this frustration by focusing entirely on business outcomes: keeping your phones ringing and your inquiry forms active.
 
 ---
 
 ## Section 4: Solution and Benefits
-### Section Heading
-We Bridge the Gap Between Google Searches and Conversational AI Recommendations
+### We Bridge the Gap Between Google Searches and AI Recommendations
+Digital Neighbour focuses on four core areas to help your business win more customers:
 
-### Benefit 1: Technical SEO to Secure Long-Term Inquiries
-We do not just optimize keywords. We audit your Google Business Profile, target high-intent geographic searches, and build local citation networks.
-*   *Feature:* Nested local coordinates and schema code integration.
+#### Benefit 1: Traditional and Generative SEO
+Digital Neighbour increases your visibility on traditional Google maps and generative AI search summaries.
+*   *Feature:* Hidden website code tailored for local listings.
 *   *Benefit:* High rankings in local map listings and traditional Google searches.
 *   *Outcome:* A steady flow of daily customer calls without paying for every click.
 
-### Benefit 2: Conversational AI Optimization (AEO and GEO)
-We structure your web copy into direct question and answer formats and verify your business credentials across index databases.
-*   *Feature:* Structured data nesting and natural language Q&A blocks.
-*   *Benefit:* Crawl readiness for AI search engine bots.
-*   *Outcome:* Your business is selected as the top recommended choice on ChatGPT, Google Gemini, and Siri.
+#### Benefit 2: Conversational AI Optimization (AEO and GEO)
+Digital Neighbour formats your text so voice assistants and smartphones recommend your business.
+*   *Feature:* Structured Q&A copy blocks.
+*   *Benefit:* Readiness for AI search engine bot crawls.
+*   *Outcome:* Your business is recommended first by ChatGPT, Claude, and Gemini.
 
-### Benefit 3: Google Ads Built to Convert
-We manage high-performing paid campaigns on Google Search, Google Shopping, and Performance Max channels.
-*   *Feature:* Targeted keyword campaigns matched to speed-engineered landing pages.
+#### Benefit 3: Website Design Built to Convert
+Digital Neighbour builds simple, fast-loading sites that load in under 1.5 seconds.
+*   *Feature:* Clean website coding and simplified navigation.
+*   *Benefit:* Visitors stay on your site instead of leaving due to slow speeds.
+*   *Outcome:* More inquiries and booking forms filled out.
+
+#### Benefit 4: Google Ads Managed to Win
+Digital Neighbour runs targeted search and shopping ads to bring immediate buyers to your website.
+*   *Feature:* Targeted search campaigns matched to high-speed landing pages.
 *   *Benefit:* Immediate visibility when local buyers are ready to purchase.
-*   *Outcome:* High-converting customer leads with zero wasted marketing budget.
+*   *Outcome:* High-converting customer leads with zero wasted budget.
 
 ---
 
 ## Section 5: Mid-Page CTA Banner
-### Section Heading
-Not Sure What Search Growth Solution Your Business Needs?
+### Not Sure What Search Growth Solution Your Business Needs?
+Digital Neighbour will run a free search scan on your website. We will show you exactly how your business appears to artificial intelligence search engines compared to your top local competitors.
 
-### Sub-text
-Let us run a free diagnostic scan on your website. We will test your visibility on ChatGPT, Google Gemini, and Siri compared to your top local competitors.
-
-### CTA Button
-[Get Your Free AI Search Readiness Audit]
+**[Claim Your Free AI Search Readiness Audit]**
 
 ---
 
 ## Section 6: How It Works
-### Section Heading
-Four Steps to Transparent, Outcomes-First Partnership
+### Six Simple Steps to a Successful Partnership
+Digital Neighbour follows a clear path to build your online presence:
 
-### Step 1: Educational Discovery
-We study your target suburbs, services, and commercial goals. We explain our search strategies in plain English so you know exactly what you are purchasing.
-
-### Step 2: Technical Code Audit
-We run a diagnostic scan on your mobile load speed, check your structured schema codes, and manually test your contact forms to ensure inquiries transmit correctly.
-
-### Step 3: Speed and Layout Optimisation
-Our developers optimize your website code to ensure it loads in under 1.5 seconds. We deploy nested geographic schemas and write crawler-friendly Q&A copy.
-
-### Step 4: Open-Term Monthly Reviews
-We review actual customer phone calls, booking completions, and active tasks month-to-month. We adjust your campaigns in real time to maximize your margins.
+*   **Step 1: Business Chat:** Digital Neighbour learns about your services and target customers.
+*   **Step 2: Website Check:** Digital Neighbour reviews your website loading speed and code health.
+*   **Step 3: Search Strategy:** Digital Neighbour plans the exact steps needed to get you found.
+*   **Step 4: Copy Writing:** Digital Neighbour writes simple text that search tools can read.
+*   **Step 5: Code Upgrades:** Digital Neighbour optimizes your site coding for speed and search layout.
+*   **Step 6: Monthly Review:** Digital Neighbour shows you actual leads, calls, and completed tasks.
 
 ---
 
 ## Section 7: Pricing
-### Section Heading
-Straightforward Pricing Built on Monthly Value
+### Transparent Monthly Retainers with No Lock-in Contracts
+Digital Neighbour believes in straightforward, flat rates based on competition:
 
-### Retainer Options
-*   **Local SEO and AI Search Retainers:** Starting from fifteen hundred dollars per month.
-*   **Google Ads Management Packages:** Starting from eight hundred dollars per month.
-*   **Custom Website Development Projects:** Project-based pricing starting from five thousand dollars.
+*   **Search Optimisation Packages:** Starting from fifteen hundred dollars per month.
+*   **Google Ads Management:** Starting from eight hundred dollars per month.
+*   **Custom Website Projects:** Starting from five thousand dollars.
 
-### Cost Factors
-*   **Market Density:** The level of search competition in your target Christchurch or Auckland suburbs.
-*   **Service Catalog:** The number of distinct services or products you need to optimize.
-*   **Technical Health:** The current coding quality and loading speed of your existing website.
+**Factors Affecting Cost:**
+*   The level of search competition in your business area.
+*   The number of distinct services you need to promote.
+*   The current speed and code layout of your existing website.
 
 ---
 
 ## Section 8: Alternatives Comparison
-### Section Heading
-A Different Kind of New Zealand Search Partner
+### Choosing the Right Path for Your Search Growth
+Select the partner structure that matches your business model:
 
-### Comparison Table
-| Feature | Traditional SEO Agencies | Creative Design Shops | Digital Neighbour |
-| :--- | :--- | :--- | :--- |
-| **Contract Terms** | 6 to 12-month lock-in contracts | Project-based only | Month-to-month open terms |
-| **Communication** | Complex technical jargon | Focused on visual design | Plain English education |
-| **Search Scope** | Google keywords only | No technical search focus | Traditional SEO + AEO + GEO |
-| **Site Speed** | Bulky, slow builder sites | Slow visual elements | Sub-1.5 second loading |
+*   **Locked-in Corporate Agencies:** They require six or twelve-month contracts, use complex tech terms, and provide little transparency.
+*   **Visual Design Agencies:** They construct beautiful websites but ignore search indexing, speed codes, and AI visibility.
+*   **Digital Neighbour:** Digital Neighbour offers month-to-month contracts, simple English strategy reviews, and technical optimisation.
 
 ---
 
 ## Section 9: Trust and Proof (E-E-A-T)
-### Section Heading
-A Christchurch Born Agency Trusted by Local Kiwi Businesses
-
-### Body Copy
-Digital Neighbour was established in August 2022 in Christchurch by Sagar Bhola. Sagar studied search engine mechanics and backend programming before migrating to New Zealand in 2017. 
-
-After completing a Graduate Diploma in Applied Management and gaining years of practical retail experience, Sagar saw that local business owners were regularly sold marketing packages they did not understand. 
-
-Director Pranav Tipre joined in 2023, bringing a strategy-first, partnership-driven consulting model. Together, Sagar and Pranav guide our Christchurch and Auckland operations, ensuring that senior leadership directly executes your search campaign.
+### A New Zealand Agency Run by Sagar Bhola and Pranav Tipre
+Digital Neighbour was established in August 2022 in Christchurch by Sagar Bhola. Sagar studied search systems and backend coding before migrating to New Zealand in 2017. Director Pranav Tipre joined in 2023 to lead strategy and client relationships. Together, Sagar and Pranav guide our New Zealand team to ensure senior experts execute your campaign.
 
 ---
 
 ## Section 10: Testimonials
-### Section Heading
-What Local New Zealand Business Owners Say About Us
+### Honest Feedback from Kiwi Business Owners
+Our clients value the clear communication and month-to-month flexibility of Digital Neighbour.
 
-### Testimonial 1
-> *"We were paying another agency for SEO but saw our leads drop. Digital Neighbour came in, rebuilt our website foundation for speed, nested our local coordinates schema, and now our phone is ringing consistently."*  
-> **- Local Trade Client, Auckland**
+> *"We were paying another agency for search work but saw our phone calls drop. Digital Neighbour rebuilt our site coding for speed, and now our business is showing up consistently."*  
+> **- Local Business Owner, Auckland**
 
-### Testimonial 2
-> *"No long-term contracts and plain English explanations made the switch easy. Their technical SEO and Google Ads management has transformed our lead volume."*  
+> *"No locked-in contracts and simple English explanations made the transition easy. The search results from Digital Neighbour speak for themselves."*  
 > **- Clinic Director, Christchurch**
 
 ---
 
 ## Section 11: Frequently Asked Questions
-### Section Heading
-Answers to Your Search Questions
-
-*   **How does AI search optimization benefit my business?**  
-    Customers are using voice tools and AI chats like ChatGPT to find local services. AI search optimization ensures your business data is structured so these systems recommend your brand first.
-*   **Why do you operate without long-term contracts?**  
-    We believe that trust must be earned through monthly performance. If our services fail to deliver commercial value, you have the flexibility to leave.
-*   **What is the target load speed for my website?**  
-    We aim for a website load speed of under 1.5 seconds. Fast load times are critical for mobile conversion rates and AI crawler indexing.
+### Simple Answers to Your Search Questions
+*   **How does AI search optimisation work?**  
+    Digital Neighbour structures your website text so conversational AI engines like ChatGPT, Claude, and Gemini can easily read, extract, and recommend your services.
+*   **Why does Digital Neighbour operate without contracts?**  
+    Digital Neighbour believes in earning your business every single month. If our work does not bring value, you are free to leave.
+*   **What is the target loading speed for my website?**  
+    Digital Neighbour aims for a loading speed of under 1.5 seconds. Fast websites convert more visitors and rank better on Google.
 *   **Will I receive regular performance updates?**  
-    Yes. Pranav Tipre conducts monthly strategy reviews with you, explaining calls, inquiries, and completed tasks in plain English.
-*   **Do you manage campaigns in Auckland and Christchurch?**  
-    Yes. We provide direct local support to businesses across both Auckland and Christchurch metropolitan areas.
+    Yes. Digital Neighbour conducts monthly strategy reviews, explaining phone calls and completed tasks in plain English.
+*   **Does Digital Neighbour manage both SEO and paid ads?**  
+    Yes. Digital Neighbour provides complete search coverage, managing search engine optimisation and Google Ads under one roof.
 
 ---
 
 ## Section 12: Final CTA with Risk Reduction
-### Section Heading
-See Exactly How Your Business Appears on ChatGPT, Gemini, and Siri
+### See Exactly How Your Business Appears on ChatGPT, Claude, and Gemini
+Do not leave your search visibility to chance as search engines evolve. Contact Digital Neighbour to request your free audit.
 
-### Body Copy
-Do not leave your search visibility to chance as technology evolves. Our free AI Search Readiness Audit takes ten minutes, requires zero cost, and compares your brand recommendation status against three local competitors.
-
-### Primary CTA Button
-[Get Your Free AI Search Audit Now]
-
-### Secondary CTA Button
-[Speak Directly with Sagar and Pranav]
+**[Request a Free AI Search Audit] [Speak Directly with Digital Neighbour]**
 
 ***
 
@@ -190,24 +147,24 @@ Do not leave your search visibility to chance as technology evolves. Our free AI
 ### Headline Alternatives
 
 1.  **Alternative 1 (Direct Problem Focus):**  
-    *Copy:* Stop Paying for Search Reports and Start Driving Local Leads on Google, ChatGPT, and Siri  
+    *Copy:* Stop Paying for Search Reports and Start Driving Local Leads with Digital Neighbour on Google, ChatGPT, and Claude  
     *Rationale:* Targets the primary frustration of business owners paying for search retainers without seeing an increase in calls. Uses high contrast to call out the transition to AI.
 2.  **Alternative 2 (Benefit and Trust Focus):**  
-    *Copy:* Prepare Your Auckland or Christchurch Business for the AI Search Era with Simple, Month-to-Month SEO  
+    *Copy:* Prepare Your New Zealand Business for the AI Search Era with Simple, Month-to-Month SEO by Digital Neighbour  
     *Rationale:* Focuses on risk reduction (month-to-month terms) and location alignment. Highlights preparation for AI search as the main competitive advantage.
 
 ### Primary CTA Alternatives
 
 1.  **Alternative 1 (Action and Value Led):**  
-    *Copy:* Run My Free AI Search Scan  
+    *Copy:* Run My Free Digital Neighbour AI Search Scan  
     *Rationale:* Action-oriented verb (Run) paired with low friction (Free) and high specificity (AI Search Scan).
 2.  **Alternative 2 (Benefit Led):**  
-    *Copy:* Compare My Business in ChatGPT  
+    *Copy:* Compare My Business in ChatGPT with Digital Neighbour  
     *Rationale:* Targets the curiosity of the owner to see how they perform compared to their competitors inside conversational engines.
 
 ### Copywriting Annotations & Strategy
 
-*   **Hero Section Construction:** The headline directly addresses target locations (Christchurch, Auckland) and core outcomes (suburb traffic, bookings) to establish relevance. The three bullet points address the three primary hesitations: contract risk, technical confusion, and technical capability.
-*   **Clarity Over Cleverness:** We avoid flowery branding language. We state exactly what we do (traditional SEO, Google Ads, website design) and what we deliver (recommendations on ChatGPT, Siri, and Google).
-*   **Benefit Nesting:** In Section 4, we use the `Feature -> Benefit -> Outcome` formula. E.g., nested coordinates (Feature) leads to high map rankings (Benefit) which results in a steady flow of calls without click costs (Outcome).
-*   **No Hype Claims:** We rely on specific numbers (31 active SEO clients, 8 ads clients) rather than empty claims of being "the absolute best" or "guaranteeing first place rankings."
+*   **Hero Section Construction:** The headline directly addresses the core search disciplines (SEO-GEO, AEO, Website Design, Google Ads) and locations (New Zealand) to establish immediate relevance. The three bullet points address the three primary hesitations: contract risk, technical confusion, and technical capability.
+*   **Clarity Over Cleverness:** We avoid flowery branding language. We state exactly what Digital Neighbour does (traditional and AI search, Google Ads, website design) and what is delivered.
+*   **Benefit Nesting:** In Section 4, we use the `Feature -> Benefit -> Outcome` formula. E.g., fast website loading (Feature) keeps visitors from leaving (Benefit) which results in more completed bookings (Outcome).
+*   **No Hype Claims:** We rely on specific numbers (31 active campaigns, 8 ads accounts) rather than empty claims of being "the absolute best" or "guaranteeing first place rankings."
