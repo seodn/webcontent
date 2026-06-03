@@ -8,7 +8,7 @@ This document defines the information architecture, URL hierarchy, navigation st
 
 ## 1. Page Hierarchy (ASCII Tree)
 
-We maintain a flat 2-level depth structure to stay as flat as possible, with Search Engine Optimisation acting as our core marketing hub.
+We maintain a flat structure to keep page retrieval fast and simple, with Search Engine Optimisation acting as our core marketing hub.
 
 ```
 Homepage (/)
@@ -34,6 +34,16 @@ Homepage (/)
 │   ├── WordPress Hosting (/wordpress-hosting)
 │   ├── Reseller Hosting (/reseller-hosting)
 │   └── Email Hosting (/email-hosting)
+├── Industries (/industries)
+│   ├── Small Business Marketing (/industries/small-business-marketing)
+│   ├── Local Business Marketing (/industries/local-business-marketing)
+│   ├── Automotive Marketing (/industries/automotive-marketing)
+│   ├── Window Tinting Marketing (/industries/window-tinting-marketing)
+│   ├── Childcare Marketing (/industries/childcare-marketing)
+│   └── Dental Marketing (/industries/dental-marketing)
+├── Locations (/locations)
+│   ├── Christchurch (/location/christchurch)
+│   └── Auckland (/location/auckland)
 ├── AI Search Audit Landing (/ai-readiness-audit)
 ├── About Us (/about)
 ├── Blog (/blog)
@@ -89,17 +99,17 @@ graph TD
     RHOST[Reseller Hosting /reseller-hosting]
     EHOST[Email Hosting /email-hosting]
 
-    %% Subgraphs for Navigation Zones
-    subgraph Header_Nav [Header Navigation]
-        HOME
-        S_SEO
-        S_DEV
-        S_ADS
-        S_OTH
-        ABOUT
-        BLOG
-        AUDIT
-    end
+    %% L2 - Industries
+    IND_S[Small Business /industries/small-business-marketing]
+    IND_L[Local Business /industries/local-business-marketing]
+    IND_A[Automotive /industries/automotive-marketing]
+    IND_W[Window Tinting /industries/window-tinting-marketing]
+    IND_C[Childcare /industries/childcare-marketing]
+    IND_D[Dental /industries/dental-marketing]
+
+    %% L2 - Locations
+    LOC_CH[Christchurch /location/christchurch]
+    LOC_AK[Auckland /location/auckland]
 
     %% Connections
     HOME --> S_SEO
@@ -131,6 +141,16 @@ graph TD
     S_OTH --> WHOST
     S_OTH --> RHOST
     S_OTH --> EHOST
+
+    HOME --> IND_S
+    HOME --> IND_L
+    HOME --> IND_A
+    HOME --> IND_W
+    HOME --> IND_C
+    HOME --> IND_D
+
+    HOME --> LOC_CH
+    HOME --> LOC_AK
 
     %% Directing to Primary CTA
     S_SEO -.-> AUDIT
@@ -174,13 +194,21 @@ graph TD
 | WordPress Hosting | `/wordpress-hosting` | Other Services Hub | Dropdown / Footer | Low |
 | Reseller Hosting | `/reseller-hosting` | Other Services Hub | Dropdown / Footer | Low |
 | Email Hosting | `/email-hosting` | Other Services Hub | Dropdown / Footer | Low |
+| **Small Business Marketing** | `/industries/small-business-marketing` | Homepage | Footer | Medium |
+| **Local Business Marketing** | `/industries/local-business-marketing` | Homepage | Footer | Medium |
+| **Automotive Marketing** | `/industries/automotive-marketing` | Homepage | Footer | Medium |
+| **Window Tinting Marketing** | `/industries/window-tinting-marketing` | Homepage | Footer | Medium |
+| **Childcare Marketing** | `/industries/childcare-marketing` | Homepage | Footer | Medium |
+| **Dental Marketing** | `/industries/dental-marketing` | Homepage | Footer | Medium |
+| **Christchurch Location** | `/location/christchurch` | Homepage | Footer | High |
+| **Auckland Location** | `/location/auckland` | Homepage | Footer | High |
 
 ---
 
 ## 4. Navigation Spec
 
 ### Header Navigation
-Designed to group our services into 4 dropdown columns to avoid choices overload (following the 4-7 max items rule).
+Designed to group our services into 4 dropdown columns to avoid choices overload.
 
 *   **Logo:** (Left-aligned) links to `/`
 *   **Item 1: Search Engine Optimisation** (Dropdown Menu):
@@ -210,7 +238,7 @@ Designed to group our services into 4 dropdown columns to avoid choices overload
 *   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
 
 ### Footer Organization
-Structured in columns to act as an sitemap:
+Structured in columns to act as a sitemap:
 
 *   **Column 1: Search Engine Optimisation**
     *   Search Engine Optimisation Overview
@@ -229,23 +257,19 @@ Structured in columns to act as an sitemap:
     *   Performance Max
     *   Google Remarketing
     *   Landing Page Optimisation
-*   **Column 4: Managed Tech**
-    *   Call Tracking
-    *   Web Hosting
-    *   WordPress Hosting
-    *   Reseller Hosting
-    *   Email Hosting
-*   **Column 5: Company**
+*   **Column 4: Industries We Support**
+    *   Small Business Marketing (`/industries/small-business-marketing`)
+    *   Local Business Marketing (`/industries/local-business-marketing`)
+    *   Automotive Marketing (`/industries/automotive-marketing`)
+    *   Window Tinting Marketing (`/industries/window-tinting-marketing`)
+    *   Childcare Marketing (`/industries/childcare-marketing`)
+    *   Dental Marketing (`/industries/dental-marketing`)
+*   **Column 5: Company & Locations**
     *   About Us
     *   Blog
     *   Contact Us
-    *   Privacy Policy
-    *   Terms of Service
-
-### Breadcrumbs Pattern
-Implemented on all L2 pages to reinforce parent hierarchy and internal link strength:
-*   `Home > Search Engine Optimisation > AI SEO (GEO & AEO)`
-*   `Home > Blog > Category > Post Title`
+    *   Christchurch Location (`/location/christchurch`)
+    *   Auckland Location (`/location/auckland`)
 
 ---
 
@@ -256,23 +280,16 @@ To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tigh
 ### Hub-and-Spoke Topic Clusters
 
 #### Cluster 1: Search Engine Optimisation (Core Service Hub - 60% Revenue)
-*   **Hub Page:** `/search-engine-optimisation` (Provides a plain English overview of core SEO and the search landscape shift, using our Yellow Pages to Google / smartphone shift analogies).
+*   **Hub Page:** `/search-engine-optimisation`
 *   **Spokes:** `/local-seo`, `/ai-seo`, `/ecommerce-seo`, `/cro`.
-*   **Linking Rules:** The Hub links out to all 4 spokes. Every spoke links back to the `/search-engine-optimisation` hub. Spoke pages also interlink (e.g., `/local-seo` links to `/ai-seo` as the future of local business lookup).
+*   **Industry Links:** Links to `/industries/dental-marketing`, `/industries/childcare-marketing`, `/industries/window-tinting-marketing`, `/industries/small-business-marketing`.
 
 #### Cluster 2: Website Development (20% Revenue)
-*   **Hub Page:** `/website-development` (Focuses on building fast, SEO-friendly assets that act as a business foundation).
+*   **Hub Page:** `/website-development`
 *   **Spokes:** `/wordpress-development`, `/ecommerce-development`, `/landing-page-development`, `/website-optimisation`.
-*   **Linking Rules:** Hub page connects to all spokes. Every spoke links back to `/website-development`. The spoke `/website-optimisation` links to `/wordpress-development` to reference speed improvements.
+*   **Industry Links:** Links to `/industries/automotive-marketing`, `/industries/local-business-marketing`, `/industries/small-business-marketing`.
 
 #### Cluster 3: Google Ads (10% Revenue)
-*   **Hub Page:** `/google-ads` (Focuses on Ads as an ongoing lead engine).
+*   **Hub Page:** `/google-ads`
 *   **Spokes:** `/google-search-ads`, `/google-shopping-ads`, `/performance-max`, `/google-remarketing`, `/landing-page-optimisation`.
-*   **Linking Rules:** Hub page links to all spokes. Every spoke links back to `/google-ads`.
-
-### Cross-Section Linking Opportunities
-
-1.  **Connecting Web Dev to SEO (The Foundation Analogy):** On `/wordpress-development` and `/ecommerce-development`, link directly to `/search-engine-optimisation` and `/website-optimisation` with anchor text like *"clean technical SEO foundation"* or *"speed optimization"*. Cite our signature analogy: *"A website is the foundation of a house, and SEO is the house itself. If the foundation is weak, the walls crack."*
-2.  **Connecting Google Ads to CRO and Landing Pages:** On `/google-search-ads` and `/performance-max`, link to `/cro` and `/landing-page-optimisation` with text like *"improving landing page conversion rates"*. Cite the QA check rule: *"A broken contact form or bad landing page can cost thousands in wasted ad spend."*
-3.  **Audit Hook CTA Anchor:** Every L2 service page (especially `/ai-seo`, `/search-engine-optimisation`, `/local-seo`, `/cro`) must feature a distinct Call-to-Action section linking to `/ai-readiness-audit`. The anchor text should promote the *"Free NZ AI Search Readiness Audit"* to compare their business against local competitors.
-4.  **Blog to Service Linking:** Every educational blog post in a category must link to its corresponding L2 service page within the first 150 words (e.g., a post about Siri voice search links to `/ai-seo`).
+*   **Industry Links:** Links to `/industries/window-tinting-marketing`, `/industries/small-business-marketing`, `/industries/local-business-marketing`.
