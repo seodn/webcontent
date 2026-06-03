@@ -1,31 +1,31 @@
 # Product Marketing Context: Digital Neighbour
 
-*Last updated: May 2026*
+*Last updated: June 2026*
 
-This document serves as the foundational positioning and messaging framework for Digital Neighbour as we guide New Zealand businesses through the transition from traditional search to the new AI search engines.
+This document serves as the foundational positioning and messaging framework for Digital Neighbour as we guide New Zealand businesses through the transition from traditional search to the new AI search engines. It bridges the gap between traditional SEO/Ads and conversational AI search, combining the strategic visions of founder Sagar Bhola and Director Pranav Tipre.
 
 ---
 
 ## Product Overview
 
-*   **One-liner:** New Zealand’s premier agency bridging the gap between traditional Google SEO/Ads and the new conversational AI search engines.
-*   **What it does:** We keep our clients' traditional Google rankings and Google Ads strong to generate immediate leads, while simultaneously structuring their websites and data so they are recommended by new platforms like ChatGPT Search, Google Gemini, and Apple Intelligence (Siri).
+*   **One-liner:** New Zealand’s premier search marketing agency bridging the gap between traditional Google SEO/Ads and the new conversational AI search engines.
+*   **What it does:** We defend and grow our clients' traditional Google rankings and Google Ads to generate immediate leads, while simultaneously structuring their websites and data so they are recommended by conversational AI platforms like ChatGPT Search, Google Gemini, and Apple Intelligence (Siri).
 *   **Product category:** Hybrid Search Marketing & Digital Growth.
-*   **Product type:** Embedded Marketing Agency / Managed Growth Service.
-*   **Business model:** Month-to-month, outcome-driven partnerships with no locked-in long-term contracts.
+*   **Product type:** Embedded Technical Marketing Agency & Managed Growth Service.
+*   **Business model:** Month-to-month, outcome-driven partnerships with no locked-in long-term contracts (open-term relationships).
 
 ---
 
 ## Target Audience
 
-*   **Target companies:** New Zealand small-to-medium businesses (SMEs) and localized brands—predominantly located in **Christchurch and Auckland**—spanning essential trades (mechanics, panel beaters, concrete sealing, solar control), local healthcare (dentists, physios), retail/services (florists, travel), B2B developers, and early education/childcare.
-*   **Decision-makers:** Business Owners, Managing Directors, and local Marketing Managers who need tangible phone calls, leads, and store visits rather than complex agency reports.
+*   **Target companies:** New Zealand small-to-medium businesses (SMEs) and localized brands—predominantly located in **Christchurch and Auckland**—spanning essential trades (mechanics, panel beaters, concrete sealing, solar control), local healthcare (dentists, physios), childcare/education, retail/services (florists, travel), B2B developers, and residential builders.
+*   **Decision-makers:** Business Owners, Managing Directors, and local Marketing Managers who need tangible results (phone calls, booking forms, leads) rather than confusing agency charts.
 *   **Primary use case:** Ensuring local and national businesses remain highly visible and recommended whenever a customer looks for their service, whether they type a keyword into Google or ask their phone/ChatGPT a natural language question.
 *   **Jobs to be done:**
     1.  *"Make sure my phones keep ringing and my inquiry forms keep coming in as search engines evolve."*
     2.  *"Ensure my business is listed and recommended first when local customers ask Siri, Google, or ChatGPT for help."*
     3.  *"Manage my website, SEO, and Google Ads under one roof so I do not have to coordinate multiple tech providers."*
-*   **Target platforms unlocked:**
+*   **Use cases & Target platforms:**
     *   **Google AI Overviews (Gemini):** Getting cited as a trusted source in Google's new AI summaries.
     *   **ChatGPT Search & Claude:** Getting recommended in natural conversational queries.
     *   **Perplexity & Siri (Apple Intelligence):** Capturing voice-driven and virtual assistant search intent.
@@ -44,7 +44,10 @@ This document serves as the foundational positioning and messaging framework for
 ## Problems & Pain Points
 
 *   **Core problem:** Search behavior is changing rapidly. More than 60% of searches now result in "zero clicks" because Google displays the answer directly on the page, and local searchers are starting to ask ChatGPT or Siri instead of typing short phrases.
-*   **Why traditional solutions fall short:** Standard SEO agencies are still using 2019 tactics—writing cheap blog posts, stuffing keywords, and buying backlinks. These tactics do not work when search engines summarize the web using AI.
+*   **Why traditional solutions fall short:**
+    *   Standard SEO agencies are still using 2019 tactics—writing cheap blog posts, stuffing keywords, and buying backlinks. These tactics do not work when search engines summarize the web using AI.
+    *   External vendors send automated monthly PDFs with keyword spreadsheets but phone calls are decreasing.
+    *   Technical agencies are too corporate, explaining things using math-heavy academic jargon (like NLP, semantic vector databases) that alienate local business owners.
 *   **What it costs them:** A sudden drop in website traffic, fewer incoming phone calls, empty booking calendars, and wasted marketing spend.
 *   **Emotional tension:** Fear of being left behind by technology, frustration with complex technical jargon, and anxiety about the future stability of their business leads.
 
@@ -63,10 +66,24 @@ This document serves as the foundational positioning and messaging framework for
 
 ## Differentiation: Why Customers Choose Digital Neighbour
 
-*   **No Complex Jargon:** We do not throw terms like "GEO", "AEO", or "vector search spaces" at our clients. We explain exactly *how* search is changing in plain English and show them the exact platforms (ChatGPT, Siri, Gemini) we are unlocking.
-*   **Embedded Partner Model:** We do not act like an external vendor sending automated monthly PDFs. We work alongside the client, deeply understanding their local business dynamics in Christchurch and Auckland.
-*   **The Technical Core:** We don't just write content. Because we build our clients' websites, we ensure their sites are incredibly fast, lightweight, and cleanly coded. This is a massive advantage because AI search engines prefer crawling lightning-fast sites.
+*   **No Complex Jargon (Analogy-Led):** We do not throw terms like "GEO", "AEO", or "vector search spaces" at our clients. We explain exactly *how* search is changing in plain English and use simple analogies (e.g., Website = Phone, SEO = Fitness, AI = Smartphone shift).
+*   **Embedded Partner Model:** We do not act like an external vendor sending automated monthly PDFs. We work alongside the client, deeply understanding their local business dynamics in Christchurch and Auckland ("Their business is their baby, our job is to look after it").
+*   **The Technical Core:** We don't just write content. Because we build our clients' websites, we ensure their sites are incredibly fast, lightweight, and cleanly coded (loading in under 1.5 seconds). This is a massive advantage because AI search engines prefer crawling lightning-fast sites.
 *   **Immediate + Future Results:** We do not ask clients to wait for the future. We run high-converting Google Ads and traditional local SEO to drive leads *today*, while layering in AI readiness to secure their leads *tomorrow*.
+*   **Open-Term Trust:** We prefer open-term relationships (month-to-month). We believe trust should be earned, not enforced by lock-in contracts.
+
+---
+
+## The 7-Step SEO Process
+
+We follow a transparent, collaborative, and results-first process:
+1.  **Discovery:** Understanding business goals, target audience, services, markets, competitors, and growth plans. We believe understanding the business is more important than understanding keywords.
+2.  **Research:** Finding keyword intent, competitor maps, search opportunities, and market dynamics.
+3.  **SEO Audit:** Identifying technical issues, website structure, content gaps, and authority blockages.
+4.  **Strategy Development:** Collaborative strategy creation involving leadership, SEO specialists, developers, and project managers.
+5.  **Client Collaboration:** Setting target markets, keyword selections, and content directions together with the client.
+6.  **Website Improvements:** Implementing fast pages, clean code structure, and strong UX early because SEO without website improvements is inefficient.
+7.  **Ongoing Optimisation:** Continuous monthly technical reviews, content optimization, and performance monitoring.
 
 ---
 
@@ -87,9 +104,11 @@ This document serves as the foundational positioning and messaging framework for
 *   **Push (Frustrations with current setup):** 
     *   Website traffic is starting to slip despite paying a traditional SEO retainer.
     *   Agency reports are full of keyword spreadsheets but phone calls are decreasing.
+    *   Agency uses long-term contracts to enforce partnerships without earning trust.
 *   **Pull (Attraction to Digital Neighbour):**
     *   The reassurance of a local Christchurch/Auckland partner who explains things in plain English.
     *   The excitement of being the first in their industry to show up as a recommended answer on ChatGPT and Siri.
+    *   Flexibility of month-to-month terms.
 *   **Habit (What keeps them stuck):**
     *   *"We have worked with our current web developer/SEO guy for years, even if he doesn't know much about AI."*
     *   Fear of breaking current rankings by switching providers.
@@ -114,12 +133,22 @@ This document serves as the foundational positioning and messaging framework for
     *   "Unlocking new platforms (ChatGPT, Siri, Gemini)"
     *   "Keeping your phones ringing"
     *   "Plain English / No jargon"
+    *   "Their business is their baby, our job is to look after it"
+    *   "Trust should be earned, not enforced"
 *   **Words/phrases to avoid:**
     *   "GEO / Generative Engine Optimization"
     *   "AEO / Answer Engine Optimization"
     *   "NLP semantic mapping"
     *   "RAG retrieval pipelines"
     *   "Vector database optimization"
+*   **Glossary:**
+    | Term | Meaning |
+    | :--- | :--- |
+    | Website | The phone device itself. |
+    | Domain | The phone number. |
+    | Hosting | The network provider. |
+    | SEO | Fitness level of your business (requires consistent effort). |
+    | AI Search | The smartphone shift (the next evolution of discovery). |
 
 ---
 
@@ -127,16 +156,23 @@ This document serves as the foundational positioning and messaging framework for
 
 *   **Tone:** Friendly, helpful, practical, and highly reassuring.
 *   **Style:** Clear, conversational, direct, and completely free of complex acronyms.
-*   **Personality Adjectives:** Professional, honest, forward-thinking, and reliable.
+*   **Personality:** Professional, honest, forward-thinking, and reliable.
 
 ---
 
 ## Proof Points & Track Record
 
-*   **Active Client Base:** **31 active SEO clients** across Auckland and Christchurch, representing diverse New Zealand industries (automotive panel beating, child care, dentists, retail jewellers, florists, home trade services).
+*   **Active Client Base:** **31 active SEO clients** across Auckland and Christchurch, representing diverse New Zealand industries (automotive panel beating, childcare, dentists, retail jewellers, florists, home trade services).
 *   **Google Ads Expertise:** **8 active Google Ads clients** receiving consistent monthly lead flow.
 *   **Web Integration:** Custom website design and speed optimization executed for the majority of these clients, ensuring high conversion rates and seamless crawling by search engines.
 *   **Core Location Focus:** Deep local expertise in **Christchurch and Auckland** business markets.
+*   **Notable Value Themes:**
+    | Theme | Proof |
+    | :--- | :--- |
+    | Educate Before You Sell | Our analogy library translates technical SEO jargon into plain English, ensuring client involvement. |
+    | Quality Before Speed | Custom website performance engineering (loading in under 1.5s) and thorough, manual QA checks on contact forms. |
+    | Open-Term Trust | Month-to-month outcome-driven partnerships with no locked-in contracts. |
+    | Deep Technical Depth | Nested geographical schemas, doctor E-E-A-T indexing, and structured Q&A content blocks. |
 
 ---
 
