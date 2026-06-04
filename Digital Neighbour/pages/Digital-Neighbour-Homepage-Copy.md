@@ -2,7 +2,7 @@
 
 ## HERO
 
-# More Customers. Better Visibility. Sustainable Growth.
+# Get More Customers. Better Visibility. Sustainable Growth.
 
 ### Helping Kiwi businesses attract more enquiries through SEO, Google Ads, high-performing websites and the next generation of search.
 
