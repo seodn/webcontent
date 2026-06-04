@@ -4,7 +4,7 @@
 
 # Get More Customers. Better Visibility. Sustainable Growth.
 
-### Helping Kiwi businesses attract more enquiries through SEO, Google Ads, high-performing websites and the next generation of search.
+### Attract more enquiries through search engine optimisation, Google Ads and fast websites.
 
 The way people find businesses is changing. Customers are searching on Google, asking ChatGPT for recommendations and expecting fast, seamless online experiences. Digital Neighbour helps your business stay visible, earn trust and generate more enquiries wherever customers search.
 
@@ -100,14 +100,14 @@ No long-term contracts. We believe partnerships should be earned through results
 
 Many Kiwi business owners feel frustrated by marketing agencies that deliver keyword charts instead of telephone calls. We believe in answering your hard questions directly so you can choose a digital partner with complete confidence. Our team resolves these common search doubts to keep your calendar active and your online enquiries flowing.
 
-*   **Why is my website traffic high but my phone remains silent?**  
+*   **Why does my digital marketing fail to generate enquiries?**  
     A slow page loading speed or a broken contact form can stop enquiries instantly. We resolve this by testing contact forms regularly and improving your landing page layouts.
-*   **Why is my competitor ranking higher than me in my own suburb?**  
-    Your business profiles may lack coordinate nesting and local schema code. We fix this by updating your geographic search listings and mapping coordinates.
-*   **Will I get locked into a long contract with no performance?**  
+*   **Why are my competitors outperforming me online?**  
+    Your competitor profiles may have better geographic data and structured local schema code. We fix this by updating your geographic search listings and mapping coordinates.
+*   **How do I avoid getting locked into long-term contracts?**  
     Many agencies enforce six or twelve-month contracts to secure their own revenue. We work on month-to-month terms so you can leave if we do not deliver results.
-*   **Do I really need to worry about ChatGPT search?**  
-    Yes. People are asking conversational search tools for local brand recommendations. We build structured content so artificial intelligence systems select your services.
+*   **Do I really need to worry about artificial intelligence search?**  
+    Yes. People are asking conversational search tools for local recommendations. We build structured content so artificial intelligence systems select your services.
 
 ---
 
@@ -235,12 +235,12 @@ Technical shifts in how search engines recommend local businesses can feel confu
 
 *   **How does AI search optimisation work?**  
     We structure your website text so conversational AI engines like ChatGPT, Claude, and Gemini can easily read, extract, and recommend your services to active buyers.
-*   **Why does Digital Neighbour operate without contracts?**  
-    We believe in earning your business every single month. If our work does not bring tangible lead value, you are free to cancel our service.
+*   **Why do you operate without lock-in contracts?**  
+    We believe in earning your partnership every single month. If our work does not bring tangible lead value, you are free to cancel our service.
 *   **What is the target loading speed for my website?**  
     We aim for a loading speed of under 1.5 seconds. Fast websites convert more visitors and rank better on traditional search engines.
 *   **Will I receive regular performance updates?**  
-    Yes. Pranav Tipre conducts monthly strategy reviews, explaining phone calls and completed tasks in plain English.
+    Yes. Our senior specialists conduct monthly strategy reviews, explaining phone calls and completed tasks in plain English.
 *   **Does Digital Neighbour manage both SEO and Google Ads?**  
     Yes. We provide complete search coverage, managing search engine optimisation and Google Ads campaigns under one roof.
 
