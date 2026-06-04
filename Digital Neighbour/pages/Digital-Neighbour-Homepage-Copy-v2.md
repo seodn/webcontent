@@ -94,16 +94,25 @@ No long-term contracts. We believe partnerships should be earned through results
 
 ---
 
-## QUESTIONS BEFORE YOU BEGIN
+## RESOLVING YOUR SEARCH PERFORMANCE DOUBTS
 
-### Real Doubts Kiwi Business Owners Have Before Choosing a Search Partner
+### Why Your Digital Marketing Is Not Delivering Customers
 
-Many Kiwi business owners feel frustrated by marketing agencies that deliver keyword charts instead of telephone calls. We believe in answering your hard questions directly so you can choose a digital partner with complete confidence. Our team resolves these common search doubts to keep your calendar active and your online enquiries flowing.
+Many Kiwi business owners feel frustrated by digital marketing agencies that deliver complex keyword charts instead of actual telephone calls. We believe in addressing your performance questions directly so you can select a search partner with absolute confidence. Our team resolves these common visibility problems to keep your calendar busy and your local enquiries flowing.
 
 *   **Why does my digital marketing fail to generate enquiries?**  
     A slow page loading speed or a broken contact form can stop enquiries instantly. We resolve this by testing contact forms regularly and improving your landing page layouts.
 *   **Why are my competitors outperforming me online?**  
     Your competitor profiles may have better geographic data and structured local schema code. We fix this by updating your geographic search listings and mapping coordinates.
+
+---
+
+## AVOIDING AGENCY RISK AND PREPARING FOR AI
+
+### How We Protect Your Investment And Future Proof Your Business
+
+Choosing a digital marketing agency involves commercial risk and technical uncertainty. Many business owners worry about signing long contract agreements or falling behind new search systems. We operate differently by providing flexible month to month agreements and building advanced digital assets that align with modern consumer search behaviour. Here are the answers to your risk concerns.
+
 *   **How do I avoid getting locked into long-term contracts?**  
     Many agencies enforce six or twelve-month contracts to secure their own revenue. We work on month-to-month terms so you can leave if we do not deliver results.
 *   **Do I really need to worry about artificial intelligence search?**  
