@@ -4,7 +4,7 @@
 
 # Get More Customers. Better Visibility. Sustainable Growth.
 
-### Attract more enquiries through search engine optimisation, Google Ads and fast websites.
+### Attract more enquiries through SEO, AI, Google Ads and fast websites.
 
 The way people find businesses is changing. Customers are searching on Google, asking ChatGPT for recommendations and expecting fast, seamless online experiences. Digital Neighbour helps your business stay visible, earn trust and generate more enquiries wherever customers search.
 
