@@ -1,94 +1,98 @@
-# Digital Neighbour Copywriting Homepage: Designed for High Conversion
+# Stop Wasting Money on Vague Search Reports. Let us Get Your Phone Ringing with Kiwi Partners Who Earn Your Trust Every Single Month.
 
-## Section 1: Hero / Above the Fold
-### Get Found Online and Drive More Customer Inquiries
-We help New Zealand businesses increase website traffic and secure more customer bookings. Our team designs fast websites and manages search campaigns to connect you with active buyers in your local area.
+## Section 1: Hero
 
-*   **Open Month-to-Month Terms:** We work on flexible terms to earn your partnership daily.
-*   **Plain English Strategy:** We explain technical growth steps clearly without confusing jargon.
-*   **Speed Engineered Code:** We build clean websites that modern search engines recommend.
+### Simple Search Marketing to Drive More Customer Inquiries
 
-**[Request a Free AI Search Readiness Audit] [Book a Consultation Call]**
+You want results: more phone calls, more bookings, and more local sales. You do not want another twenty-page keyword spreadsheet that leaves your phone silent. We build speed-engineered websites, run high-converting Google Ads campaigns, and structure your business data so you capture every single search lead in your local area.
+
+*   **Open Month-to-Month Terms:** We work on flexible, open terms because we believe trust must be earned and maintained daily, not enforced by legal contracts.
+*   **Plain English Strategy:** We explain every single step of your growth campaign in clear, simple language without confusing technical jargon.
+*   **Speed Engineered Code:** We build clean, lightweight websites that load in under 1.5 seconds, ensuring search engines recommend you and visitors contact you.
+
+**[Request a Free AI Search Scan] [Book a Consultation Call]**
 
 ---
 
-## Section 2: AI Overview / About Digital Neighbour
+## Section 2: About Digital Neighbour
+
 ### A New Zealand Search Agency Built on Real Partnership
-Digital Neighbour is a specialised search agency operating across New Zealand. We combine traditional search ranking methods with new systems that help websites appear in artificial intelligence recommendations. Our team manages campaigns and paid ads to help Kiwi brands build sustainable lead volume.
+
+Digital Neighbour was founded in Christchurch to change how digital marketing works for New Zealand business owners. We combine traditional search engine rankings with new systems that feed conversational artificial intelligence engines. Our team focuses entirely on quality and transparency, ensuring senior experts manage your campaign to keep your calendar full.
 
 ---
 
-## Section 3: Problem Articulation
-### Google Search is Changing
-### People Do Not Just Search; They Ask Questions Before Making Decisions
-Google Search is changing. People do not just search; they ask questions before making any decision in the buyer journey through AI like ChatGPT, Claude, and Gemini. If your business site is not updated for this shift, you will lose customer leads to competitors who have adapted. Many Kiwi business owners are paying monthly retainers to agencies but seeing their local inquiries slip. We started Digital Neighbour to eliminate this frustration by focusing entirely on business outcomes: keeping your phones ringing and your inquiry forms active.
+## Section 3: Google Search is Changing
+
+### Your Customers are No Longer Just Typing Keywords. They are Having Conversations.
+
+Google search is evolving rapidly. Today, your potential customers do not just type short words. They ask complex, natural questions to Siri in their cars, type detailed scenarios into ChatGPT on their phones, and ask Gemini for local business recommendations. If your website is not structured to answer these questions directly, you are invisible to the new wave of local buyers. We bridge this gap so your business is recommended first, everywhere.
 
 ---
 
 ## Section 4: Questions Before You Begin
+
 ### Real Doubts Kiwi Business Owners Have Before Choosing a Search Partner
-Many business owners have questions before they invest in digital marketing:
+
+Many business owners feel frustrated by past experiences with marketing agencies. We address your doubts directly:
 
 *   **Why is my website traffic high but my phone is silent?**  
-    A slow website or broken contact form can stop inquiries. We resolve this by auditing and improving your landing page layouts.
+    A slow website or a broken contact form can stop inquiries instantly. If your pages load slowly, local visitors will leave for a competitor. We resolve this by testing contact forms regularly and improving your landing page layouts.
 *   **Why is my competitor ranking higher than me in my own suburb?**  
-    Your business profiles may lack coordinate nesting and local schema code. We fix this by updating your geographic search listings.
+    Your business profiles may lack proper coordinate nesting and local schema code. We fix this by updating your geographic search listings and linking your website to local map systems.
 *   **Will I get locked into a long contract with no performance?**  
-    Many agencies enforce six or twelve-month contracts. We eliminate this risk by working on month-to-month terms.
+    Many agencies enforce six or twelve-month contracts to protect their revenue. We eliminate this risk by working on month-to-month terms. If we do not bring value to your business, you are free to leave.
 *   **Do I really need to worry about ChatGPT search?**  
-    Yes. People are asking conversational search tools for brand recommendations. We build structured content so AI systems select you.
+    Yes. Millions of people are asking conversational tools for local brand recommendations. We build structured Q&A blocks and schema code so artificial intelligence systems select your services.
 
 ---
 
-## Section 5: Solution and Benefits
-### We Bridge the Gap Between Google Searches and AI Recommendations
+## Section 5: Core Services
+
+### Simple Search Options to Grow Your Revenue
+
 We focus on four core areas to help your business win more customers:
 
-#### Benefit 1: Traditional and Generative SEO
-We increase your visibility on Google Maps and search listings.
-*   *Feature:* Hidden website code tailored for local listings.
-*   *Benefit:* High rankings in local map listings and traditional Google searches.
-*   *Outcome:* A steady flow of daily customer calls without paying for every click.
-*   *Sub-services:* Local SEO, AI SEO (GEO & AEO), E-commerce SEO, and Conversion Rate Optimisation.
-
-#### Benefit 2: Conversational AI Optimisation (AEO and GEO)
-We format your website copy and structure the data so voice assistants and smartphones recommend your business.
-*   *Feature:* Structured Q&A copy blocks.
-*   *Benefit:* Readiness for AI search engine bot crawls.
-*   *Outcome:* Your business is recommended first by ChatGPT, Claude, and Gemini.
-
-#### Benefit 3: Website Design Built to Convert
-We build simple, fast-loading sites that load in under 1.5 seconds.
-*   *Feature:* Clean website coding and simplified navigation.
-*   *Benefit:* Visitors stay on your site instead of leaving due to slow speeds.
-*   *Outcome:* More inquiries and booking forms filled out.
-*   *Sub-services:* WordPress Development, E-commerce Development, Landing Page Development, and Website Optimisation & Speed.
-
-#### Benefit 4: Google Ads Managed to Win
-We run targeted search and shopping ads to bring immediate buyers to your website.
-*   *Feature:* Targeted search campaigns matched to high-speed landing pages.
-*   *Benefit:* Immediate visibility when local buyers are ready to purchase.
-*   *Outcome:* High-converting customer leads with zero wasted budget.
-*   *Sub-services:* Google Search Ads, Google Shopping Ads, Performance Max Campaigns, and Google Remarketing.
+*   **[Search Engine Optimisation](/search-engine-optimisation):** We increase your organic visibility on Google Maps and search engine result pages. This includes:
+    *   *Local SEO:* Capturing high-intent searches in your specific local suburbs.
+    *   *AI SEO (GEO & AEO):* Structuring website text to be read and recommended by ChatGPT, Claude, and Gemini.
+    *   *E-commerce SEO:* Growing organic visibility and sales for online stores.
+    *   *Conversion Rate Optimisation:* Upgrading page layouts to turn website visitors into phone calls and bookings.
+*   **[Website Design](/website-development):** We build custom, lightweight websites designed to convert visitors into customers. This includes:
+    *   *WordPress Development:* Easy-to-use, flexible platforms for businesses and e-commerce stores.
+    *   *Landing Page Development:* Focus pages built specifically to drive inquiries from targeted ad campaigns.
+    *   *Website Optimisation & Speed:* Cleaning up hidden code to keep your website loading in under 1.5 seconds.
+*   **[Google Ads](/google-ads):** We manage targeted ad campaigns to bring immediate buyers to your website. This includes:
+    *   *Google Search Ads:* Targeting active keywords when customers are ready to purchase.
+    *   *Google Shopping Ads:* Promoted product displays that drive direct e-commerce sales.
+    *   *Performance Max Campaigns:* Automated reach across Google Search, YouTube, and Maps.
+    *   *Google Remarketing:* Re-engaging past website visitors to win back lost leads.
+*   **[Other Services](/other-services):** Managed technical solutions to support your online presence. This includes:
+    *   *Call Tracking:* Measuring exactly which ads and search campaigns drive customer phone calls.
+    *   *Web & Email Hosting:* Secure, fast New Zealand servers to protect your pages and inbox.
 
 ---
 
 ## Section 6: Industries We Help
+
 ### Specialised Marketing Solutions for Kiwi Sectors
+
 We structure custom organic search campaigns across New Zealand for specialised sectors:
 
 *   **[Small Business Marketing](/industries/small-business-marketing):** High-converting search setups tailored for local business owners.
 *   **[Local Business Marketing](/industries/local-business-marketing):** Suburb-level local listing optimisation and citation growth.
-*   **[Automotive Marketing](/industries/automotive-marketing):** Drive customer inquiries for automotive repairs, auto wreckers, and car removals.
-*   **[Window Tinting Marketing](/industries/window-tinting-marketing):** Capture local leads and inquiries for residential and automotive window tinting.
-*   **[Childcare Marketing](/industries/childcare-marketing):** Build ECE center authority and E-E-A-T visibility to increase parent enrollments.
+*   **[Automotive Marketing](/industries/automotive-marketing):** Driving customer inquiries for automotive repairs, auto wreckers, and car removals.
+*   **[Window Tinting Marketing](/industries/window-tinting-marketing):** Capturing local leads and inquiries for residential and automotive window tinting.
+*   **[Childcare Marketing](/industries/childcare-marketing):** Building online authority and trust to increase early childhood education parent enrolments.
 *   **[Dental Marketing](/industries/dental-marketing):** Local maps listings and dental clinic search optimisation to drive patient bookings.
 
 ---
 
 ## Section 7: Locations We Support
+
 ### Helping Businesses Across New Zealand
-We provide search engine solutions to Kiwi businesses nationwide. Our team supports local clients in major centers including:
+
+We provide search engine solutions to Kiwi businesses nationwide. Our team supports local clients in major centres including:
 
 *   **[Auckland Location](/location/auckland):** Dedicated support across Auckland Central, Mt Eden, Manukau, Albany, and Newmarket.
 *   **[Christchurch Location](/location/christchurch):** Local support across Christchurch Central, Riccarton, Sydenham, Hornby, and Papanui.
@@ -96,29 +100,47 @@ We provide search engine solutions to Kiwi businesses nationwide. Our team suppo
 
 ---
 
-## Section 8: Mid-Page CTA Banner
+## Section 8: Diagnostic Scan
+
 ### Not Sure What Search Growth Solution Your Business Needs?
+
 We will run a free search scan on your website. We will show you exactly how your business appears to artificial intelligence search engines compared to your top local competitors.
 
 **[Claim Your Free AI Search Readiness Audit]**
 
 ---
 
-## Section 9: How It Works
+## Section 9: Our Process
+
 ### Six Simple Steps to a Successful Partnership
+
 We follow a clear path to build your online presence:
 
-*   **Step 1: Business Chat:** We learn about your services and target customers.
-*   **Step 2: Website Check:** We review your website loading speed and code health.
-*   **Step 3: Search Strategy:** We plan the exact steps needed to get you found.
-*   **Step 4: Copy Writing:** We write simple text that search tools can read.
-*   **Step 5: Code Upgrades:** We optimise your site coding for speed and search layout.
-*   **Step 6: Monthly Review:** We show you actual leads, calls, and completed tasks.
+1.  **Business Chat:** We learn about your services, your goals, and your target customers.
+2.  **Website Check:** We review your website loading speed, contact forms, and code health.
+3.  **Search Strategy:** We plan the exact technical steps needed to get you found online.
+4.  **Copy Writing:** We write simple, persuasive text that search tools and customers can read.
+5.  **Code Upgrades:** We optimise your site coding for speed, local search, and AI indexing.
+6.  **Monthly Review:** We show you actual leads, calls, and completed tasks in plain English.
 
 ---
 
-## Section 10: Pricing
+## Section 10: Benefits
+
+### Measurable Advantages for Kiwi Business Owners
+
+Partnering with us helps you secure a stable business foundation:
+
+*   **More Daily Leads:** We connect your services to active local buyers, keeping your booking calendar active.
+*   **Long Term Value:** We build organic authority that continues to bring leads without ongoing ad costs.
+*   **No Jargon Updates:** We explain all progress in plain, honest English.
+
+---
+
+## Section 11: Pricing
+
 ### Transparent Monthly Retainers with No Lock-in Contracts
+
 We believe in straightforward, flat rates based on competition:
 
 *   **Search Optimisation Packages:** Starting from fifteen hundred dollars per month.
@@ -132,18 +154,22 @@ We believe in straightforward, flat rates based on competition:
 
 ---
 
-## Section 11: Alternatives Comparison
-### Choosing the Right Path for Your Search Growth
+## Section 12: Alternatives
+
+### How We Compare to Other Search Partners in New Zealand
+
 Select the partner structure that matches your business model:
 
-*   **Locked-in Corporate Agencies:** They require six or twelve-month contracts, use complex tech terms, and provide little transparency.
-*   **Visual Design Agencies:** They construct beautiful websites but ignore search indexing, speed codes, and AI visibility.
-*   **Digital Neighbour:** We offer month-to-month contracts, simple English strategy reviews, and technical optimisation.
+*   **Locked-in Corporate Agencies:** They require six or twelve-month contracts, use complex tech terms to hide lack of progress, and provide little transparency.
+*   **Visual Design Agencies:** They construct beautiful websites but ignore search indexing, website loading speed, and AI visibility.
+*   **Digital Neighbour:** We offer month-to-month contracts, simple English strategy reviews, speed-engineered code, and advanced AI search readiness.
 
 ---
 
-## Section 12: Website Support
+## Section 13: Website Support
+
 ### Continuous Performance Auditing to Protect Your Business
+
 We provide ongoing care to ensure your search rankings stay strong:
 
 *   **Form Testing:** We check your website contact forms regularly to prevent lost customer inquiries.
@@ -152,14 +178,18 @@ We provide ongoing care to ensure your search rankings stay strong:
 
 ---
 
-## Section 13: Trust and Proof (E-E-A-T)
+## Section 14: Trust & Leadership
+
 ### A New Zealand Agency Run by Sagar Bhola and Pranav Tipre
+
 Digital Neighbour was established in August 2022 in Christchurch by Sagar Bhola. Sagar studied search systems and backend coding before migrating to New Zealand in 2017. Director Pranav Tipre joined in 2023 to lead strategy and client relationships. Together, Sagar and Pranav guide our New Zealand team to ensure senior experts execute your campaign.
 
 ---
 
-## Section 14: Testimonials
+## Section 15: Testimonials
+
 ### Honest Feedback from Kiwi Business Owners
+
 Our clients value the clear communication and month-to-month flexibility we provide.
 
 > *"We were paying another agency for search work but saw our phone calls drop. Digital Neighbour rebuilt our site coding for speed, and now our business is showing up consistently."*  
@@ -170,8 +200,10 @@ Our clients value the clear communication and month-to-month flexibility we prov
 
 ---
 
-## Section 15: Frequently Asked Questions
+## Section 16: Frequently Asked Questions
+
 ### Simple Answers to Your Search Questions
+
 *   **How does AI search optimisation work?**  
     We structure your website text so conversational AI engines like ChatGPT, Claude, and Gemini can easily read, extract, and recommend your services.
 *   **Why does Digital Neighbour operate without contracts?**  
@@ -185,37 +217,39 @@ Our clients value the clear communication and month-to-month flexibility we prov
 
 ---
 
-## Section 16: Final CTA with Risk Reduction
-### See Exactly How Your Business Appears on ChatGPT, Claude, and Gemini
+## Section 17: Start Today
+
+### See How Your Business Appears on ChatGPT, Claude, and Gemini
+
 Do not leave your search visibility to chance as search engines evolve. Contact us today to request your free audit.
 
 **[Request a Free AI Search Audit] [Speak Directly with a Search Expert]**
 
-***
+---
 
 ## Copywriting Analysis, Alternatives, and Annotations
 
 ### Headline Alternatives
 
-1.  **Alternative 1 (Direct Problem Focus):**  
-    *Copy:* Stop Paying for Search Reports and Start Driving Local Leads on Google, ChatGPT, and Claude  
-    *Rationale:* Targets the primary frustration of business owners paying for search retainers without seeing an increase in calls. Uses high contrast to call out the transition to AI.
-2.  **Alternative 2 (Benefit and Trust Focus):**  
-    *Copy:* Prepare Your New Zealand Business for the AI Search Era with Simple, Month-to-Month SEO  
-    *Rationale:* Focuses on risk reduction (month-to-month terms) and location alignment. Highlights preparation for AI search as the main competitive advantage.
+1.  **Alternative 1 (Focus on Frustration and Outcomes):**  
+    *Copy:* Stop Paying for Search Retainers That Leave Your Phone Silent. Get a Speed-Engineered Site and AI-Ready SEO from local New Zealand Experts.  
+    *Rationale:* Directly addresses the frustration of zero-lead retainers. Contrasts typical agency failure with the tangible outcomes of speed and AI integration.
+2.  **Alternative 2 (Focus on AI Transition and Risk Reduction):**  
+    *Copy:* Is Your Website Ready for Siri and ChatGPT Search? Connect with a Christchurch Search Agency on Open Month-to-Month Terms.  
+    *Rationale:* Plays on the fear of missing out on technological shifts while removing entry barriers through the open-term contract model.
 
 ### Primary CTA Alternatives
 
-1.  **Alternative 1 (Action and Value Led):**  
-    *Copy:* Run My Free AI Search Scan  
-    *Rationale:* Action-oriented verb (Run) paired with low friction (Free) and high specificity (AI Search Scan).
-2.  **Alternative 2 (Benefit Led):**  
-    *Copy:* Compare My Business in ChatGPT  
-    *Rationale:* Targets the curiosity of the owner to see how they perform compared to their competitors inside conversational engines.
+1.  **Alternative 1 (Curiosity and Comparison Led):**  
+    *Copy:* Run My Free ChatGPT Search Comparison  
+    *Rationale:* Entices the business owner to find out how they rank inside conversational engines compared to their local competitors.
+2.  **Alternative 2 (Direct Value Led):**  
+    *Copy:* Claim Your Suburb Search Audit  
+    *Rationale:* Offers high specificity and immediate local value without sales commitments.
 
-### Copywriting Annotations & Strategy
+### Copywriting Annotations and Strategy
 
-*   **Hero Section Construction:** The headline directly addresses the core search outcomes and New Zealand market context. The three bullet points address contract risk, jargon-free advice, and technical setup.
-*   **Clarity Over Cleverness:** We avoid flowery branding language. We state exactly what we do (traditional and AI search, ads, website design) and what we deliver.
-*   **Benefit Nesting:** In Section 5, we use the `Feature -> Benefit -> Outcome` formula. E.g., fast website loading (Feature) keeps visitors from leaving (Benefit) which results in more completed bookings (Outcome).
-*   **No Hype Claims:** We rely on specific numbers rather than empty claims of being "the absolute best" or "guaranteeing first place rankings."
+*   **Emotional Hook and Focus on Outcome:** We replace passive agency descriptions with direct statements addressing the customer booking calendar and local competition.
+*   **Plain English Rules:** We avoid buzzwords. Technical terms like generative engine indexing are explained simply by describing people asking questions to their phones or cars.
+*   **NZ Localisation:** Kiwi spellings are used throughout to match local trust expectations, and the locations are highlighted to anchor local credibility.
+*   **Contract Philosophy:** The month-to-month term is positioned as a pledge of value, giving the client commercial power and establishing trust from day one.
