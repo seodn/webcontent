@@ -2,164 +2,225 @@
 
 *Last updated: June 2026*
 
-This document defines the website site architecture, URL hierarchy, navigation spec, and keyword mapping for Digital Neighbour. To maximise ranking likelihood and secure early lead generation, the site structure is split into two strategic phases: **Phase 1: Local Christchurch Launch** and **Phase 2: National New Zealand Transition**.
+This document defines the final website site architecture, URL hierarchy, navigation spec, and keyword mapping for Digital Neighbour. Based on competitor SERP analysis and Google Business Profile verification guidelines, the homepage serves as our primary Christchurch authority hub, while dedicated core service pages target national New Zealand search queries.
 
 ---
 
-## 1. Phase 1: Local Christchurch Launch 
+## 1. Page Hierarchy and Sitemap
 
-In the initial launch phase, the homepage targets the local Christchurch market to match our Google Business Profile physical verification and capture immediate low-competition local search leads.
-
-### Page Hierarchy (Phase 1)
-
-*   Homepage (/) - *Targets: SEO Agency Christchurch*
-    *   Search Engine Optimisation Hub (/search-engine-optimisation) - *Targets: SEO Services NZ*
-        *   Local SEO (/local-seo) - *Targets: Local SEO New Zealand*
-        *   AI SEO (GEO and AEO) (/ai-seo) - *Targets: AI Search Optimisation NZ*
-        *   E-commerce SEO (/ecommerce-seo) - *Targets: Ecommerce SEO NZ*
-        *   Conversion Rate Optimisation (/cro) - *Targets: Conversion Rate Optimisation NZ*
-    *   Website Development Hub (/website-development) - *Targets: Website Design New Zealand*
-        *   E-commerce Website Development (/ecommerce-development) - *Targets: Ecommerce Web Design NZ*
-        *   WordPress Website Development (/wordpress-development) - *Targets: WordPress Web Design NZ*
-        *   Landing Page Development (/landing-page-development) - *Targets: Landing Page Design NZ*
-        *   Website Optimisation and Speed (/website-optimisation) - *Targets: Website Speed Optimisation NZ*
-    *   Google Ads Hub (/google-ads) - *Targets: Google Ads Management NZ*
-        *   Google Search Ads (/google-search-ads) - *Targets: Google Search Ads NZ*
-        *   Google Shopping Ads (/google-shopping-ads) - *Targets: Google Shopping Ads NZ*
-        *   Google Remarketing (/google-remarketing) - *Targets: Google Remarketing NZ*
-        *   Performance Max Campaigns (/performance-max) - *Targets: Performance Max Management NZ*
-        *   Landing Page Optimisation (/landing-page-optimisation) - *Targets: PPC Landing Page Optimisation*
-    *   Other Services Hub (/other-services) - *Targets: Digital Marketing Support NZ*
-        *   Call Tracking (/call-tracking) - *Targets: Call Tracking Software NZ*
-        *   Web Hosting (/web-hosting) - *Targets: Fast Web Hosting NZ*
-        *   WordPress Hosting (/wordpress-hosting) - *Targets: Managed WordPress Hosting NZ*
-        *   Reseller Hosting (/reseller-hosting) - *Targets: White Label Web Hosting NZ*
-        *   Email Hosting (/email-hosting) - *Targets: Business Email Hosting NZ*
-    *   Industries (/industries)
-        *   Small Business Marketing (/industries/small-business-marketing) - *Targets: Small Business Marketing NZ*
-        *   Local Business Marketing (/industries/local-business-marketing) - *Targets: Local Business Marketing NZ*
-        *   Automotive Marketing (/industries/automotive-marketing) - *Targets: Automotive Marketing NZ*
-        *   Window Tinting Marketing (/industries/window-tinting-marketing) - *Targets: Window Tinting Marketing NZ*
-        *   Childcare Marketing (/industries/childcare-marketing) - *Targets: Childcare centre SEO New Zealand*
-        *   Dental Marketing (/industries/dental-marketing) - *Targets: Dental Marketing NZ*
-    *   Locations (/locations)
-        *   Auckland (/location/auckland) - *Targets: SEO Agency Auckland*
-        *   Wellington (/location/wellington) - *Targets: SEO Agency Wellington*
-    *   AI Search Audit Landing (/ai-readiness-audit) - *Targets: Free SEO Audit NZ*
-    *   About Us (/about) - *Targets: Search Specialists Christchurch*
-    *   Blog (/blog)
-    *   Contact Us (/contact)
+*   Homepage (/)
+    *   Services
+        *   SEO (/seo/)
+        *   Website Design (/website-design/)
+        *   Google Ads (/google-ads/)
+    *   Locations
+        *   Auckland (/seo-auckland/)
+        *   Wellington (/seo-wellington/)
+        *   Hamilton (/seo-hamilton/)
+        *   Tauranga (/seo-tauranga/)
+    *   Industries
+        *   SEO for Dentists (/seo-for-dentists/)
+        *   SEO for Childcare Centres (/seo-for-childcare-centres/)
+        *   SEO for Builders (/seo-for-builders/)
+        *   SEO for Mechanics (/seo-for-mechanics/)
+        *   SEO for Physiotherapists (/seo-for-physiotherapists/)
+    *   Resources
+        *   SEO Pricing NZ (/seo-pricing-nz/)
+        *   SEO vs Google Ads (/seo-vs-google-ads/)
+        *   AI Search Visibility Guides (/ai-search-visibility-guides/)
+        *   Search Industry Research (/search-industry-research/)
+    *   About Us (/about/)
+    *   Contact Us (/contact/)
 
 ---
 
-## 2. Phase 2: National New Zealand Transition 
+## 2. Page Specifications and Keyword Mapping
 
-Once the website domain builds sufficient authority, the homepage transitions to target the nationwide New Zealand market. The Christchurch local targeting is migrated from the homepage to a new dedicated Christchurch location page.
+### Core Pages
 
-### Page Hierarchy (Phase 2)
+#### 1. Homepage (`/`)
+*   **Page Purpose:** Serves as the primary Christchurch local visibility hub and the destination for our local Google Business Profile listing. Introduces our full suite of services with a local focus.
+*   **Primary Keyword:** SEO Agency Christchurch
+*   **Secondary Keywords:** SEO Services Christchurch, Digital Marketing Christchurch, Website Design Christchurch, Google Ads Christchurch, AI Search Visibility Christchurch
 
-*   Homepage (/) - *Targets: SEO Agency New Zealand*
-    *   *All Hub and Spoke service pages remain identical to Phase 1.*
-    *   Locations (/locations)
-        *   Christchurch (/location/christchurch) - **[NEW IN PHASE 2]** - *Targets: SEO Agency Christchurch*
-        *   Auckland (/location/auckland) - *Targets: SEO Agency Auckland*
-        *   Wellington (/location/wellington) - *Targets: SEO Agency Wellington*
+#### 2. About Us (`/about/`)
+*   **Page Purpose:** Demonstrates E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) by detailing our team, founders, and local Christchurch roots.
+*   **Primary Keyword:** Search Specialists Christchurch
+*   **Secondary Keywords:** Digital Neighbour Team, SEO Experts New Zealand
+
+#### 3. Contact Us (`/contact/`)
+*   **Page Purpose:** The primary conversion landing page containing our Christchurch physical contact details, email forms, and phone number links.
+*   **Primary Keyword:** Christchurch SEO Contact
+*   **Secondary Keywords:** Hire SEO Specialist Christchurch, Contact Digital Neighbour
 
 ---
 
-## 3. URL Map and Keyword Table
+### Core Service Pages
 
-| Page Path | Phase 1 Primary Keyword | Phase 2 Primary Keyword | Search Intent | Priority |
-|:-|:-|:-|:-|:-|
-| `/` | SEO Agency Christchurch | SEO Agency New Zealand | Transactional | High |
-| `/ai-readiness-audit` | Free SEO Audit NZ | Free SEO Audit NZ | Transactional | High |
-| `/about` | Search Specialists Christchurch | Search Specialists Christchurch | Navigational | Medium |
-| `/contact` | Christchurch SEO Contact | New Zealand SEO Contact | Transactional | High |
-| `/search-engine-optimisation` | SEO Services NZ | SEO Services NZ | Commercial | High |
-| `/local-seo` | Local SEO New Zealand | Local SEO New Zealand | Transactional | High |
-| `/ai-seo` | AI Search Optimisation NZ | AI Search Optimisation NZ | Commercial | High |
-| `/ecommerce-seo` | Ecommerce SEO NZ | Ecommerce SEO NZ | Transactional | Medium |
-| `/cro` | Conversion Rate Optimisation NZ | Conversion Rate Optimisation NZ | Commercial | Medium |
-| `/website-development` | Website Design New Zealand | Website Design New Zealand | Commercial | High |
-| `/wordpress-development` | WordPress Web Design NZ | WordPress Web Design NZ | Transactional | High |
-| `/ecommerce-development` | Ecommerce Web Design NZ | Ecommerce Web Design NZ | Transactional | Medium |
-| `/landing-page-development` | Landing Page Design NZ | Landing Page Design NZ | Transactional | Medium |
-| `/website-optimisation` | Website Speed Optimisation NZ | Website Speed Optimisation NZ | Transactional | Medium |
-| `/google-ads` | Google Ads Management NZ | Google Ads Management NZ | Commercial | High |
-| `/google-search-ads` | Google Search Ads NZ | Google Search Ads NZ | Transactional | High |
-| `/google-shopping-ads` | Google Shopping Ads NZ | Google Shopping Ads NZ | Transactional | Medium |
-| `/google-remarketing` | Google Remarketing NZ | Google Remarketing NZ | Transactional | Low |
-| `/performance-max` | Performance Max Management NZ | Performance Max Management NZ | Transactional | Medium |
-| `/landing-page-optimisation` | PPC Landing Page Optimisation | PPC Landing Page Optimisation | Transactional | Low |
-| `/location/christchurch` | *None (Homepage serves Christchurch)* | SEO Agency Christchurch | Local Transactional | High |
-| `/location/auckland` | SEO Agency Auckland | SEO Agency Auckland | Local Transactional | High |
-| `/location/wellington` | SEO Agency Wellington | SEO Agency Wellington | Local Transactional | High |
+#### 4. SEO Service Page (`/seo/`)
+*   **Page Purpose:** Targets nationwide search optimisation terms. Focuses on local search, generative engine optimisation, and link acquisition.
+*   **Primary Keyword:** SEO Agency New Zealand
+*   **Secondary Keywords:** SEO Services New Zealand, SEO Company New Zealand, Search Engine Optimisation New Zealand
+
+#### 5. Website Design Page (`/website-design/`)
+*   **Page Purpose:** Promotes custom website development, speed optimisation, and conversion rate optimisation services nationwide.
+*   **Primary Keyword:** Website Design New Zealand
+*   **Secondary Keywords:** Web Design NZ, Custom Website Design New Zealand
+
+#### 6. Google Ads Page (`/google-ads/`)
+*   **Page Purpose:** Targets search advertising and pay-per-click management terms for businesses across New Zealand.
+*   **Primary Keyword:** Google Ads Agency NZ
+*   **Secondary Keywords:** PPC Management NZ, Google Ads Management New Zealand
+
+---
+
+### Location Pages (Organic Landing Pages)
+
+#### 7. Auckland Location Page (`/seo-auckland/`)
+*   **Page Purpose:** Captures organic search traffic in the Auckland region. Clearly states remote nationwide service delivery capabilities.
+*   **Primary Keyword:** SEO Agency Auckland
+*   **Secondary Keywords:** SEO Services Auckland, Digital Marketing Auckland
+
+#### 8. Wellington Location Page (`/seo-wellington/`)
+*   **Page Purpose:** Captures organic search traffic in the Wellington region.
+*   **Primary Keyword:** SEO Agency Wellington
+*   **Secondary Keywords:** SEO Services Wellington, Digital Marketing Wellington
+
+#### 9. Hamilton Location Page (`/seo-hamilton/`)
+*   **Page Purpose:** Captures organic search traffic in the Hamilton region.
+*   **Primary Keyword:** SEO Agency Hamilton
+*   **Secondary Keywords:** SEO Services Hamilton, Digital Marketing Hamilton
+
+#### 10. Tauranga Location Page (`/seo-tauranga/`)
+*   **Page Purpose:** Captures organic search traffic in the Tauranga region.
+*   **Primary Keyword:** SEO Agency Tauranga
+*   **Secondary Keywords:** SEO Services Tauranga, Digital Marketing Tauranga
+
+---
+
+### Industry Vertical Pages
+
+#### 11. SEO for Dentists (`/seo-for-dentists/`)
+*   **Page Purpose:** Targets dentist search queries. Showcases clinic lead generation results.
+*   **Primary Keyword:** Dental SEO New Zealand
+*   **Secondary Keywords:** Dental Marketing Christchurch, Dentist SEO NZ
+
+#### 12. SEO for Childcare Centres (`/seo-for-childcare-centres/`)
+*   **Page Purpose:** Targets early learning and childcare enrolment terms.
+*   **Primary Keyword:** Childcare Marketing NZ
+*   **Secondary Keywords:** Childcare centre SEO New Zealand, Early Learning SEO
+
+#### 13. SEO for Builders (`/seo-for-builders/`)
+*   **Page Purpose:** Targets local building and construction lead generation.
+*   **Primary Keyword:** SEO for Builders NZ
+*   **Secondary Keywords:** Builder Marketing Christchurch, Construction SEO New Zealand
+
+#### 14. SEO for Mechanics (`/seo-for-mechanics/`)
+*   **Page Purpose:** Targets automotive workshops, wrecker services, and car removal firms.
+*   **Primary Keyword:** Automotive Marketing NZ
+*   **Secondary Keywords:** Car Wrecker SEO New Zealand, Mechanic SEO Christchurch
+
+#### 15. SEO for Physiotherapists (`/seo-for-physiotherapists/`)
+*   **Page Purpose:** Targets physiotherapy clinics and medical search visibility.
+*   **Primary Keyword:** Physio Marketing NZ
+*   **Secondary Keywords:** Physiotherapist SEO New Zealand, Physio SEO Christchurch
+
+---
+
+### Resource Pages
+
+#### 16. SEO Pricing NZ (`/seo-pricing-nz/`)
+*   **Page Purpose:** Provides commercial transparency by outlining typical campaign costs.
+*   **Primary Keyword:** SEO Pricing NZ
+*   **Secondary Keywords:** Search Engine Optimisation Cost New Zealand, SEO Packages NZ
+
+#### 17. SEO vs Google Ads (`/seo-vs-google-ads/`)
+*   **Page Purpose:** Compares search engine optimisation with paid click advertising.
+*   **Primary Keyword:** SEO vs Google Ads NZ
+*   **Secondary Keywords:** Search Marketing Comparison, Google Ads vs Organic SEO
+
+#### 18. AI Search Visibility Guides (`/ai-search-visibility-guides/`)
+*   **Page Purpose:** Teaches business owners how generative engines find and recommend local brands.
+*   **Primary Keyword:** AI Search Visibility Guide
+*   **Secondary Keywords:** ChatGPT SEO NZ, Generative Engine Optimisation
+
+#### 19. Search Industry Research (`/search-industry-research/`)
+*   **Page Purpose:** Provides proprietary data and studies to secure backlinks.
+*   **Primary Keyword:** New Zealand Search Research
+*   **Secondary Keywords:** Search Industry Trends NZ, Organic Click Study
+
+---
+
+## 3. URL Map Table
+
+| Page / URL Path | Target Focus | Nav Location | Priority |
+|:-|:-|:-|:-|
+| `/` | Homepage Christchurch | Header (Logo) | High |
+| `/about/` | About Us Christchurch | Header / Footer | Medium |
+| `/contact/` | Contact Us Christchurch | Header / Footer | High |
+| `/seo/` | Core SEO New Zealand | Header Dropdown | High |
+| `/website-design/` | Website Design NZ | Header Dropdown | High |
+| `/google-ads/` | Google Ads NZ | Header Dropdown | High |
+| `/seo-auckland/` | Auckland Location | Footer | High |
+| `/seo-wellington/` | Wellington Location | Footer | High |
+| `/seo-hamilton/` | Hamilton Location | Footer | High |
+| `/seo-tauranga/` | Tauranga Location | Footer | High |
+| `/seo-for-dentists/` | Niche Dentist SEO | Footer | Medium |
+| `/seo-for-childcare-centres/` | Niche Childcare SEO | Footer | Medium |
+| `/seo-for-builders/` | Niche Builder SEO | Footer | Medium |
+| `/seo-for-mechanics/` | Niche Mechanic SEO | Footer | Medium |
+| `/seo-for-physiotherapists/` | Niche Physio SEO | Footer | Medium |
+| `/seo-pricing-nz/` | Commercial Pricing | Footer | Medium |
+| `/seo-vs-google-ads/` | Educational Comparison | Footer | Medium |
+| `/ai-search-visibility-guides/` | AI SEO / GEO Guides | Footer | Medium |
+| `/search-industry-research/` | Backlink Research Hub | Footer | Medium |
 
 ---
 
 ## 4. Navigation Spec
 
 ### Header Navigation
-*   **Logo:** links to `/`
-*   **Item 1: Search Engine Optimisation** (Dropdown Menu):
-    *   Overview / Core SEO (`/search-engine-optimisation`)
-    *   Local SEO (`/local-seo`)
-    *   AI SEO (AEO/GEO) (`/ai-seo`)
-    *   E-commerce SEO (`/ecommerce-seo`)
-    *   Conversion Rate Optimisation (`/cro`)
-*   **Item 2: Website Development** (Dropdown Menu):
-    *   WordPress Website Dev (`/wordpress-development`)
-    *   E-commerce Website Dev (`/ecommerce-development`)
-    *   Landing Page Dev (`/landing-page-development`)
-    *   Website Optimisation and Speed (`/website-optimisation`)
-*   **Item 3: Google Ads** (Dropdown Menu):
-    *   Google Search Ads (`/google-search-ads`)
-    *   Google Shopping Ads (`/google-shopping-ads`)
-    *   Performance Max Campaigns (`/performance-max`)
-    *   Google Remarketing (`/google-remarketing`)
-    *   Landing Page Optimisation (`/landing-page-optimisation`)
-*   **Item 4: Other Services** (Dropdown Menu):
-    *   Call Tracking (`/call-tracking`)
-    *   Web Hosting and WordPress Hosting (`/web-hosting`)
-    *   Reseller Hosting (`/reseller-hosting`)
-    *   Email Hosting (`/email-hosting`)
-*   **Item 5: About Us** (`/about`)
-*   **Item 6: Blog** (`/blog`)
-*   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
+*   **Logo:** (Left-aligned) links to `/`
+*   **Dropdown: Services**
+    *   Search Engine Optimisation (`/seo/`)
+    *   Website Design (`/website-design/`)
+    *   Google Ads Management (`/google-ads/`)
+*   **Link: About Us** (`/about/`)
+*   **Link: Resources** (Access to pricing, comparison, and guides)
+*   **CTA Button (Rightmost):** "Free AI Search Audit" (links to contact page)
 
 ### Footer Organisation
-*   **Column 1: Search Engine Optimisation**
-    *   Search Engine Optimisation Overview, Local SEO, AI SEO, E-commerce SEO, Conversion Rate Optimisation (CRO)
-*   **Column 2: Web Development**
-    *   WordPress Development, E-commerce Development, Landing Page Development, Website Optimisation
-*   **Column 3: Google Ads**
-    *   Google Search Ads, Google Shopping Ads, Performance Max, Google Remarketing, Landing Page Optimisation
-*   **Column 4: Industries We Support**
-    *   Small Business, Local Business, Automotive, Window Tinting, Childcare, Dental
-*   **Column 5: Company and Locations**
-    *   About Us, Blog, Contact Us
-    *   *Phase 1 Locations:* Auckland Location, Wellington Location
-    *   *Phase 2 Locations:* Christchurch Location, Auckland Location, Wellington Location
+*   **Column 1: Services**
+    *   Search Engine Optimisation Overview (`/seo/`)
+    *   Website Design and Development (`/website-design/`)
+    *   Google Ads Management (`/google-ads/`)
+*   **Column 2: Locations**
+    *   Auckland Location (`/seo-auckland/`)
+    *   Wellington Location (`/seo-wellington/`)
+    *   Hamilton Location (`/seo-hamilton/`)
+    *   Tauranga Location (`/seo-tauranga/`)
+*   **Column 3: Industries**
+    *   SEO for Dentists (`/seo-for-dentists/`)
+    *   SEO for Childcare Centres (`/seo-for-childcare-centres/`)
+    *   SEO for Builders (`/seo-for-builders/`)
+    *   SEO for Mechanics (`/seo-for-mechanics/`)
+    *   SEO for Physiotherapists (`/seo-for-physiotherapists/`)
+*   **Column 4: Resources**
+    *   SEO Pricing NZ (`/seo-pricing-nz/`)
+    *   SEO vs Google Ads (`/seo-vs-google-ads/`)
+    *   AI Search Visibility Guides (`/ai-search-visibility-guides/`)
+    *   Search Industry Research (`/search-industry-research/`)
+*   **Column 5: Company**
+    *   About Us (`/about/`)
+    *   Contact Us (`/contact/`)
 
 ---
 
 ## 5. Internal Linking Plan
 
-To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tight Hub-and-Spoke networks to maximise semantic context and pass page rank down from main hubs to specific spokes.
+To establish clear semantic context and prevent keyword cannibalisation, internal links must follow these rules:
 
-### Hub-and-Spoke Topic Clusters
-
-#### Cluster 1: Search Engine Optimisation (Core Service Hub: 60% Revenue)
-*   **Hub Page:** `/search-engine-optimisation`
-*   **Spokes:** `/local-seo`, `/ai-seo`, `/ecommerce-seo`, `/cro`.
-*   **Industry Links:** Links to `/industries/dental-marketing`, `/industries/childcare-marketing`, `/industries/window-tinting-marketing`, `/industries/small-business-marketing`.
-
-#### Cluster 2: Website Development (20% Revenue)
-*   **Hub Page:** `/website-development`
-*   **Spokes:** `/wordpress-development`, `/ecommerce-development`, `/landing-page-development`, `/website-optimisation`.
-*   **Industry Links:** Links to `/industries/automotive-marketing`, `/industries/local-business-marketing`, `/industries/small-business-marketing`.
-
-#### Cluster 3: Google Ads (10% Revenue)
-*   **Hub Page:** `/google-ads`
-*   **Spokes:** `/google-search-ads`, `/google-shopping-ads`, `/performance-max`, `/google-remarketing`, `/landing-page-optimisation`.
-*   **Industry Links:** Links to `/industries/window-tinting-marketing`, `/industries/small-business-marketing`, `/industries/local-business-marketing`.
+1.  **Homepage links to Locations and Industries:** The homepage (`/`) will link directly to `/seo-auckland/`, `/seo-wellington/`, etc., using precise city anchor text. It will link to industry pages using target niche anchors.
+2.  **Location Pages link to Core Services:** Each location page (such as `/seo-auckland/`) will link back to the national core service pages (such as `/seo/` and `/website-design/`) to pass authority.
+3.  **Industry Pages link to Core Services:** Niche pages (such as `/seo-for-dentists/`) will link back to `/seo/` and `/google-ads/` to show execution authority.
+4.  **No Christchurch Location Page:** Links pointing to Christchurch local services must resolve to the homepage (`/`).
