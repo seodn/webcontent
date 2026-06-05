@@ -2,172 +2,92 @@
 
 *Last updated: June 2026*
 
-This document defines the information architecture, URL hierarchy, navigation structure, and internal linking plan for Digital Neighbour's website. The architecture is engineered to establish topical authority, optimize for crawl speed (essential for AI search engines like ChatGPT and Gemini), and guide local NZ business owners from education to our primary hook: the free **AI Search Readiness Audit**.
+This document defines the information architecture, URL hierarchy, navigation structure, and internal linking plan for the Digital Neighbour website. The architecture is engineered to establish topical authority, optimise for crawl speed (essential for AI search engines like ChatGPT and Gemini), and guide local NZ business owners from education to our primary hook: the free **AI Search Readiness Audit**.
 
 ---
 
-## 1. Page Hierarchy (ASCII Tree)
+## 1. Page Hierarchy
 
 We maintain a flat structure to keep page retrieval fast and simple, with Search Engine Optimisation acting as our core marketing hub.
 
-```
-Homepage (/)
-├── Search Engine Optimisation Hub (/search-engine-optimisation)
-│   ├── Local SEO (/local-seo)
-│   ├── AI SEO (GEO & AEO) (/ai-seo)
-│   ├── E-commerce SEO (/ecommerce-seo)
-│   └── Conversion Rate Optimisation (/cro)
-├── Website Development Hub (/website-development)
-│   ├── E-commerce Website Development (/ecommerce-development)
-│   ├── WordPress Website Development (/wordpress-development)
-│   ├── Landing Page Development (/landing-page-development)
-│   └── Website Optimisation & Speed (/website-optimisation)
-├── Google Ads Hub (/google-ads)
-│   ├── Google Search Ads (/google-search-ads)
-│   ├── Google Shopping Ads (/google-shopping-ads)
-│   ├── Google Remarketing (/google-remarketing)
-│   ├── Performance Max Campaigns (/performance-max)
-│   └── Landing Page Optimisation (/landing-page-optimisation)
-├── Other Services Hub (/other-services)
-│   ├── Call Tracking (/call-tracking)
-│   ├── Web Hosting (/web-hosting)
-│   ├── WordPress Hosting (/wordpress-hosting)
-│   ├── Reseller Hosting (/reseller-hosting)
-│   └── Email Hosting (/email-hosting)
-├── Industries (/industries)
-│   ├── Small Business Marketing (/industries/small-business-marketing)
-│   ├── Local Business Marketing (/industries/local-business-marketing)
-│   ├── Automotive Marketing (/industries/automotive-marketing)
-│   ├── Window Tinting Marketing (/industries/window-tinting-marketing)
-│   ├── Childcare Marketing (/industries/childcare-marketing)
-│   └── Dental Marketing (/industries/dental-marketing)
-├── Locations (/locations)
-│   ├── Christchurch (/location/christchurch)
-│   └── Auckland (/location/auckland)
-├── AI Search Audit Landing (/ai-readiness-audit)
-├── About Us (/about)
-├── Blog (/blog)
-│   ├── [Category: SEO] (/blog/category/seo)
-│   ├── [Category: Google Ads] (/blog/category/google-ads)
-│   ├── [Category: AI Search] (/blog/category/ai-search)
-│   └── [Category: Web Dev] (/blog/category/web-development)
-└── Contact Us (/contact)
-```
+*   Homepage (/)
+    *   Search Engine Optimisation Hub (/search-engine-optimisation)
+        *   Local SEO (/local-seo)
+        *   AI SEO (GEO and AEO) (/ai-seo)
+        *   E-commerce SEO (/ecommerce-seo)
+        *   Conversion Rate Optimisation (/cro)
+    *   Website Development Hub (/website-development)
+        *   E-commerce Website Development (/ecommerce-development)
+        *   WordPress Website Development (/wordpress-development)
+        *   Landing Page Development (/landing-page-development)
+        *   Website Optimisation and Speed (/website-optimisation)
+    *   Google Ads Hub (/google-ads)
+        *   Google Search Ads (/google-search-ads)
+        *   Google Shopping Ads (/google-shopping-ads)
+        *   Google Remarketing (/google-remarketing)
+        *   Performance Max Campaigns (/performance-max)
+        *   Landing Page Optimisation (/landing-page-optimisation)
+    *   Other Services Hub (/other-services)
+        *   Call Tracking (/call-tracking)
+        *   Web Hosting (/web-hosting)
+        *   WordPress Hosting (/wordpress-hosting)
+        *   Reseller Hosting (/reseller-hosting)
+        *   Email Hosting (/email-hosting)
+    *   Industries (/industries)
+        *   Small Business Marketing (/industries/small-business-marketing)
+        *   Local Business Marketing (/industries/local-business-marketing)
+        *   Automotive Marketing (/industries/automotive-marketing)
+        *   Window Tinting Marketing (/industries/window-tinting-marketing)
+        *   Childcare Marketing (/industries/childcare-marketing)
+        *   Dental Marketing (/industries/dental-marketing)
+    *   Locations (/locations)
+        *   Christchurch (/location/christchurch)
+        *   Auckland (/location/auckland)
+    *   AI Search Audit Landing (/ai-readiness-audit)
+    *   About Us (/about)
+    *   Blog (/blog)
+        *   Category: SEO (/blog/category/seo)
+        *   Category: Google Ads (/blog/category/google-ads)
+        *   Category: AI Search (/blog/category/ai-search)
+        *   Category: Web Dev (/blog/category/web-development)
+    *   Contact Us (/contact)
 
 ---
 
-## 2. Visual Sitemap (Mermaid)
+## 2. Visual Sitemap Hierarchy Flow
 
-```mermaid
-graph TD
-    %% Nodes
-    HOME[Homepage /]
-    AUDIT[AI Search Audit /ai-readiness-audit]
-    ABOUT[About Us /about]
-    BLOG[Blog /blog]
-    CONTACT[Contact Us /contact]
+Our website architecture is organised into distinct service categories, industries, and locations:
 
-    %% Service Category Hubs
-    S_SEO[Search Engine Optimisation Hub /search-engine-optimisation]
-    S_DEV[Web Development Hub /website-development]
-    S_ADS[Google Ads Hub /google-ads]
-    S_OTH[Other Services Hub /other-services]
-
-    %% L2 - Search Engine Optimisation (Spokes)
-    LSEO[Local SEO /local-seo]
-    AISEO[AI SEO AEO/GEO /ai-seo]
-    ESEO[E-commerce SEO /ecommerce-seo]
-    CRO[Conversion Optimisation /cro]
-
-    %% L2 - Web Dev
-    EDEV[E-commerce Dev /ecommerce-development]
-    WDEV[WordPress Dev /wordpress-development]
-    LDEV[Landing Page Dev /landing-page-development]
-    WOPT[Website Optimisation /website-optimisation]
-
-    %% L2 - Google Ads
-    GSRCH[Search Ads /google-search-ads]
-    GSHOP[Shopping Ads /google-shopping-ads]
-    GREM[Remarketing /google-remarketing]
-    PMAX[Performance Max /performance-max]
-    LPOPT[LP Optimisation /landing-page-optimisation]
-
-    %% L2 - Other Services
-    CALL[Call Tracking /call-tracking]
-    HOST[Web Hosting /web-hosting]
-    WHOST[WordPress Hosting /wordpress-hosting]
-    RHOST[Reseller Hosting /reseller-hosting]
-    EHOST[Email Hosting /email-hosting]
-
-    %% L2 - Industries
-    IND_S[Small Business /industries/small-business-marketing]
-    IND_L[Local Business /industries/local-business-marketing]
-    IND_A[Automotive /industries/automotive-marketing]
-    IND_W[Window Tinting /industries/window-tinting-marketing]
-    IND_C[Childcare /industries/childcare-marketing]
-    IND_D[Dental /industries/dental-marketing]
-
-    %% L2 - Locations
-    LOC_CH[Christchurch /location/christchurch]
-    LOC_AK[Auckland /location/auckland]
-
-    %% Connections
-    HOME --> S_SEO
-    HOME --> S_DEV
-    HOME --> S_ADS
-    HOME --> S_OTH
-    HOME --> ABOUT
-    HOME --> BLOG
-    HOME --> CONTACT
-
-    S_SEO --> LSEO
-    S_SEO --> AISEO
-    S_SEO --> ESEO
-    S_SEO --> CRO
-
-    S_DEV --> EDEV
-    S_DEV --> WDEV
-    S_DEV --> LDEV
-    S_DEV --> WOPT
-
-    S_ADS --> GSRCH
-    S_ADS --> GSHOP
-    S_ADS --> GREM
-    S_ADS --> PMAX
-    S_ADS --> LPOPT
-
-    S_OTH --> CALL
-    S_OTH --> HOST
-    S_OTH --> WHOST
-    S_OTH --> RHOST
-    S_OTH --> EHOST
-
-    HOME --> IND_S
-    HOME --> IND_L
-    HOME --> IND_A
-    HOME --> IND_W
-    HOME --> IND_C
-    HOME --> IND_D
-
-    HOME --> LOC_CH
-    HOME --> LOC_AK
-
-    %% Directing to Primary CTA
-    S_SEO -.-> AUDIT
-    AISEO -.-> AUDIT
-    CRO -.-> AUDIT
-    WDEV -.-> AUDIT
-    GSRCH -.-> AUDIT
-    CONTACT -.-> AUDIT
-```
+1.  **Homepage** links directly to:
+    *   Search Engine Optimisation Hub
+    *   Web Development Hub
+    *   Google Ads Hub
+    *   Other Services Hub
+    *   About Us
+    *   Blog
+    *   Contact Us
+    *   All Industry Vertical landing pages
+    *   All City Location landing pages
+2.  **Service Hubs** link to their specific spoke services:
+    *   **SEO Hub** links to Local SEO, AI SEO, E-commerce SEO, and Conversion Optimisation.
+    *   **Web Development Hub** links to E-commerce Dev, WordPress Dev, Landing Page Dev, and Website Optimisation.
+    *   **Google Ads Hub** links to Search Ads, Shopping Ads, Remarketing, Performance Max, and Landing Page Optimisation.
+    *   **Other Services Hub** links to Call Tracking, Web Hosting, WordPress Hosting, Reseller Hosting, and Email Hosting.
+3.  **Primary Calls to Action** link directly to the **AI Search Audit Landing Page** from the following pages:
+    *   Search Engine Optimisation Hub
+    *   AI SEO (AEO and GEO)
+    *   Conversion Optimisation
+    *   WordPress Development
+    *   Google Search Ads
+    *   Contact Us
 
 ---
 
 ## 3. URL Map Table
 
 | Page / Service | URL Path | Parent Page | Nav Location | Priority |
-| :--- | :--- | :--- | :--- | :--- |
-| **Homepage** | `/` | — | Header (Logo) | High |
+|:-|:-|:-|:-|:-|
+| **Homepage** | `/` | None | Header (Logo) | High |
 | **AI Search Audit** | `/ai-readiness-audit` | Homepage | Header Button / CTA | High |
 | **About Us** | `/about` | Homepage | Header / Footer | Medium |
 | **Blog** | `/blog` | Homepage | Header / Footer | Medium |
@@ -181,7 +101,7 @@ graph TD
 | E-commerce Website Dev | `/ecommerce-development` | Website Development Hub | Dropdown / Footer | Medium |
 | WordPress Website Dev | `/wordpress-development` | Website Development Hub | Dropdown / Footer | High |
 | Landing Page Dev | `/landing-page-development` | Website Development Hub | Dropdown / Footer | Medium |
-| Website Optimisation & Speed | `/website-optimisation` | Website Development Hub | Dropdown / Footer | Medium |
+| Website Optimisation and Speed | `/website-optimisation` | Website Development Hub | Dropdown / Footer | Medium |
 | **Google Ads Hub** | `/google-ads` | Homepage | Header (Dropdown) | High |
 | Google Search Ads | `/google-search-ads` | Google Ads Hub | Dropdown / Footer | High |
 | Google Shopping Ads | `/google-shopping-ads` | Google Ads Hub | Dropdown / Footer | Medium |
@@ -221,7 +141,7 @@ Designed to group our services into 4 dropdown columns to avoid choices overload
     *   WordPress Website Dev (`/wordpress-development`)
     *   E-commerce Website Dev (`/ecommerce-development`)
     *   Landing Page Dev (`/landing-page-development`)
-    *   Website Optimisation & Speed (`/website-optimisation`)
+    *   Website Optimisation and Speed (`/website-optimisation`)
 *   **Item 3: Google Ads** (Dropdown Menu):
     *   Google Search Ads (`/google-search-ads`)
     *   Google Shopping Ads (`/google-shopping-ads`)
@@ -230,14 +150,14 @@ Designed to group our services into 4 dropdown columns to avoid choices overload
     *   Landing Page Optimisation (`/landing-page-optimisation`)
 *   **Item 4: Other Services** (Dropdown Menu):
     *   Call Tracking (`/call-tracking`)
-    *   Web Hosting & WordPress Hosting (`/web-hosting`)
+    *   Web Hosting and WordPress Hosting (`/web-hosting`)
     *   Reseller Hosting (`/reseller-hosting`)
     *   Email Hosting (`/email-hosting`)
 *   **Item 5: About Us** (`/about`)
 *   **Item 6: Blog** (`/blog`)
 *   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
 
-### Footer Organization
+### Footer Organisation
 Structured in columns to act as a sitemap:
 
 *   **Column 1: Search Engine Optimisation**
@@ -264,7 +184,7 @@ Structured in columns to act as a sitemap:
     *   Window Tinting Marketing (`/industries/window-tinting-marketing`)
     *   Childcare Marketing (`/industries/childcare-marketing`)
     *   Dental Marketing (`/industries/dental-marketing`)
-*   **Column 5: Company & Locations**
+*   **Column 5: Company and Locations**
     *   About Us
     *   Blog
     *   Contact Us
@@ -275,11 +195,11 @@ Structured in columns to act as a sitemap:
 
 ## 5. Internal Linking Plan
 
-To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tight Hub-and-Spoke networks to maximize semantic context and pass page rank down from main hubs to specific spokes.
+To climb to the **Top 1% of NZ Search Agencies**, we structure our pages in tight Hub-and-Spoke networks to maximise semantic context and pass page rank down from main hubs to specific spokes.
 
 ### Hub-and-Spoke Topic Clusters
 
-#### Cluster 1: Search Engine Optimisation (Core Service Hub - 60% Revenue)
+#### Cluster 1: Search Engine Optimisation (Core Service Hub: 60% Revenue)
 *   **Hub Page:** `/search-engine-optimisation`
 *   **Spokes:** `/local-seo`, `/ai-seo`, `/ecommerce-seo`, `/cro`.
 *   **Industry Links:** Links to `/industries/dental-marketing`, `/industries/childcare-marketing`, `/industries/window-tinting-marketing`, `/industries/small-business-marketing`.
