@@ -6,7 +6,7 @@ This document defines the website site architecture, URL hierarchy, navigation s
 
 ---
 
-## 1. Phase 1: Local Christchurch Launch (Months 1 to 6)
+## 1. Phase 1: Local Christchurch Launch 
 
 In the initial launch phase, the homepage targets the local Christchurch market to match our Google Business Profile physical verification and capture immediate low-competition local search leads.
 
@@ -52,7 +52,7 @@ In the initial launch phase, the homepage targets the local Christchurch market 
 
 ---
 
-## 2. Phase 2: National New Zealand Transition (Months 6+)
+## 2. Phase 2: National New Zealand Transition 
 
 Once the website domain builds sufficient authority, the homepage transitions to target the nationwide New Zealand market. The Christchurch local targeting is migrated from the homepage to a new dedicated Christchurch location page.
 
