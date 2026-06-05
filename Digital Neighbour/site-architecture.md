@@ -2,135 +2,105 @@
 
 *Last updated: June 2026*
 
-This document defines the information architecture, URL hierarchy, navigation structure, and internal linking plan for the Digital Neighbour website. The architecture is engineered to establish topical authority, optimise for crawl speed (essential for AI search engines like ChatGPT and Gemini), and guide local NZ business owners from education to our primary hook: the free **AI Search Readiness Audit**.
+This document defines the website site architecture, URL hierarchy, navigation spec, and keyword mapping for Digital Neighbour. To maximise ranking likelihood and secure early lead generation, the site structure is split into two strategic phases: **Phase 1: Local Christchurch Launch** and **Phase 2: National New Zealand Transition**.
 
 ---
 
-## 1. Page Hierarchy
+## 1. Phase 1: Local Christchurch Launch (Months 1 to 6)
 
-We maintain a flat structure to keep page retrieval fast and simple, with Search Engine Optimisation acting as our core marketing hub.
+In the initial launch phase, the homepage targets the local Christchurch market to match our Google Business Profile physical verification and capture immediate low-competition local search leads.
 
-*   Homepage (/)
-    *   Search Engine Optimisation Hub (/search-engine-optimisation)
-        *   Local SEO (/local-seo)
-        *   AI SEO (GEO and AEO) (/ai-seo)
-        *   E-commerce SEO (/ecommerce-seo)
-        *   Conversion Rate Optimisation (/cro)
-    *   Website Development Hub (/website-development)
-        *   E-commerce Website Development (/ecommerce-development)
-        *   WordPress Website Development (/wordpress-development)
-        *   Landing Page Development (/landing-page-development)
-        *   Website Optimisation and Speed (/website-optimisation)
-    *   Google Ads Hub (/google-ads)
-        *   Google Search Ads (/google-search-ads)
-        *   Google Shopping Ads (/google-shopping-ads)
-        *   Google Remarketing (/google-remarketing)
-        *   Performance Max Campaigns (/performance-max)
-        *   Landing Page Optimisation (/landing-page-optimisation)
-    *   Other Services Hub (/other-services)
-        *   Call Tracking (/call-tracking)
-        *   Web Hosting (/web-hosting)
-        *   WordPress Hosting (/wordpress-hosting)
-        *   Reseller Hosting (/reseller-hosting)
-        *   Email Hosting (/email-hosting)
+### Page Hierarchy (Phase 1)
+
+*   Homepage (/) - *Targets: SEO Agency Christchurch*
+    *   Search Engine Optimisation Hub (/search-engine-optimisation) - *Targets: SEO Services NZ*
+        *   Local SEO (/local-seo) - *Targets: Local SEO New Zealand*
+        *   AI SEO (GEO and AEO) (/ai-seo) - *Targets: AI Search Optimisation NZ*
+        *   E-commerce SEO (/ecommerce-seo) - *Targets: Ecommerce SEO NZ*
+        *   Conversion Rate Optimisation (/cro) - *Targets: Conversion Rate Optimisation NZ*
+    *   Website Development Hub (/website-development) - *Targets: Website Design New Zealand*
+        *   E-commerce Website Development (/ecommerce-development) - *Targets: Ecommerce Web Design NZ*
+        *   WordPress Website Development (/wordpress-development) - *Targets: WordPress Web Design NZ*
+        *   Landing Page Development (/landing-page-development) - *Targets: Landing Page Design NZ*
+        *   Website Optimisation and Speed (/website-optimisation) - *Targets: Website Speed Optimisation NZ*
+    *   Google Ads Hub (/google-ads) - *Targets: Google Ads Management NZ*
+        *   Google Search Ads (/google-search-ads) - *Targets: Google Search Ads NZ*
+        *   Google Shopping Ads (/google-shopping-ads) - *Targets: Google Shopping Ads NZ*
+        *   Google Remarketing (/google-remarketing) - *Targets: Google Remarketing NZ*
+        *   Performance Max Campaigns (/performance-max) - *Targets: Performance Max Management NZ*
+        *   Landing Page Optimisation (/landing-page-optimisation) - *Targets: PPC Landing Page Optimisation*
+    *   Other Services Hub (/other-services) - *Targets: Digital Marketing Support NZ*
+        *   Call Tracking (/call-tracking) - *Targets: Call Tracking Software NZ*
+        *   Web Hosting (/web-hosting) - *Targets: Fast Web Hosting NZ*
+        *   WordPress Hosting (/wordpress-hosting) - *Targets: Managed WordPress Hosting NZ*
+        *   Reseller Hosting (/reseller-hosting) - *Targets: White Label Web Hosting NZ*
+        *   Email Hosting (/email-hosting) - *Targets: Business Email Hosting NZ*
     *   Industries (/industries)
-        *   Small Business Marketing (/industries/small-business-marketing)
-        *   Local Business Marketing (/industries/local-business-marketing)
-        *   Automotive Marketing (/industries/automotive-marketing)
-        *   Window Tinting Marketing (/industries/window-tinting-marketing)
-        *   Childcare Marketing (/industries/childcare-marketing)
-        *   Dental Marketing (/industries/dental-marketing)
+        *   Small Business Marketing (/industries/small-business-marketing) - *Targets: Small Business Marketing NZ*
+        *   Local Business Marketing (/industries/local-business-marketing) - *Targets: Local Business Marketing NZ*
+        *   Automotive Marketing (/industries/automotive-marketing) - *Targets: Automotive Marketing NZ*
+        *   Window Tinting Marketing (/industries/window-tinting-marketing) - *Targets: Window Tinting Marketing NZ*
+        *   Childcare Marketing (/industries/childcare-marketing) - *Targets: Childcare centre SEO New Zealand*
+        *   Dental Marketing (/industries/dental-marketing) - *Targets: Dental Marketing NZ*
     *   Locations (/locations)
-        *   Christchurch (/location/christchurch)
-        *   Auckland (/location/auckland)
-    *   AI Search Audit Landing (/ai-readiness-audit)
-    *   About Us (/about)
+        *   Auckland (/location/auckland) - *Targets: SEO Agency Auckland*
+        *   Wellington (/location/wellington) - *Targets: SEO Agency Wellington*
+    *   AI Search Audit Landing (/ai-readiness-audit) - *Targets: Free SEO Audit NZ*
+    *   About Us (/about) - *Targets: Search Specialists Christchurch*
     *   Blog (/blog)
-        *   Category: SEO (/blog/category/seo)
-        *   Category: Google Ads (/blog/category/google-ads)
-        *   Category: AI Search (/blog/category/ai-search)
-        *   Category: Web Dev (/blog/category/web-development)
     *   Contact Us (/contact)
 
 ---
 
-## 2. Visual Sitemap Hierarchy Flow
+## 2. Phase 2: National New Zealand Transition (Months 6+)
 
-Our website architecture is organised into distinct service categories, industries, and locations:
+Once the website domain builds sufficient authority, the homepage transitions to target the nationwide New Zealand market. The Christchurch local targeting is migrated from the homepage to a new dedicated Christchurch location page.
 
-1.  **Homepage** links directly to:
-    *   Search Engine Optimisation Hub
-    *   Web Development Hub
-    *   Google Ads Hub
-    *   Other Services Hub
-    *   About Us
-    *   Blog
-    *   Contact Us
-    *   All Industry Vertical landing pages
-    *   All City Location landing pages
-2.  **Service Hubs** link to their specific spoke services:
-    *   **SEO Hub** links to Local SEO, AI SEO, E-commerce SEO, and Conversion Optimisation.
-    *   **Web Development Hub** links to E-commerce Dev, WordPress Dev, Landing Page Dev, and Website Optimisation.
-    *   **Google Ads Hub** links to Search Ads, Shopping Ads, Remarketing, Performance Max, and Landing Page Optimisation.
-    *   **Other Services Hub** links to Call Tracking, Web Hosting, WordPress Hosting, Reseller Hosting, and Email Hosting.
-3.  **Primary Calls to Action** link directly to the **AI Search Audit Landing Page** from the following pages:
-    *   Search Engine Optimisation Hub
-    *   AI SEO (AEO and GEO)
-    *   Conversion Optimisation
-    *   WordPress Development
-    *   Google Search Ads
-    *   Contact Us
+### Page Hierarchy (Phase 2)
+
+*   Homepage (/) - *Targets: SEO Agency New Zealand*
+    *   *All Hub and Spoke service pages remain identical to Phase 1.*
+    *   Locations (/locations)
+        *   Christchurch (/location/christchurch) - **[NEW IN PHASE 2]** - *Targets: SEO Agency Christchurch*
+        *   Auckland (/location/auckland) - *Targets: SEO Agency Auckland*
+        *   Wellington (/location/wellington) - *Targets: SEO Agency Wellington*
 
 ---
 
-## 3. URL Map Table
+## 3. URL Map and Keyword Table
 
-| Page / Service | URL Path | Parent Page | Nav Location | Priority |
+| Page Path | Phase 1 Primary Keyword | Phase 2 Primary Keyword | Search Intent | Priority |
 |:-|:-|:-|:-|:-|
-| **Homepage** | `/` | None | Header (Logo) | High |
-| **AI Search Audit** | `/ai-readiness-audit` | Homepage | Header Button / CTA | High |
-| **About Us** | `/about` | Homepage | Header / Footer | Medium |
-| **Blog** | `/blog` | Homepage | Header / Footer | Medium |
-| **Contact Us** | `/contact` | Homepage | Header / Footer | High |
-| **Search Engine Optimisation Hub** | `/search-engine-optimisation` | Homepage | Header (Dropdown) | High |
-| Local SEO | `/local-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
-| AI SEO (AEO / GEO) | `/ai-seo` | Search Engine Optimisation Hub | Dropdown / Footer | High |
-| E-commerce SEO | `/ecommerce-seo` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
-| Conversion Rate Optimisation | `/cro` | Search Engine Optimisation Hub | Dropdown / Footer | Medium |
-| **Website Development Hub** | `/website-development` | Homepage | Header (Dropdown) | High |
-| E-commerce Website Dev | `/ecommerce-development` | Website Development Hub | Dropdown / Footer | Medium |
-| WordPress Website Dev | `/wordpress-development` | Website Development Hub | Dropdown / Footer | High |
-| Landing Page Dev | `/landing-page-development` | Website Development Hub | Dropdown / Footer | Medium |
-| Website Optimisation and Speed | `/website-optimisation` | Website Development Hub | Dropdown / Footer | Medium |
-| **Google Ads Hub** | `/google-ads` | Homepage | Header (Dropdown) | High |
-| Google Search Ads | `/google-search-ads` | Google Ads Hub | Dropdown / Footer | High |
-| Google Shopping Ads | `/google-shopping-ads` | Google Ads Hub | Dropdown / Footer | Medium |
-| Google Remarketing | `/google-remarketing` | Google Ads Hub | Dropdown / Footer | Low |
-| Performance Max Campaigns | `/performance-max` | Google Ads Hub | Dropdown / Footer | Medium |
-| Landing Page Optimisation | `/landing-page-optimisation` | Google Ads Hub | Dropdown / Footer | Low |
-| **Other Services Hub** | `/other-services` | Homepage | Header (Dropdown) | Medium |
-| Call Tracking | `/call-tracking` | Other Services Hub | Dropdown / Footer | Medium |
-| Web Hosting | `/web-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| WordPress Hosting | `/wordpress-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| Reseller Hosting | `/reseller-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| Email Hosting | `/email-hosting` | Other Services Hub | Dropdown / Footer | Low |
-| **Small Business Marketing** | `/industries/small-business-marketing` | Homepage | Footer | Medium |
-| **Local Business Marketing** | `/industries/local-business-marketing` | Homepage | Footer | Medium |
-| **Automotive Marketing** | `/industries/automotive-marketing` | Homepage | Footer | Medium |
-| **Window Tinting Marketing** | `/industries/window-tinting-marketing` | Homepage | Footer | Medium |
-| **Childcare Marketing** | `/industries/childcare-marketing` | Homepage | Footer | Medium |
-| **Dental Marketing** | `/industries/dental-marketing` | Homepage | Footer | Medium |
-| **Christchurch Location** | `/location/christchurch` | Homepage | Footer | High |
-| **Auckland Location** | `/location/auckland` | Homepage | Footer | High |
+| `/` | SEO Agency Christchurch | SEO Agency New Zealand | Transactional | High |
+| `/ai-readiness-audit` | Free SEO Audit NZ | Free SEO Audit NZ | Transactional | High |
+| `/about` | Search Specialists Christchurch | Search Specialists Christchurch | Navigational | Medium |
+| `/contact` | Christchurch SEO Contact | New Zealand SEO Contact | Transactional | High |
+| `/search-engine-optimisation` | SEO Services NZ | SEO Services NZ | Commercial | High |
+| `/local-seo` | Local SEO New Zealand | Local SEO New Zealand | Transactional | High |
+| `/ai-seo` | AI Search Optimisation NZ | AI Search Optimisation NZ | Commercial | High |
+| `/ecommerce-seo` | Ecommerce SEO NZ | Ecommerce SEO NZ | Transactional | Medium |
+| `/cro` | Conversion Rate Optimisation NZ | Conversion Rate Optimisation NZ | Commercial | Medium |
+| `/website-development` | Website Design New Zealand | Website Design New Zealand | Commercial | High |
+| `/wordpress-development` | WordPress Web Design NZ | WordPress Web Design NZ | Transactional | High |
+| `/ecommerce-development` | Ecommerce Web Design NZ | Ecommerce Web Design NZ | Transactional | Medium |
+| `/landing-page-development` | Landing Page Design NZ | Landing Page Design NZ | Transactional | Medium |
+| `/website-optimisation` | Website Speed Optimisation NZ | Website Speed Optimisation NZ | Transactional | Medium |
+| `/google-ads` | Google Ads Management NZ | Google Ads Management NZ | Commercial | High |
+| `/google-search-ads` | Google Search Ads NZ | Google Search Ads NZ | Transactional | High |
+| `/google-shopping-ads` | Google Shopping Ads NZ | Google Shopping Ads NZ | Transactional | Medium |
+| `/google-remarketing` | Google Remarketing NZ | Google Remarketing NZ | Transactional | Low |
+| `/performance-max` | Performance Max Management NZ | Performance Max Management NZ | Transactional | Medium |
+| `/landing-page-optimisation` | PPC Landing Page Optimisation | PPC Landing Page Optimisation | Transactional | Low |
+| `/location/christchurch` | *None (Homepage serves Christchurch)* | SEO Agency Christchurch | Local Transactional | High |
+| `/location/auckland` | SEO Agency Auckland | SEO Agency Auckland | Local Transactional | High |
+| `/location/wellington` | SEO Agency Wellington | SEO Agency Wellington | Local Transactional | High |
 
 ---
 
 ## 4. Navigation Spec
 
 ### Header Navigation
-Designed to group our services into 4 dropdown columns to avoid choices overload.
-
-*   **Logo:** (Left-aligned) links to `/`
+*   **Logo:** links to `/`
 *   **Item 1: Search Engine Optimisation** (Dropdown Menu):
     *   Overview / Core SEO (`/search-engine-optimisation`)
     *   Local SEO (`/local-seo`)
@@ -158,38 +128,18 @@ Designed to group our services into 4 dropdown columns to avoid choices overload
 *   **CTA Button (Rightmost):** "Free AI Search Audit" (links to `/ai-readiness-audit`)
 
 ### Footer Organisation
-Structured in columns to act as a sitemap:
-
 *   **Column 1: Search Engine Optimisation**
-    *   Search Engine Optimisation Overview
-    *   Local SEO
-    *   AI SEO (AEO / GEO)
-    *   E-commerce SEO
-    *   Conversion Rate Optimisation (CRO)
+    *   Search Engine Optimisation Overview, Local SEO, AI SEO, E-commerce SEO, Conversion Rate Optimisation (CRO)
 *   **Column 2: Web Development**
-    *   WordPress Development
-    *   E-commerce Development
-    *   Landing Page Development
-    *   Website Optimisation
+    *   WordPress Development, E-commerce Development, Landing Page Development, Website Optimisation
 *   **Column 3: Google Ads**
-    *   Google Search Ads
-    *   Google Shopping Ads
-    *   Performance Max
-    *   Google Remarketing
-    *   Landing Page Optimisation
+    *   Google Search Ads, Google Shopping Ads, Performance Max, Google Remarketing, Landing Page Optimisation
 *   **Column 4: Industries We Support**
-    *   Small Business Marketing (`/industries/small-business-marketing`)
-    *   Local Business Marketing (`/industries/local-business-marketing`)
-    *   Automotive Marketing (`/industries/automotive-marketing`)
-    *   Window Tinting Marketing (`/industries/window-tinting-marketing`)
-    *   Childcare Marketing (`/industries/childcare-marketing`)
-    *   Dental Marketing (`/industries/dental-marketing`)
+    *   Small Business, Local Business, Automotive, Window Tinting, Childcare, Dental
 *   **Column 5: Company and Locations**
-    *   About Us
-    *   Blog
-    *   Contact Us
-    *   Christchurch Location (`/location/christchurch`)
-    *   Auckland Location (`/location/auckland`)
+    *   About Us, Blog, Contact Us
+    *   *Phase 1 Locations:* Auckland Location, Wellington Location
+    *   *Phase 2 Locations:* Christchurch Location, Auckland Location, Wellington Location
 
 ---
 
